@@ -1,0 +1,20 @@
+{
+  "schema": "shiomi_assets_v1",
+  "version": "0.2.0",
+  "baseUrl": "./",
+  "assets": {
+    "map.city.base": {
+      "type": "image",
+      "src": "assets/map/shiomi-city.webp",
+      "mime": "image/webp",
+      "bytes": 6256578,
+      "sha256": "7dd9569a4c9cf99826061486cdd99146179f88930185a371f6e5e27002d4dba7",
+      "loading": "on-demand",
+      "cache": "immutable"
+    }
+  },
+  "collections": {
+    "regions": {},
+    "characters": {}
+  }
+}
