@@ -1,6 +1,6 @@
 {
   "schema": "shiomi_assets_v1",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "baseUrl": "./",
   "assets": {
     "map.city.base": {
@@ -11,10 +11,514 @@
       "sha256": "7dd9569a4c9cf99826061486cdd99146179f88930185a371f6e5e27002d4dba7",
       "loading": "on-demand",
       "cache": "immutable"
+    },
+    "cg.region.tsurumi.01": {
+      "type": "image",
+      "src": "assets/cg/regions/tsurumi/01.png",
+      "mime": "image/png",
+      "bytes": 2570993,
+      "sha256": "1cb3575e60ce8ce7c3393ecb4d854977fceab8de4bcba7bda76290d03d672bf1",
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.region.tsurumi.02": {
+      "type": "image",
+      "src": "assets/cg/regions/tsurumi/02.png",
+      "mime": "image/png",
+      "bytes": 2722181,
+      "sha256": "f2de6030e9d774a52d5adf8eac3d9cf768ebbc30da5ec60dc26959174a80b38b",
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.region.tsurumi.03": {
+      "type": "image",
+      "src": "assets/cg/regions/tsurumi/03.png",
+      "mime": "image/png",
+      "bytes": 2393520,
+      "sha256": "819784a7550d4c0c97de67b5d69160b7de1ca2c9f9235513fefac841e9bfe3b7",
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.place.cafe_shiosai.01": {
+      "type": "image",
+      "src": "assets/cg/places/cafe_shiosai/01.png",
+      "mime": "image/png",
+      "bytes": 2495215,
+      "sha256": "2f0c332dd3153d3fb2de00b46e2e32e94d09ec02ef0b87aa3e84cc7bf3497363",
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.place.cafe_shiosai.02": {
+      "type": "image",
+      "src": "assets/cg/places/cafe_shiosai/02.png",
+      "mime": "image/png",
+      "bytes": 1997622,
+      "sha256": "0d5036b9a7a370fa56e74760f3132350724c4a32d98667f7e5b308436e50dd7a",
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.place.cafe_shiosai.03": {
+      "type": "image",
+      "src": "assets/cg/places/cafe_shiosai/03.png",
+      "mime": "image/png",
+      "bytes": 2387619,
+      "sha256": "afcce7de4c97d990cc49f5ab0bf58c9cfacbbb2f4f8e4b03623d932788d39bfc",
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.place.kawakaze_so.01": {
+      "type": "image",
+      "src": "assets/cg/places/kawakaze_so/01.png",
+      "mime": "image/png",
+      "bytes": 2251755,
+      "sha256": "2c14e2ce42a7365a50457f3e891b119e161eb71cd74411b169d06a89caebc382",
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.place.kawakaze_so.02": {
+      "type": "image",
+      "src": "assets/cg/places/kawakaze_so/02.png",
+      "mime": "image/png",
+      "bytes": 2191970,
+      "sha256": "dfc4245381feab6a8220afab5848f0751d065284ecaa566fcb61a49d67d329da",
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.place.kawakaze_so.03": {
+      "type": "image",
+      "src": "assets/cg/places/kawakaze_so/03.png",
+      "mime": "image/png",
+      "bytes": 2322677,
+      "sha256": "68f253a5b28e7126d63e9633e3f8ea5915f760484460aa0eea4446a291343b73",
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.place.kawakaze_so.04": {
+      "type": "image",
+      "src": "assets/cg/places/kawakaze_so/04.png",
+      "mime": "image/png",
+      "bytes": 2021096,
+      "sha256": "714386e1d733ea67ca8db806dbd27fc5c7b9a787b7f5575749b9125832f3a335",
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.place.restaurant_tsukishiro.01": {
+      "type": "image",
+      "src": "assets/cg/places/restaurant_tsukishiro/01.png",
+      "mime": "image/png",
+      "bytes": 2410569,
+      "sha256": "1bb0c233840351c1ebea4ed56cee2d799ff10c6ea22aed47d05a074800be59cc",
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.place.restaurant_tsukishiro.02": {
+      "type": "image",
+      "src": "assets/cg/places/restaurant_tsukishiro/02.png",
+      "mime": "image/png",
+      "bytes": 2075636,
+      "sha256": "6282e19821f9ee7267520be5fc16f379465b083262f3c905eb95556bc4b9b4f2",
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.place.restaurant_tsukishiro.03": {
+      "type": "image",
+      "src": "assets/cg/places/restaurant_tsukishiro/03.png",
+      "mime": "image/png",
+      "bytes": 2095064,
+      "sha256": "e7c44d94d80a4ebfcbf07269ad6369018342e7d9472473d10e021eb4ba578752",
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.place.matsunaga_camera.01": {
+      "type": "image",
+      "src": "assets/cg/places/matsunaga_camera/01.png",
+      "mime": "image/png",
+      "bytes": 2538179,
+      "sha256": "7cb85eae4ecb593dad82b2c158b7b173a9a8605031f1e7a3784395d76b559272",
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.place.matsunaga_camera.02": {
+      "type": "image",
+      "src": "assets/cg/places/matsunaga_camera/02.png",
+      "mime": "image/png",
+      "bytes": 2900098,
+      "sha256": "a374fdaf3af49bbbfd8dbbff84a5845d4fd37b65d54bfb05f082784ca0f855e3",
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.place.matsunaga_camera.03": {
+      "type": "image",
+      "src": "assets/cg/places/matsunaga_camera/03.png",
+      "mime": "image/png",
+      "bytes": 2461580,
+      "sha256": "9ce49f479972fce40f77d830ca3ae96589fb074e643bc6d4eab7d61c28b1226a",
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.place.matsukaze_yu.01": {
+      "type": "image",
+      "src": "assets/cg/places/matsukaze_yu/01.png",
+      "mime": "image/png",
+      "bytes": 2762777,
+      "sha256": "05a54180ea13e9533cc8e527dbf425446f4fb1e209b12f2b12aa87b48fc66475",
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.place.matsukaze_yu.02": {
+      "type": "image",
+      "src": "assets/cg/places/matsukaze_yu/02.png",
+      "mime": "image/png",
+      "bytes": 2377623,
+      "sha256": "4d995bde923cd611a06accfd71e6d5118794d2967e31ab2a01d2a5d5bfd60318",
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.place.matsukaze_yu.03": {
+      "type": "image",
+      "src": "assets/cg/places/matsukaze_yu/03.png",
+      "mime": "image/png",
+      "bytes": 2559819,
+      "sha256": "81ebbb2e237ef16d153298339038fb8a79d30a4ded45234db819a03df20a4348",
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.place.matsukaze_yu.04": {
+      "type": "image",
+      "src": "assets/cg/places/matsukaze_yu/04.png",
+      "mime": "image/png",
+      "bytes": 2316252,
+      "sha256": "04f045badd04c0446499c4c2e9f461620786416f4076b1ce6f8e6cbb698057ea",
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.place.morikawa_barber.01": {
+      "type": "image",
+      "src": "assets/cg/places/morikawa_barber/01.png",
+      "mime": "image/png",
+      "bytes": 2446624,
+      "sha256": "8f3b54827c05418345cfa27d2e16cbde1f650fcd9f2a1533c6d642d79ca285dc",
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.place.morikawa_barber.02": {
+      "type": "image",
+      "src": "assets/cg/places/morikawa_barber/02.png",
+      "mime": "image/png",
+      "bytes": 2553300,
+      "sha256": "3b47e9740c185d00de2ce2943f0c7b718abf913312d50a5804d6e0c02aa266b0",
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.place.morikawa_barber.03": {
+      "type": "image",
+      "src": "assets/cg/places/morikawa_barber/03.png",
+      "mime": "image/png",
+      "bytes": 2087250,
+      "sha256": "71c2b2c1d32df20e58a725894c877523124e9bd4d2199cea86f5d6851a93cb30",
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.place.soma_clinic.01": {
+      "type": "image",
+      "src": "assets/cg/places/soma_clinic/01.png",
+      "mime": "image/png",
+      "bytes": 2755872,
+      "sha256": "8069badd431c2e6345f9b2dfa8bf17c671fc19966215dd2b7669fd08351927f5",
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.place.soma_clinic.02": {
+      "type": "image",
+      "src": "assets/cg/places/soma_clinic/02.png",
+      "mime": "image/png",
+      "bytes": 2140423,
+      "sha256": "687692fd94b2ee7853e885287c8d20d1ac825fed8527a30a3491f39df3b56123",
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.place.soma_clinic.03": {
+      "type": "image",
+      "src": "assets/cg/places/soma_clinic/03.png",
+      "mime": "image/png",
+      "bytes": 2267859,
+      "sha256": "b3d594aa9b71ee2997d6c78595d3cf333cb0c3360dc3102dd683d9ca5957c62d",
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.place.soma_clinic.04": {
+      "type": "image",
+      "src": "assets/cg/places/soma_clinic/04.png",
+      "mime": "image/png",
+      "bytes": 2208786,
+      "sha256": "7bb378a27161c2fd36d441f4898ef53ca500bee21dc8e4abb32ed14f6cb36811",
+      "loading": "on-demand",
+      "cache": "immutable"
     }
   },
   "collections": {
-    "regions": {},
+    "regions": {
+      "tsurumi": {
+        "id": "tsurumi",
+        "nameZh": "鹤见町",
+        "nameJa": "鶴見町",
+        "descriptionZh": "汐见川沿岸的旧生活街区。木造与砖造建筑经过多次现代化改修，旧街屋、居民巷道、河岸设施和后加管线共同构成这一地区的日常景观。",
+        "descriptionJa": "汐見川沿いの古い生活街区。木造・煉瓦造の建物に改修が重ねられ、古い町家、生活路地、河岸設備、後付け配管が日常の景観を形づくる。",
+        "cover": {
+          "asset": "cg.region.tsurumi.01"
+        },
+        "gallery": [
+          {
+            "id": "01",
+            "asset": "cg.region.tsurumi.01",
+            "labelZh": "区域总览",
+            "labelJa": "地区全景"
+          },
+          {
+            "id": "02",
+            "asset": "cg.region.tsurumi.02",
+            "labelZh": "生活街",
+            "labelJa": "生活通り"
+          },
+          {
+            "id": "03",
+            "asset": "cg.region.tsurumi.03",
+            "labelZh": "河岸后巷",
+            "labelJa": "河岸裏路地"
+          }
+        ]
+      }
+    },
+    "places": {
+      "cafe_shiosai": {
+        "id": "cafe_shiosai",
+        "nameZh": "喫茶「潮声」",
+        "nameJa": "喫茶「潮声」",
+        "descriptionZh": "鹤见町临近汐见川的老式咖啡馆。店面面向河岸生活街，内部由主要客席、吧台与临河座席组成。",
+        "descriptionJa": "鶴見町の汐見川近くにある昔ながらの喫茶店。河岸の生活通りに面し、店内は主客席、カウンター、川沿いの席で構成される。",
+        "cover": {
+          "asset": "cg.place.cafe_shiosai.01"
+        },
+        "gallery": [
+          {
+            "id": "01",
+            "asset": "cg.place.cafe_shiosai.01",
+            "labelZh": "外观·河岸店面",
+            "labelJa": "外観・河岸側店舗"
+          },
+          {
+            "id": "02",
+            "asset": "cg.place.cafe_shiosai.02",
+            "labelZh": "内部·主要客席与吧台",
+            "labelJa": "店内・主客席とカウンター"
+          },
+          {
+            "id": "03",
+            "asset": "cg.place.cafe_shiosai.03",
+            "labelZh": "内部·临河座席",
+            "labelJa": "店内・川沿い席"
+          }
+        ]
+      },
+      "kawakaze_so": {
+        "id": "kawakaze_so",
+        "nameZh": "川风庄",
+        "nameJa": "川風荘",
+        "descriptionZh": "位于鹤见町靠近汐见川的内巷，是带有公共玄关、楼梯和生活共用空间的旧式集合住宅。",
+        "descriptionJa": "鶴見町の汐見川近くの路地にある古い集合住宅。共同玄関、階段、生活共用部を備える。",
+        "cover": {
+          "asset": "cg.place.kawakaze_so.01"
+        },
+        "gallery": [
+          {
+            "id": "01",
+            "asset": "cg.place.kawakaze_so.01",
+            "labelZh": "外观·内巷入口",
+            "labelJa": "外観・路地側入口"
+          },
+          {
+            "id": "02",
+            "asset": "cg.place.kawakaze_so.02",
+            "labelZh": "内部·玄关与楼梯",
+            "labelJa": "内部・玄関と階段"
+          },
+          {
+            "id": "03",
+            "asset": "cg.place.kawakaze_so.03",
+            "labelZh": "内部·公共洗衣与走廊",
+            "labelJa": "内部・共同洗濯場と廊下"
+          },
+          {
+            "id": "04",
+            "asset": "cg.place.kawakaze_so.04",
+            "labelZh": "内部·普通住户房间",
+            "labelJa": "内部・一般居室"
+          }
+        ]
+      },
+      "restaurant_tsukishiro": {
+        "id": "restaurant_tsukishiro",
+        "nameZh": "料理店「月白」",
+        "nameJa": "料理店「月白」",
+        "descriptionZh": "位于鹤见町较安静生活街的和式料理店。客席、吧台与后厨形成紧凑而完整的营业空间。",
+        "descriptionJa": "鶴見町の静かな生活通りにある和食料理店。客席、カウンター、厨房がコンパクトにまとまった営業空間をつくる。",
+        "cover": {
+          "asset": "cg.place.restaurant_tsukishiro.01"
+        },
+        "gallery": [
+          {
+            "id": "01",
+            "asset": "cg.place.restaurant_tsukishiro.01",
+            "labelZh": "外观·生活街店面",
+            "labelJa": "外観・生活通り側店舗"
+          },
+          {
+            "id": "02",
+            "asset": "cg.place.restaurant_tsukishiro.02",
+            "labelZh": "内部·主要客席",
+            "labelJa": "店内・主客席"
+          },
+          {
+            "id": "03",
+            "asset": "cg.place.restaurant_tsukishiro.03",
+            "labelZh": "内部·后厨与备菜",
+            "labelJa": "内部・厨房と仕込み"
+          }
+        ]
+      },
+      "matsunaga_camera": {
+        "id": "matsunaga_camera",
+        "nameZh": "松永写真器械店",
+        "nameJa": "松永写真器械店",
+        "descriptionZh": "鹤见町经营多年的写真器材与精密器械店，前场销售相机与光学器材，后场承担维修与精密调整。",
+        "descriptionJa": "鶴見町で長く営業する写真機材・精密機器店。売場ではカメラや光学機器を扱い、奥では修理と精密調整を行う。",
+        "cover": {
+          "asset": "cg.place.matsunaga_camera.01"
+        },
+        "gallery": [
+          {
+            "id": "01",
+            "asset": "cg.place.matsunaga_camera.01",
+            "labelZh": "外观·生活街店面",
+            "labelJa": "外観・生活通り側店舗"
+          },
+          {
+            "id": "02",
+            "asset": "cg.place.matsunaga_camera.02",
+            "labelZh": "内部·销售陈列区",
+            "labelJa": "店内・販売展示区"
+          },
+          {
+            "id": "03",
+            "asset": "cg.place.matsunaga_camera.03",
+            "labelZh": "内部·维修工房",
+            "labelJa": "内部・修理工房"
+          }
+        ]
+      },
+      "matsukaze_yu": {
+        "id": "matsukaze_yu",
+        "nameZh": "松风汤",
+        "nameJa": "松風湯",
+        "descriptionZh": "鹤见町的老式公共澡堂。入口后由番台分流至男汤与女汤，浴室保留传统瓷砖、水池与现代化热水管线。",
+        "descriptionJa": "鶴見町の昔ながらの銭湯。入口の番台から男湯と女湯に分かれ、浴室には伝統的なタイルや浴槽と改修された給湯配管が残る。",
+        "cover": {
+          "asset": "cg.place.matsukaze_yu.01"
+        },
+        "gallery": [
+          {
+            "id": "01",
+            "asset": "cg.place.matsukaze_yu.01",
+            "labelZh": "外观·公共澡堂正面",
+            "labelJa": "外観・銭湯正面"
+          },
+          {
+            "id": "02",
+            "asset": "cg.place.matsukaze_yu.02",
+            "labelZh": "内部·番台与男女分流",
+            "labelJa": "内部・番台と男女分流"
+          },
+          {
+            "id": "03",
+            "asset": "cg.place.matsukaze_yu.03",
+            "labelZh": "内部·男汤",
+            "labelJa": "内部・男湯"
+          },
+          {
+            "id": "04",
+            "asset": "cg.place.matsukaze_yu.04",
+            "labelZh": "内部·女汤",
+            "labelJa": "内部・女湯"
+          }
+        ]
+      },
+      "morikawa_barber": {
+        "id": "morikawa_barber",
+        "nameZh": "森川理发店",
+        "nameJa": "森川理髪店",
+        "descriptionZh": "位于鹤见町河岸街角的老式理发店，由主要理发作业区、候客区与清洗区组成。",
+        "descriptionJa": "鶴見町の河岸角にある昔ながらの理髪店。主な理髪作業区、待合、洗髪区で構成される。",
+        "cover": {
+          "asset": "cg.place.morikawa_barber.01"
+        },
+        "gallery": [
+          {
+            "id": "01",
+            "asset": "cg.place.morikawa_barber.01",
+            "labelZh": "外观·河岸街角",
+            "labelJa": "外観・河岸の街角"
+          },
+          {
+            "id": "02",
+            "asset": "cg.place.morikawa_barber.02",
+            "labelZh": "内部·理发作业区",
+            "labelJa": "店内・理髪作業区"
+          },
+          {
+            "id": "03",
+            "asset": "cg.place.morikawa_barber.03",
+            "labelZh": "内部·候客与清洗区",
+            "labelJa": "店内・待合と洗髪区"
+          }
+        ]
+      },
+      "soma_clinic": {
+        "id": "soma_clinic",
+        "nameZh": "相马诊所",
+        "nameJa": "相馬診療所",
+        "descriptionZh": "位于鹤见町与河岸丘陵区交界住宅街的社区诊所，承担附近居民的普通初诊、长期随访与简单处理。",
+        "descriptionJa": "鶴見町と河岸丘陵区の境にある住宅街の地域診療所。近隣住民の一般診療、継続診療、簡単な処置を担う。",
+        "cover": {
+          "asset": "cg.place.soma_clinic.01"
+        },
+        "gallery": [
+          {
+            "id": "01",
+            "asset": "cg.place.soma_clinic.01",
+            "labelZh": "外观·丘陵交界住宅街",
+            "labelJa": "外観・丘陵境界の住宅街"
+          },
+          {
+            "id": "02",
+            "asset": "cg.place.soma_clinic.02",
+            "labelZh": "内部·受付与候诊区",
+            "labelJa": "内部・受付と待合"
+          },
+          {
+            "id": "03",
+            "asset": "cg.place.soma_clinic.03",
+            "labelZh": "内部·普通诊察室",
+            "labelJa": "内部・一般診察室"
+          },
+          {
+            "id": "04",
+            "asset": "cg.place.soma_clinic.04",
+            "labelZh": "内部·简单处理与药品储存区",
+            "labelJa": "内部・簡易処置と薬品保管"
+          }
+        ]
+      }
+    },
     "characters": {}
   }
 }
