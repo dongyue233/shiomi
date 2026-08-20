@@ -39,9 +39,9 @@
     "other": "其它"
   },
   "counts": {
-    "gallery": 72,
+    "gallery": 87,
     "reference": 1,
-    "total_assets": 73,
+    "total_assets": 88,
     "by_category": {
       "nsfw/blowjob": 5,
       "nsfw/doggy": 1,
@@ -53,10 +53,10 @@
       "nsfw/titjob": 5,
       "nsfw/underwear": 19,
       "reference/reference": 1,
-      "sfw/daily": 4,
-      "sfw/outfit": 1,
+      "sfw/daily": 16,
+      "sfw/outfit": 2,
       "sfw/swimwear": 3,
-      "sfw/work": 2
+      "sfw/work": 4
     }
   },
   "images": [
@@ -68,8 +68,8 @@
       "title": "角色参考",
       "original": "originals/reference/reference/shiraha_reference_reference_001.png",
       "thumb": "thumbs/reference/reference/shiraha_reference_reference_001.webp",
-      "source_name": "银发女星聚光灯下的角色卡.png",
-      "sha256": "c9de9c8098db43881a74f8bbb386926e750283fdb49be3716edc813751ad95bb",
+      "source_name": "月光窗畔的银发少女.png",
+      "sha256": "e487f7af24fcbca56252bcf7ba8005684b063cc8c6af5c75396f65e031bd17ba",
       "classification": "visual_review"
     },
     {
@@ -80,8 +80,6 @@
       "title": "日常",
       "original": "originals/sfw/daily/shiraha_sfw_daily_001.png",
       "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_001.webp",
-      "source_name": "IMG_0316.PNG",
-      "sha256": "c08e23b33ebaa9ac9e14a5515e55b6d378e32d75b6fd777ab08e72a9e50405cf",
       "classification": "visual_review"
     },
     {
@@ -92,8 +90,6 @@
       "title": "日常",
       "original": "originals/sfw/daily/shiraha_sfw_daily_002.png",
       "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_002.webp",
-      "source_name": "IMG_0322.PNG",
-      "sha256": "fdc78a4c3ce23169603046cfc42692c3fd9b71ac8c9f70fd613229f5d1a52803",
       "classification": "visual_review"
     },
     {
@@ -104,8 +100,6 @@
       "title": "城市日常",
       "original": "originals/sfw/daily/shiraha_sfw_daily_003.png",
       "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_003.webp",
-      "source_name": "雨夜蒸汽巷中的银发女子.png",
-      "sha256": "c729072aaa5a53111eba80911f4defb8d0b86377ee0f10b36989ce1ffcaad994",
       "classification": "visual_review"
     },
     {
@@ -116,8 +110,6 @@
       "title": "居家",
       "original": "originals/sfw/daily/shiraha_sfw_daily_004.png",
       "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_004.webp",
-      "source_name": "月光下的银发幽居人.png",
-      "sha256": "2f20a03f8896b87aeffef23b8b42196d0c6c4d4f5e32b0566a5894e83c9e97eb",
       "classification": "visual_review"
     },
     {
@@ -128,8 +120,6 @@
       "title": "后台工作",
       "original": "originals/sfw/work/shiraha_sfw_work_001.png",
       "thumb": "thumbs/sfw/work/shiraha_sfw_work_001.webp",
-      "source_name": "后台梳妆台的银发少女.png",
-      "sha256": "b53317ad4beca40e388b6374ca231be3a0b162675a1dd6cc19d9dbf8614acd4a",
       "classification": "visual_review"
     },
     {
@@ -140,8 +130,6 @@
       "title": "后台梳妆",
       "original": "originals/sfw/work/shiraha_sfw_work_002.png",
       "thumb": "thumbs/sfw/work/shiraha_sfw_work_002.webp",
-      "source_name": "银发美人在后台梳妆间.png",
-      "sha256": "01a6ca77a8e72ca28d81589031450f1ac69d11abb5e6c8055e2152a4ee15bdd1",
       "classification": "visual_review"
     },
     {
@@ -152,8 +140,6 @@
       "title": "换装",
       "original": "originals/sfw/outfit/shiraha_sfw_outfit_001.png",
       "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_001.webp",
-      "source_name": "imagegen_2.png",
-      "sha256": "5b3135b1952cb972e241ca38424b8b87162aa20c9d17a4a29bfc1ee3a2695f86",
       "classification": "visual_review"
     },
     {
@@ -164,8 +150,6 @@
       "title": "泳装",
       "original": "originals/sfw/swimwear/shiraha_sfw_swimwear_001.png",
       "thumb": "thumbs/sfw/swimwear/shiraha_sfw_swimwear_001.webp",
-      "source_name": "IMG_0296.PNG",
-      "sha256": "53fa6817c4999ec40b5b415f0fa1e7b8031e173e6802c4b9801e8b12121d1b8f",
       "classification": "visual_review"
     },
     {
@@ -176,8 +160,6 @@
       "title": "泳装",
       "original": "originals/sfw/swimwear/shiraha_sfw_swimwear_002.png",
       "thumb": "thumbs/sfw/swimwear/shiraha_sfw_swimwear_002.webp",
-      "source_name": "tsp-cache-82.png",
-      "sha256": "13aecbf29f2414b16a2e6f4b1a1e731f76e7dfb9728ffabc96e9e31531718a81",
       "classification": "visual_review"
     },
     {
@@ -188,9 +170,202 @@
       "title": "泳装",
       "original": "originals/sfw/swimwear/shiraha_sfw_swimwear_003.png",
       "thumb": "thumbs/sfw/swimwear/shiraha_sfw_swimwear_003.webp",
-      "source_name": "暮色蒸汽温泉中的银发回眸.png",
-      "sha256": "dc89bc9a7462cac6844edb2f5c561f01d8b951af9886a97155dacce3f678023a",
       "classification": "visual_review"
+    },
+    {
+      "id": "shiraha_sfw_work_003",
+      "rating": "sfw",
+      "category": "work",
+      "category_label": "工作",
+      "title": "散场后的回眸",
+      "original": "originals/sfw/work/shiraha_sfw_work_003.png",
+      "thumb": "thumbs/sfw/work/shiraha_sfw_work_003.webp",
+      "source_name": "后台舞台门前的银发回眸.png",
+      "sha256": "382c845a2b06da1495a9c9fe5d5ceca71c965afc970db1338f1a1d11e183367a",
+      "classification": "visual_review",
+      "sourceGroup": "shiraha_series_01_night_moments"
+    },
+    {
+      "id": "shiraha_sfw_daily_005",
+      "rating": "sfw",
+      "category": "daily",
+      "category_label": "日常",
+      "title": "雨夜共伞",
+      "original": "originals/sfw/daily/shiraha_sfw_daily_005.png",
+      "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_005.webp",
+      "source_name": "雨夜伞下的银发少女.png",
+      "sha256": "fe64209e70def5239e45e7d50839ff70751b03b8159462b665cb6a32afcd018a",
+      "classification": "visual_review",
+      "sourceGroup": "shiraha_series_01_night_moments"
+    },
+    {
+      "id": "shiraha_sfw_work_004",
+      "rating": "sfw",
+      "category": "work",
+      "category_label": "工作",
+      "title": "化妆镜前的停顿",
+      "original": "originals/sfw/work/shiraha_sfw_work_004.png",
+      "thumb": "thumbs/sfw/work/shiraha_sfw_work_004.webp",
+      "source_name": "梳妆镜前的银发少女.png",
+      "sha256": "3aff6d5f185a3c04c4b82cbdd1b682f31bbf76a04805fdb9e142996729880efc",
+      "classification": "visual_review",
+      "sourceGroup": "shiraha_series_01_night_moments"
+    },
+    {
+      "id": "shiraha_sfw_daily_006",
+      "rating": "sfw",
+      "category": "daily",
+      "category_label": "日常",
+      "title": "高层露台夜风",
+      "original": "originals/sfw/daily/shiraha_sfw_daily_006.png",
+      "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_006.webp",
+      "source_name": "霓虹夜空下的银发少女.png",
+      "sha256": "76c67c7499fe7b3ad0102072640a66f557d375621e57a23feb35ed631df86ad4",
+      "classification": "visual_review",
+      "sourceGroup": "shiraha_series_01_night_moments"
+    },
+    {
+      "id": "shiraha_sfw_daily_007",
+      "rating": "sfw",
+      "category": "daily",
+      "category_label": "日常",
+      "title": "清晨床边",
+      "original": "originals/sfw/daily/shiraha_sfw_daily_007.png",
+      "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_007.webp",
+      "source_name": "晨光中的银发少女.png",
+      "sha256": "93a8d7572cfb5749bdf07ae29a893528a101e26e264301b994e122be22f95c86",
+      "classification": "visual_review",
+      "sourceGroup": "shiraha_series_01_night_moments"
+    },
+    {
+      "id": "shiraha_sfw_daily_008",
+      "rating": "sfw",
+      "category": "daily",
+      "category_label": "日常",
+      "title": "夜行电车靠肩",
+      "original": "originals/sfw/daily/shiraha_sfw_daily_008.png",
+      "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_008.webp",
+      "source_name": "夜行列车上的银发睡梦少女.png",
+      "sha256": "422a5d4eaf150487d03e6c6f5e6b529df0c126b98a61ab3927eecf8b54d3a834",
+      "classification": "visual_review",
+      "sourceGroup": "shiraha_series_02_daily_distance"
+    },
+    {
+      "id": "shiraha_sfw_daily_009",
+      "rating": "sfw",
+      "category": "daily",
+      "category_label": "日常",
+      "title": "便利店热饮",
+      "original": "originals/sfw/daily/shiraha_sfw_daily_009.png",
+      "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_009.webp",
+      "source_name": "雨夜便利店的银发少女.png",
+      "sha256": "1f6a592fd06aa8a647f979212c5e6827d586df0ea43c9193206e40b946bd9f54",
+      "classification": "visual_review",
+      "sourceGroup": "shiraha_series_02_daily_distance"
+    },
+    {
+      "id": "shiraha_sfw_daily_010",
+      "rating": "sfw",
+      "category": "daily",
+      "category_label": "日常",
+      "title": "唱片店共听",
+      "original": "originals/sfw/daily/shiraha_sfw_daily_010.png",
+      "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_010.webp",
+      "source_name": "暖光唱片室的银发少女.png",
+      "sha256": "7fc91a491f0f39f083fb35ee504a8880d7deaa3e648d7157e241d54830aaaa16",
+      "classification": "visual_review",
+      "sourceGroup": "shiraha_series_02_daily_distance"
+    },
+    {
+      "id": "shiraha_sfw_daily_011",
+      "rating": "sfw",
+      "category": "daily",
+      "category_label": "日常",
+      "title": "厨房回头",
+      "original": "originals/sfw/daily/shiraha_sfw_daily_011.png",
+      "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_011.webp",
+      "source_name": "夜灯下回眸的厨房时光.png",
+      "sha256": "711157548f537ea51530b0406052f5c56c53eb5c9165b91ddfe2b9ab430d24d0",
+      "classification": "visual_review",
+      "sourceGroup": "shiraha_series_02_daily_distance"
+    },
+    {
+      "id": "shiraha_sfw_daily_012",
+      "rating": "sfw",
+      "category": "daily",
+      "category_label": "日常",
+      "title": "沙发半睡半醒",
+      "original": "originals/sfw/daily/shiraha_sfw_daily_012.png",
+      "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_012.webp",
+      "source_name": "月下银发的温柔小憩.png",
+      "sha256": "539c47ec4de41b9744dd1295c1daf6ec0e9d969b5277fc046bf27359a9782a82",
+      "classification": "visual_review",
+      "sourceGroup": "shiraha_series_02_daily_distance"
+    },
+    {
+      "id": "shiraha_sfw_daily_013",
+      "rating": "sfw",
+      "category": "daily",
+      "category_label": "日常",
+      "title": "书店高处取书",
+      "original": "originals/sfw/daily/shiraha_sfw_daily_013.png",
+      "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_013.webp",
+      "source_name": "暖阳书架旁的银发少女.png",
+      "sha256": "4391f14ec732b2e2476dd07f78091ccb786438497d4a1de7c12f9b7da7493091",
+      "classification": "visual_review",
+      "sourceGroup": "shiraha_series_03_city_holiday"
+    },
+    {
+      "id": "shiraha_sfw_daily_014",
+      "rating": "sfw",
+      "category": "daily",
+      "category_label": "日常",
+      "title": "喫茶店窗边等人",
+      "original": "originals/sfw/daily/shiraha_sfw_daily_014.png",
+      "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_014.webp",
+      "source_name": "雨窗咖啡馆的银发女子.png",
+      "sha256": "61d05ff3159d726b48e99a836e6d3e0d44fd3c0f43fd6d81f9b6760092003a1d",
+      "classification": "visual_review",
+      "sourceGroup": "shiraha_series_03_city_holiday"
+    },
+    {
+      "id": "shiraha_sfw_outfit_002",
+      "rating": "sfw",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "百货试帽",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_002.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_002.webp",
+      "source_name": "镜前试戴宽檐帽的银发女子.png",
+      "sha256": "40e9547294909f28b470684f1d6f1fac15da54a99dd9303680809941e87d9dc6",
+      "classification": "visual_review",
+      "sourceGroup": "shiraha_series_03_city_holiday"
+    },
+    {
+      "id": "shiraha_sfw_daily_015",
+      "rating": "sfw",
+      "category": "daily",
+      "category_label": "日常",
+      "title": "河堤晚风",
+      "original": "originals/sfw/daily/shiraha_sfw_daily_015.png",
+      "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_015.webp",
+      "source_name": "风起黄昏江畔少女.png",
+      "sha256": "7474ae6fb785a1c1a07a4022672108146d433a0d60b9b1b125bfe2307b28d6c3",
+      "classification": "visual_review",
+      "sourceGroup": "shiraha_series_03_city_holiday"
+    },
+    {
+      "id": "shiraha_sfw_daily_016",
+      "rating": "sfw",
+      "category": "daily",
+      "category_label": "日常",
+      "title": "电影院散场",
+      "original": "originals/sfw/daily/shiraha_sfw_daily_016.png",
+      "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_016.webp",
+      "source_name": "剧院灯影下的回眸邀约.png",
+      "sha256": "2b8138ddb8407809c263db8f510afcc31aec7d83945e8200c73f4e47b1bea7f5",
+      "classification": "visual_review",
+      "sourceGroup": "shiraha_series_03_city_holiday"
     },
     {
       "id": "shiraha_nsfw_underwear_001",
@@ -200,8 +375,6 @@
       "title": "内衣",
       "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_001.png",
       "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_001.webp",
-      "source_name": "IMG_0307.PNG",
-      "sha256": "f236e527b93f37e1e1c4f6757dc908abcc27d99a72805ad1e19b0f398bc9d5c2",
       "classification": "visual_review"
     },
     {
@@ -212,8 +385,6 @@
       "title": "内衣",
       "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_002.png",
       "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_002.webp",
-      "source_name": "IMG_0312.PNG",
-      "sha256": "7d4dea1c88499b94cc0f3922bd0ddacb8508f38e23b7feb122ba1a0c36da29e8",
       "classification": "visual_review"
     },
     {
@@ -224,8 +395,6 @@
       "title": "内衣",
       "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_003.png",
       "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_003.webp",
-      "source_name": "tsp-cache-129.png",
-      "sha256": "871e5ddc02a2b36d40c77b876d9607a2fb73cd91466e3059337412010fcebaf8",
       "classification": "visual_review"
     },
     {
@@ -236,8 +405,6 @@
       "title": "内衣",
       "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_004.png",
       "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_004.webp",
-      "source_name": "tsp-cache-97.png",
-      "sha256": "729944ea542af75c716987d1584b07d2c9d2326d86a5a30fb914b0824a51d6b8",
       "classification": "visual_review"
     },
     {
@@ -248,8 +415,6 @@
       "title": "内衣",
       "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_005.png",
       "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_005.webp",
-      "source_name": "tsp-cache-120.png",
-      "sha256": "bebf98dd7b6efa4e1d140af018ae4215de26021ac1db34a9b7cabeced5bbd5ef",
       "classification": "visual_review"
     },
     {
@@ -260,8 +425,6 @@
       "title": "内衣",
       "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_006.png",
       "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_006.webp",
-      "source_name": "tsp-cache-94.png",
-      "sha256": "65eb7b533fd6f5f87c9a3079f5641026ece677979ba1688e9c47887667e888e9",
       "classification": "visual_review"
     },
     {
@@ -272,8 +435,6 @@
       "title": "内衣",
       "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_007.png",
       "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_007.webp",
-      "source_name": "tsp-cache-165.png",
-      "sha256": "244e08ba17874cc9d3e6e4d1bda22e71138ff7876ba75eea8ebb5c88da9ce336",
       "classification": "visual_review"
     },
     {
@@ -284,8 +445,6 @@
       "title": "内衣",
       "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_008.png",
       "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_008.webp",
-      "source_name": "tsp-cache-96.png",
-      "sha256": "9e7df9c9738456f041eae603ea3c5decb099e1fe1d757ae86fba86fa6c2b8a11",
       "classification": "visual_review"
     },
     {
@@ -296,8 +455,6 @@
       "title": "内衣",
       "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_009.png",
       "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_009.webp",
-      "source_name": "tsp-cache-113.png",
-      "sha256": "b2a2bd95af43418c1570a679803b7f85d0afc814b91074aaa1ca12d7a226c9dd",
       "classification": "visual_review"
     },
     {
@@ -308,8 +465,6 @@
       "title": "内衣",
       "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_010.png",
       "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_010.webp",
-      "source_name": "tsp-cache-116.png",
-      "sha256": "bd62f8d242975cba846c973335c8b059e3f6bb9705231cf78560fea6816c101b",
       "classification": "visual_review"
     },
     {
@@ -320,8 +475,6 @@
       "title": "内衣",
       "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_011.png",
       "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_011.webp",
-      "source_name": "tsp-cache-112.png",
-      "sha256": "3aaf1e8016215a3f5c46f64b2eecf759645bf9c108fb96d6053e9166f2856feb",
       "classification": "visual_review"
     },
     {
@@ -332,8 +485,6 @@
       "title": "内衣",
       "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_012.png",
       "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_012.webp",
-      "source_name": "tsp-cache-95.png",
-      "sha256": "db892e0a0bff0ed762ebf203d54be0692ac03fc9ce534631eac512e7f819a97f",
       "classification": "visual_review"
     },
     {
@@ -344,8 +495,6 @@
       "title": "内衣",
       "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_013.png",
       "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_013.webp",
-      "source_name": "tsp-cache-144.png",
-      "sha256": "a0c00da0343943ef69aa785daafbf0217d3d9d48017244491cfeb5c671b97494",
       "classification": "visual_review"
     },
     {
@@ -356,8 +505,6 @@
       "title": "内衣",
       "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_014.png",
       "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_014.webp",
-      "source_name": "tsp-cache-88.png",
-      "sha256": "d7b207873ce53e96c36207d56cf2a23102e283ee379b43eae5d05763fe2746c6",
       "classification": "visual_review"
     },
     {
@@ -368,8 +515,6 @@
       "title": "内衣",
       "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_015.png",
       "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_015.webp",
-      "source_name": "tsp-cache-99.png",
-      "sha256": "ae173ef9f078cb2e6726ae5d16f56eaad16aa0b3bdf7a8da2244fe4f5b1162a1",
       "classification": "visual_review"
     },
     {
@@ -380,8 +525,6 @@
       "title": "内衣",
       "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_016.png",
       "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_016.webp",
-      "source_name": "tsp-cache-115.png",
-      "sha256": "ac614fedfd4a3ce357a377e720c010df3fd6e2b25347721be7004a6ef024def2",
       "classification": "visual_review"
     },
     {
@@ -392,8 +535,6 @@
       "title": "内衣",
       "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_017.png",
       "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_017.webp",
-      "source_name": "tsp-cache-109.png",
-      "sha256": "a89da9edb36ef6f0f7f0d885c838f61c973109aa482ad0f034a2f5199ca12c54",
       "classification": "visual_review"
     },
     {
@@ -404,8 +545,6 @@
       "title": "内衣",
       "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_018.png",
       "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_018.webp",
-      "source_name": "tsp-cache-140.png",
-      "sha256": "8a17941905f51564e6e75d8ebde443aa0a8c6b144b4ca46ac57d8f515560c58c",
       "classification": "visual_review"
     },
     {
@@ -416,8 +555,6 @@
       "title": "内衣",
       "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_019.png",
       "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_019.webp",
-      "source_name": "tsp-cache-164.png",
-      "sha256": "f27d94c4b57538849ff8488ee9e9a7ff3bf27e206df69846d0ae250aed30702e",
       "classification": "visual_review"
     },
     {
@@ -428,8 +565,6 @@
       "title": "裸体",
       "original": "originals/nsfw/nude/shiraha_nsfw_nude_001.png",
       "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_001.webp",
-      "source_name": "tsp-cache-92.png",
-      "sha256": "6c6e4b93c5796c2fd121f6915549ab83ab08c065274a1a8c3886927563730dc4",
       "classification": "visual_review"
     },
     {
@@ -440,8 +575,6 @@
       "title": "裸体",
       "original": "originals/nsfw/nude/shiraha_nsfw_nude_002.png",
       "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_002.webp",
-      "source_name": "tsp-cache-121.png",
-      "sha256": "f61029a7fd666e34557a062e96786b16804d879f13773374effa1287381dd7f2",
       "classification": "visual_review"
     },
     {
@@ -452,8 +585,6 @@
       "title": "裸体",
       "original": "originals/nsfw/nude/shiraha_nsfw_nude_003.png",
       "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_003.webp",
-      "source_name": "tsp-cache-111.png",
-      "sha256": "95e1d86093197435b92aaf339a86248be07b8a94513746a07e6f8abf39861ac0",
       "classification": "visual_review"
     },
     {
@@ -464,8 +595,6 @@
       "title": "裸体",
       "original": "originals/nsfw/nude/shiraha_nsfw_nude_004.png",
       "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_004.webp",
-      "source_name": "tsp-cache-123.png",
-      "sha256": "ec7ad44ad735069fb055371a5376aed127b8841221d08895383df6a2c315b313",
       "classification": "visual_review"
     },
     {
@@ -476,8 +605,6 @@
       "title": "裸体",
       "original": "originals/nsfw/nude/shiraha_nsfw_nude_005.png",
       "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_005.webp",
-      "source_name": "tsp-cache-90.png",
-      "sha256": "c00ba3c0f0572991478bf450344a5e1af4ae3e1f9497ded83e07274cc94811eb",
       "classification": "visual_review"
     },
     {
@@ -488,8 +615,6 @@
       "title": "裸体",
       "original": "originals/nsfw/nude/shiraha_nsfw_nude_006.png",
       "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_006.webp",
-      "source_name": "tsp-cache-122.png",
-      "sha256": "2737cca81dd5fe65db0fb21575a01b4dd533cf9d1f541912b0090dbcea7ee836",
       "classification": "visual_review"
     },
     {
@@ -500,8 +625,6 @@
       "title": "裸体",
       "original": "originals/nsfw/nude/shiraha_nsfw_nude_007.png",
       "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_007.webp",
-      "source_name": "tsp-cache-127.png",
-      "sha256": "9b76b51b47beb75d402adb310e43ef32b4ff30dded78cd7f53e3c18085600ad1",
       "classification": "visual_review"
     },
     {
@@ -512,8 +635,6 @@
       "title": "裸体",
       "original": "originals/nsfw/nude/shiraha_nsfw_nude_008.png",
       "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_008.webp",
-      "source_name": "tsp-cache-167.png",
-      "sha256": "d4fe167596de8b9f3a8e8628e2605c938b13eb6e9c37846fa522768ffccd1a07",
       "classification": "visual_review"
     },
     {
@@ -524,8 +645,6 @@
       "title": "裸体",
       "original": "originals/nsfw/nude/shiraha_nsfw_nude_009.png",
       "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_009.webp",
-      "source_name": "tsp-cache-162.png",
-      "sha256": "fa064494ddefebb76c3f312986688f333011f634754dd4aae1afc77fb69d31aa",
       "classification": "visual_review"
     },
     {
@@ -536,8 +655,6 @@
       "title": "裸体",
       "original": "originals/nsfw/nude/shiraha_nsfw_nude_010.png",
       "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_010.webp",
-      "source_name": "tsp-cache-145.png",
-      "sha256": "cea88b6f655cf8293b333bb1e48a7cec3d2db4c5a32c08f21afa25281684ded4",
       "classification": "visual_review"
     },
     {
@@ -548,8 +665,6 @@
       "title": "裸体",
       "original": "originals/nsfw/nude/shiraha_nsfw_nude_011.png",
       "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_011.webp",
-      "source_name": "tsp-cache-139.png",
-      "sha256": "a20c113c51e15289ad151bff340ed2d4f3e7c4861461cd4f1db15b9c31890e47",
       "classification": "visual_review"
     },
     {
@@ -560,8 +675,6 @@
       "title": "裸体",
       "original": "originals/nsfw/nude/shiraha_nsfw_nude_012.png",
       "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_012.webp",
-      "source_name": "tsp-cache-141.png",
-      "sha256": "219f796db0429de554aa5ffce68ab02c616e9a634b06161b25992b7114cd3dda",
       "classification": "visual_review"
     },
     {
@@ -572,8 +685,6 @@
       "title": "裸体",
       "original": "originals/nsfw/nude/shiraha_nsfw_nude_013.png",
       "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_013.webp",
-      "source_name": "tsp-cache-91.png",
-      "sha256": "f8e2365532200f3e0b9b746d85a6e57c96d6e633c126048bbbb020b4b3bd5edf",
       "classification": "visual_review"
     },
     {
@@ -584,8 +695,6 @@
       "title": "裸体",
       "original": "originals/nsfw/nude/shiraha_nsfw_nude_014.png",
       "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_014.webp",
-      "source_name": "tsp-cache-126.png",
-      "sha256": "521d7302fa2fbb429bd12372db5c9752832b688952b33d3e3f8bbca4ef1c71b2",
       "classification": "visual_review"
     },
     {
@@ -596,8 +705,6 @@
       "title": "裸体",
       "original": "originals/nsfw/nude/shiraha_nsfw_nude_015.png",
       "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_015.webp",
-      "source_name": "tsp-cache-156.png",
-      "sha256": "51eeef40ac19822f05b620f4a0cc26d90ce6cb3228eaf4d99dc992155762dfb5",
       "classification": "visual_review"
     },
     {
@@ -608,8 +715,6 @@
       "title": "裸体",
       "original": "originals/nsfw/nude/shiraha_nsfw_nude_016.png",
       "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_016.webp",
-      "source_name": "tsp-cache-131.png",
-      "sha256": "9b7ba39d7f3e700f7dfb9405a5abf58eae2f12be0a34cea84819de0bafda1bf1",
       "classification": "visual_review"
     },
     {
@@ -620,8 +725,6 @@
       "title": "裸体",
       "original": "originals/nsfw/nude/shiraha_nsfw_nude_017.png",
       "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_017.webp",
-      "source_name": "tsp-cache-108.png",
-      "sha256": "cf542d4bd8785f69b2776f1c41797ea7dc1318a97aacb25d4f831e3d23ea393f",
       "classification": "visual_review"
     },
     {
@@ -632,8 +735,6 @@
       "title": "裸体",
       "original": "originals/nsfw/nude/shiraha_nsfw_nude_018.png",
       "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_018.webp",
-      "source_name": "tsp-cache-84.png",
-      "sha256": "1e649862af21075f345b7a00c12b32fedabda718b36f2569553cee3b7a99b806",
       "classification": "visual_review"
     },
     {
@@ -644,8 +745,6 @@
       "title": "裸体",
       "original": "originals/nsfw/nude/shiraha_nsfw_nude_019.png",
       "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_019.webp",
-      "source_name": "tsp-cache-163.png",
-      "sha256": "5917e9e10537675b3396165187570b3962cfe7d559f402bab2f6dc2fc520109c",
       "classification": "visual_review"
     },
     {
@@ -656,8 +755,6 @@
       "title": "裸体",
       "original": "originals/nsfw/nude/shiraha_nsfw_nude_020.png",
       "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_020.webp",
-      "source_name": "tsp-cache-159.png",
-      "sha256": "dd2284801e3d47278714805f6b3dd33a31740a8cc508b2c5ae26d7a8585bb396",
       "classification": "visual_review"
     },
     {
@@ -668,8 +765,6 @@
       "title": "裸体",
       "original": "originals/nsfw/nude/shiraha_nsfw_nude_021.png",
       "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_021.webp",
-      "source_name": "tsp-cache-148.png",
-      "sha256": "d97c6aad9edfcc75ecc9cce8e62a44ecdf2fe97e1998e4a7f58a904de1e72052",
       "classification": "visual_review"
     },
     {
@@ -680,8 +775,6 @@
       "title": "自慰",
       "original": "originals/nsfw/masturbation/shiraha_nsfw_masturbation_001.png",
       "thumb": "thumbs/nsfw/masturbation/shiraha_nsfw_masturbation_001.webp",
-      "source_name": "tsp-cache-154.png",
-      "sha256": "30d0f516d0cbbb55d351a60ff99e35af7e306e9c6768d29fd5185bd103d8329b",
       "classification": "visual_review"
     },
     {
@@ -692,8 +785,6 @@
       "title": "自慰",
       "original": "originals/nsfw/masturbation/shiraha_nsfw_masturbation_002.png",
       "thumb": "thumbs/nsfw/masturbation/shiraha_nsfw_masturbation_002.webp",
-      "source_name": "tsp-cache-160.png",
-      "sha256": "7723832d48eabac2616ac62a3a1fdc363ef863e52e7ed8e2212a338b2c641db8",
       "classification": "visual_review"
     },
     {
@@ -704,8 +795,6 @@
       "title": "自慰",
       "original": "originals/nsfw/masturbation/shiraha_nsfw_masturbation_003.png",
       "thumb": "thumbs/nsfw/masturbation/shiraha_nsfw_masturbation_003.webp",
-      "source_name": "tsp-cache-151.png",
-      "sha256": "f37bc7ed8b9f34baf1a40458c6388180390e9347a4d5ad91d6f61ec6bd19905d",
       "classification": "visual_review"
     },
     {
@@ -716,8 +805,6 @@
       "title": "自慰",
       "original": "originals/nsfw/masturbation/shiraha_nsfw_masturbation_004.png",
       "thumb": "thumbs/nsfw/masturbation/shiraha_nsfw_masturbation_004.webp",
-      "source_name": "tsp-cache-137.png",
-      "sha256": "285eba566a72d87ca3baba4f18673ce3df849844964116d23cdf2e9d5ddfae42",
       "classification": "visual_review"
     },
     {
@@ -728,8 +815,6 @@
       "title": "自慰",
       "original": "originals/nsfw/masturbation/shiraha_nsfw_masturbation_005.png",
       "thumb": "thumbs/nsfw/masturbation/shiraha_nsfw_masturbation_005.webp",
-      "source_name": "tsp-cache-142.png",
-      "sha256": "1f73ef255dce5c57ef90a42ba3d25466e114cc51eea1e8d19fe4334d788f0569",
       "classification": "visual_review"
     },
     {
@@ -740,8 +825,6 @@
       "title": "自慰",
       "original": "originals/nsfw/masturbation/shiraha_nsfw_masturbation_006.png",
       "thumb": "thumbs/nsfw/masturbation/shiraha_nsfw_masturbation_006.webp",
-      "source_name": "tsp-cache-149.png",
-      "sha256": "f2b2c26d96e62f0e74e47fbb21db403b89afc786c3af91985d8567adc85dafe4",
       "classification": "visual_review"
     },
     {
@@ -752,8 +835,6 @@
       "title": "自慰",
       "original": "originals/nsfw/masturbation/shiraha_nsfw_masturbation_007.png",
       "thumb": "thumbs/nsfw/masturbation/shiraha_nsfw_masturbation_007.webp",
-      "source_name": "tsp-cache-166.png",
-      "sha256": "ebc74bb84fd2ab7372caf933af885fa406f14529578bf5fb0e8c2c98c21fdb2a",
       "classification": "visual_review"
     },
     {
@@ -764,8 +845,6 @@
       "title": "手交",
       "original": "originals/nsfw/handjob/shiraha_nsfw_handjob_001.png",
       "thumb": "thumbs/nsfw/handjob/shiraha_nsfw_handjob_001.webp",
-      "source_name": "tsp-cache-135.png",
-      "sha256": "28a89ddeb57ca11cedf699de3683dc71ac199d0b08b71a4d6ee0a9ff14a93ab7",
       "classification": "visual_review"
     },
     {
@@ -776,8 +855,6 @@
       "title": "手交",
       "original": "originals/nsfw/handjob/shiraha_nsfw_handjob_002.png",
       "thumb": "thumbs/nsfw/handjob/shiraha_nsfw_handjob_002.webp",
-      "source_name": "tsp-cache-125.png",
-      "sha256": "f82863de752cd7be991fd1892a4348214b3d52f13fe21ce84cc32265b4e9e23b",
       "classification": "visual_review"
     },
     {
@@ -788,8 +865,6 @@
       "title": "口交",
       "original": "originals/nsfw/blowjob/shiraha_nsfw_blowjob_001.png",
       "thumb": "thumbs/nsfw/blowjob/shiraha_nsfw_blowjob_001.webp",
-      "source_name": "tsp-cache-130.png",
-      "sha256": "f8d467d3b22ef49d0f6cbe3cdedcce2b5843ad814b246202f4f28e0080f8d5d6",
       "classification": "visual_review"
     },
     {
@@ -800,8 +875,6 @@
       "title": "口交",
       "original": "originals/nsfw/blowjob/shiraha_nsfw_blowjob_002.png",
       "thumb": "thumbs/nsfw/blowjob/shiraha_nsfw_blowjob_002.webp",
-      "source_name": "tsp-cache-110.png",
-      "sha256": "861d6d4f3ed9455507afd948d934e793a8249b52f31caee6bb303f59fd943826",
       "classification": "visual_review"
     },
     {
@@ -812,8 +885,6 @@
       "title": "口交",
       "original": "originals/nsfw/blowjob/shiraha_nsfw_blowjob_003.png",
       "thumb": "thumbs/nsfw/blowjob/shiraha_nsfw_blowjob_003.webp",
-      "source_name": "tsp-cache-133.png",
-      "sha256": "d2945fd95a32ba4829b9390ed9f39dfbf0ea408d30884df0667e7e20eab1866c",
       "classification": "visual_review"
     },
     {
@@ -824,8 +895,6 @@
       "title": "口交",
       "original": "originals/nsfw/blowjob/shiraha_nsfw_blowjob_004.png",
       "thumb": "thumbs/nsfw/blowjob/shiraha_nsfw_blowjob_004.webp",
-      "source_name": "tsp-cache-134.png",
-      "sha256": "1daddf97ccbfe1e749152021ded689a58d66e7cb98b14e5bf7c0da59009106a4",
       "classification": "visual_review"
     },
     {
@@ -836,8 +905,6 @@
       "title": "口交",
       "original": "originals/nsfw/blowjob/shiraha_nsfw_blowjob_005.png",
       "thumb": "thumbs/nsfw/blowjob/shiraha_nsfw_blowjob_005.webp",
-      "source_name": "tsp-cache-119.png",
-      "sha256": "50ccbe2222023ebac85c287a6676282d928b57c89cfdd03e529d51de81859d35",
       "classification": "visual_review"
     },
     {
@@ -848,8 +915,6 @@
       "title": "乳交",
       "original": "originals/nsfw/titjob/shiraha_nsfw_titjob_001.png",
       "thumb": "thumbs/nsfw/titjob/shiraha_nsfw_titjob_001.webp",
-      "source_name": "tsp-cache-124.png",
-      "sha256": "292d583eaf4c44a3d6496a763f1b6590ecf1b1fabdbc32ac018ac09d770161f1",
       "classification": "visual_review"
     },
     {
@@ -860,8 +925,6 @@
       "title": "乳交",
       "original": "originals/nsfw/titjob/shiraha_nsfw_titjob_002.png",
       "thumb": "thumbs/nsfw/titjob/shiraha_nsfw_titjob_002.webp",
-      "source_name": "tsp-cache-87.png",
-      "sha256": "1adeb60c355d359a009eb4b86ec17c02729925957340090890b957361585e129",
       "classification": "visual_review"
     },
     {
@@ -872,8 +935,6 @@
       "title": "乳交",
       "original": "originals/nsfw/titjob/shiraha_nsfw_titjob_003.png",
       "thumb": "thumbs/nsfw/titjob/shiraha_nsfw_titjob_003.webp",
-      "source_name": "tsp-cache-136.png",
-      "sha256": "af2a9c4937b399dfa67505fa9bf9149589fbd17cc1f15cf94e130ee073a8776c",
       "classification": "visual_review"
     },
     {
@@ -884,8 +945,6 @@
       "title": "乳交",
       "original": "originals/nsfw/titjob/shiraha_nsfw_titjob_004.png",
       "thumb": "thumbs/nsfw/titjob/shiraha_nsfw_titjob_004.webp",
-      "source_name": "tsp-cache-101.png",
-      "sha256": "aa9954bd3bfb9c0e60c201719ca24f502f78ff9b59526a8386628bd2b50433be",
       "classification": "visual_review"
     },
     {
@@ -896,8 +955,6 @@
       "title": "乳交",
       "original": "originals/nsfw/titjob/shiraha_nsfw_titjob_005.png",
       "thumb": "thumbs/nsfw/titjob/shiraha_nsfw_titjob_005.webp",
-      "source_name": "tsp-cache-114.png",
-      "sha256": "2c48abc5392cdff4b4910a1d54d12baacbbd3635e27fd76aa5cd7d64992ff6bd",
       "classification": "visual_review"
     },
     {
@@ -908,8 +965,6 @@
       "title": "传教士",
       "original": "originals/nsfw/missionary/shiraha_nsfw_missionary_001.png",
       "thumb": "thumbs/nsfw/missionary/shiraha_nsfw_missionary_001.webp",
-      "source_name": "tsp-cache-104.png",
-      "sha256": "b926e6f16439ba88372068db775c29ab19e63af080b37361044a48fba6cf839c",
       "classification": "visual_review"
     },
     {
@@ -920,8 +975,6 @@
       "title": "后入",
       "original": "originals/nsfw/doggy/shiraha_nsfw_doggy_001.png",
       "thumb": "thumbs/nsfw/doggy/shiraha_nsfw_doggy_001.webp",
-      "source_name": "tsp-cache-100.png",
-      "sha256": "926b29b12b9ba8a3b2a763194fde73143e28dd27b41da10ebde4e08440048423",
       "classification": "visual_review"
     },
     {
@@ -932,8 +985,6 @@
       "title": "其它",
       "original": "originals/nsfw/other/shiraha_nsfw_other_001.png",
       "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_001.webp",
-      "source_name": "tsp-cache-143.png",
-      "sha256": "0bffef90dcd3b84b4dfe137520dddfbbdd28047b6355407234e2cc8a71387e93",
       "classification": "visual_review"
     }
   ]
