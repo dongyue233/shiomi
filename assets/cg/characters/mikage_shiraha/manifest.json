@@ -39,24 +39,21 @@
     "other": "其它"
   },
   "counts": {
-    "gallery": 112,
+    "gallery": 185,
     "reference": 1,
-    "total_assets": 113,
+    "total_assets": 186,
     "by_category": {
-      "nsfw/blowjob": 5,
-      "nsfw/doggy": 1,
-      "nsfw/handjob": 2,
-      "nsfw/masturbation": 7,
-      "nsfw/missionary": 1,
-      "nsfw/nude": 21,
-      "nsfw/other": 1,
-      "nsfw/titjob": 5,
-      "nsfw/underwear": 19,
-      "reference/reference": 1,
-      "sfw/daily": 31,
-      "sfw/outfit": 2,
+      "sfw/daily": 14,
+      "sfw/outfit": 55,
       "sfw/swimwear": 3,
-      "sfw/work": 14
+      "nsfw/nude": 6,
+      "nsfw/masturbation": 6,
+      "nsfw/handjob": 4,
+      "nsfw/blowjob": 12,
+      "nsfw/titjob": 12,
+      "nsfw/missionary": 13,
+      "nsfw/doggy": 21,
+      "nsfw/other": 39
     }
   },
   "images": [
@@ -68,8 +65,7 @@
       "title": "角色参考",
       "original": "originals/reference/reference/shiraha_reference_reference_001.png",
       "thumb": "thumbs/reference/reference/shiraha_reference_reference_001.webp",
-      "source_name": "IMG_0334(2).png",
-      "sha256": "c8c4d8e83aa424c3756a7b03cbc2ec94ed4628a2a3ec086590ac3c28181cbfce",
+      "source_name": "existing repository reference",
       "classification": "visual_review"
     },
     {
@@ -77,1240 +73,4075 @@
       "rating": "sfw",
       "category": "daily",
       "category_label": "日常",
-      "title": "日常",
+      "title": "日常 · 001",
       "original": "originals/sfw/daily/shiraha_sfw_daily_001.png",
       "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_001.webp",
-      "classification": "visual_review"
+      "source_name": "ChatGPT Image 2026年8月20日 20_05_49.png",
+      "sha256": "e2747c6695efeb6db25998b78200eb92a5ffe2abf785155230f18ee680696f98",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "日常"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_sfw_daily_002",
       "rating": "sfw",
       "category": "daily",
       "category_label": "日常",
-      "title": "日常",
+      "title": "日常 · 002",
       "original": "originals/sfw/daily/shiraha_sfw_daily_002.png",
       "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_002.webp",
-      "classification": "visual_review"
+      "source_name": "ChatGPT Image 2026年8月20日 20_05_54.png",
+      "sha256": "1dfa65e8f4bfdb67ee71443bc848c0ac8058e4c4394b53d5a3d43625f9b96851",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "日常"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_sfw_daily_003",
       "rating": "sfw",
       "category": "daily",
       "category_label": "日常",
-      "title": "城市日常",
+      "title": "日常 · 003",
       "original": "originals/sfw/daily/shiraha_sfw_daily_003.png",
       "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_003.webp",
-      "classification": "visual_review"
+      "source_name": "ChatGPT Image 2026年8月20日 20_05_58.png",
+      "sha256": "24d4d9c2e225c6e4d3f28e60f6c0061368d2d90f5e099ab08489a92dcd5d9ca8",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "日常"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_sfw_daily_004",
       "rating": "sfw",
       "category": "daily",
       "category_label": "日常",
-      "title": "居家",
+      "title": "日常 · 004",
       "original": "originals/sfw/daily/shiraha_sfw_daily_004.png",
       "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_004.webp",
-      "classification": "visual_review"
-    },
-    {
-      "id": "shiraha_sfw_work_001",
-      "rating": "sfw",
-      "category": "work",
-      "category_label": "工作",
-      "title": "后台工作",
-      "original": "originals/sfw/work/shiraha_sfw_work_001.png",
-      "thumb": "thumbs/sfw/work/shiraha_sfw_work_001.webp",
-      "classification": "visual_review"
-    },
-    {
-      "id": "shiraha_sfw_work_002",
-      "rating": "sfw",
-      "category": "work",
-      "category_label": "工作",
-      "title": "后台梳妆",
-      "original": "originals/sfw/work/shiraha_sfw_work_002.png",
-      "thumb": "thumbs/sfw/work/shiraha_sfw_work_002.webp",
-      "classification": "visual_review"
-    },
-    {
-      "id": "shiraha_sfw_outfit_001",
-      "rating": "sfw",
-      "category": "outfit",
-      "category_label": "换装",
-      "title": "换装",
-      "original": "originals/sfw/outfit/shiraha_sfw_outfit_001.png",
-      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_001.webp",
-      "classification": "visual_review"
-    },
-    {
-      "id": "shiraha_sfw_swimwear_001",
-      "rating": "sfw",
-      "category": "swimwear",
-      "category_label": "泳装",
-      "title": "泳装",
-      "original": "originals/sfw/swimwear/shiraha_sfw_swimwear_001.png",
-      "thumb": "thumbs/sfw/swimwear/shiraha_sfw_swimwear_001.webp",
-      "classification": "visual_review"
-    },
-    {
-      "id": "shiraha_sfw_swimwear_002",
-      "rating": "sfw",
-      "category": "swimwear",
-      "category_label": "泳装",
-      "title": "泳装",
-      "original": "originals/sfw/swimwear/shiraha_sfw_swimwear_002.png",
-      "thumb": "thumbs/sfw/swimwear/shiraha_sfw_swimwear_002.webp",
-      "classification": "visual_review"
-    },
-    {
-      "id": "shiraha_sfw_swimwear_003",
-      "rating": "sfw",
-      "category": "swimwear",
-      "category_label": "泳装",
-      "title": "泳装",
-      "original": "originals/sfw/swimwear/shiraha_sfw_swimwear_003.png",
-      "thumb": "thumbs/sfw/swimwear/shiraha_sfw_swimwear_003.webp",
-      "classification": "visual_review"
-    },
-    {
-      "id": "shiraha_sfw_work_003",
-      "rating": "sfw",
-      "category": "work",
-      "category_label": "工作",
-      "title": "散场后的回眸",
-      "original": "originals/sfw/work/shiraha_sfw_work_003.png",
-      "thumb": "thumbs/sfw/work/shiraha_sfw_work_003.webp",
-      "source_name": "后台舞台门前的银发回眸.png",
-      "sha256": "382c845a2b06da1495a9c9fe5d5ceca71c965afc970db1338f1a1d11e183367a",
+      "source_name": "ChatGPT Image 2026年8月20日 20_06_02.png",
+      "sha256": "3f96b82108da38e47991f66e704a8ac9058b24e56ebd056aa14627b01fccca17",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_01_night_moments"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "日常"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_sfw_daily_005",
       "rating": "sfw",
       "category": "daily",
       "category_label": "日常",
-      "title": "雨夜共伞",
+      "title": "日常 · 005",
       "original": "originals/sfw/daily/shiraha_sfw_daily_005.png",
       "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_005.webp",
-      "source_name": "雨夜伞下的银发少女.png",
-      "sha256": "fe64209e70def5239e45e7d50839ff70751b03b8159462b665cb6a32afcd018a",
+      "source_name": "ChatGPT Image 2026年8月20日 20_06_06.png",
+      "sha256": "59b81a88afe1034f1ed8f41eb778b2bac38a7bc528a7f6350e0fdc5cb1ce682b",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_01_night_moments"
-    },
-    {
-      "id": "shiraha_sfw_work_004",
-      "rating": "sfw",
-      "category": "work",
-      "category_label": "工作",
-      "title": "化妆镜前的停顿",
-      "original": "originals/sfw/work/shiraha_sfw_work_004.png",
-      "thumb": "thumbs/sfw/work/shiraha_sfw_work_004.webp",
-      "source_name": "梳妆镜前的银发少女.png",
-      "sha256": "3aff6d5f185a3c04c4b82cbdd1b682f31bbf76a04805fdb9e142996729880efc",
-      "classification": "visual_review",
-      "sourceGroup": "shiraha_series_01_night_moments"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "日常"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_sfw_daily_006",
       "rating": "sfw",
       "category": "daily",
       "category_label": "日常",
-      "title": "高层露台夜风",
+      "title": "日常 · 006",
       "original": "originals/sfw/daily/shiraha_sfw_daily_006.png",
       "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_006.webp",
-      "source_name": "霓虹夜空下的银发少女.png",
-      "sha256": "76c67c7499fe7b3ad0102072640a66f557d375621e57a23feb35ed631df86ad4",
+      "source_name": "ChatGPT Image 2026年8月20日 20_07_27.png",
+      "sha256": "3165368d398604fb014d2c352f579f6169c707c711cb4231c584c1dbe51db3d8",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_01_night_moments"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "日常"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_sfw_daily_007",
       "rating": "sfw",
       "category": "daily",
       "category_label": "日常",
-      "title": "清晨床边",
+      "title": "日常 · 007",
       "original": "originals/sfw/daily/shiraha_sfw_daily_007.png",
       "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_007.webp",
-      "source_name": "晨光中的银发少女.png",
-      "sha256": "93a8d7572cfb5749bdf07ae29a893528a101e26e264301b994e122be22f95c86",
+      "source_name": "ChatGPT Image 2026年8月20日 20_07_36.png",
+      "sha256": "7aa1c1d8abab27141527743ebca581d919e362b4e00780b7fda6931f92654b29",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_01_night_moments"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "日常"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_sfw_daily_008",
       "rating": "sfw",
       "category": "daily",
       "category_label": "日常",
-      "title": "夜行电车靠肩",
+      "title": "日常 · 008",
       "original": "originals/sfw/daily/shiraha_sfw_daily_008.png",
       "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_008.webp",
-      "source_name": "夜行列车上的银发睡梦少女.png",
-      "sha256": "422a5d4eaf150487d03e6c6f5e6b529df0c126b98a61ab3927eecf8b54d3a834",
+      "source_name": "ChatGPT Image 2026年8月20日 20_07_40.png",
+      "sha256": "5bd4af4a55fcd3c3cae999270452b8b300828f090cb7736afe95c32c32de6ec7",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_02_daily_distance"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "日常"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_sfw_daily_009",
       "rating": "sfw",
       "category": "daily",
       "category_label": "日常",
-      "title": "便利店热饮",
+      "title": "日常 · 009",
       "original": "originals/sfw/daily/shiraha_sfw_daily_009.png",
       "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_009.webp",
-      "source_name": "雨夜便利店的银发少女.png",
-      "sha256": "1f6a592fd06aa8a647f979212c5e6827d586df0ea43c9193206e40b946bd9f54",
+      "source_name": "ChatGPT Image 2026年8月20日 20_07_49.png",
+      "sha256": "f661373120f104b59d85943631475f5fc2685615161e017ff2b0345e5254074b",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_02_daily_distance"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "日常"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_sfw_daily_010",
       "rating": "sfw",
       "category": "daily",
       "category_label": "日常",
-      "title": "唱片店共听",
+      "title": "日常 · 010",
       "original": "originals/sfw/daily/shiraha_sfw_daily_010.png",
       "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_010.webp",
-      "source_name": "暖光唱片室的银发少女.png",
-      "sha256": "7fc91a491f0f39f083fb35ee504a8880d7deaa3e648d7157e241d54830aaaa16",
+      "source_name": "ChatGPT Image 2026年8月20日 20_07_52.png",
+      "sha256": "e4a9b1baede14d621cc8c226877272fb92c9bf3b95e3e43100fd2ad2c6261707",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_02_daily_distance"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "日常"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_sfw_daily_011",
       "rating": "sfw",
       "category": "daily",
       "category_label": "日常",
-      "title": "厨房回头",
+      "title": "日常 · 011",
       "original": "originals/sfw/daily/shiraha_sfw_daily_011.png",
       "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_011.webp",
-      "source_name": "夜灯下回眸的厨房时光.png",
-      "sha256": "711157548f537ea51530b0406052f5c56c53eb5c9165b91ddfe2b9ab430d24d0",
+      "source_name": "ChatGPT Image 2026年8月20日 20_08_02.png",
+      "sha256": "f94b774571d2838ec24389c29070c268c061e03b6d50e96744a44e8dd27dab57",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_02_daily_distance"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "日常"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_sfw_daily_012",
       "rating": "sfw",
       "category": "daily",
       "category_label": "日常",
-      "title": "沙发半睡半醒",
+      "title": "日常 · 012",
       "original": "originals/sfw/daily/shiraha_sfw_daily_012.png",
       "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_012.webp",
-      "source_name": "月下银发的温柔小憩.png",
-      "sha256": "539c47ec4de41b9744dd1295c1daf6ec0e9d969b5277fc046bf27359a9782a82",
+      "source_name": "ChatGPT Image 2026年8月20日 20_08_06.png",
+      "sha256": "d21e08ce5a3c79219d93356815190d09f656c70e93c5c26590b2a32c25651364",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_02_daily_distance"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "日常"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_sfw_daily_013",
       "rating": "sfw",
       "category": "daily",
       "category_label": "日常",
-      "title": "书店高处取书",
+      "title": "日常 · 013",
       "original": "originals/sfw/daily/shiraha_sfw_daily_013.png",
       "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_013.webp",
-      "source_name": "暖阳书架旁的银发少女.png",
-      "sha256": "4391f14ec732b2e2476dd07f78091ccb786438497d4a1de7c12f9b7da7493091",
+      "source_name": "ChatGPT Image 2026年8月20日 20_08_26.png",
+      "sha256": "d8e7d2370e2735a951b2c1d6c267b2bd7cd0fe29f10edf7a1dbecaa65a6a68d7",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_03_city_holiday"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "日常"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_sfw_daily_014",
       "rating": "sfw",
       "category": "daily",
       "category_label": "日常",
-      "title": "喫茶店窗边等人",
+      "title": "日常 · 014",
       "original": "originals/sfw/daily/shiraha_sfw_daily_014.png",
       "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_014.webp",
-      "source_name": "雨窗咖啡馆的银发女子.png",
-      "sha256": "61d05ff3159d726b48e99a836e6d3e0d44fd3c0f43fd6d81f9b6760092003a1d",
+      "source_name": "ChatGPT Image 2026年8月20日 20_08_35.png",
+      "sha256": "af5984911ed7ee1dd1495bc0ac78a81cb1a523398c24b59803f7c79b4a15cdcc",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_03_city_holiday"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "日常"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_sfw_outfit_001",
+      "rating": "sfw",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 001",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_001.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_001.webp",
+      "source_name": "ChatGPT Image 2026年8月20日 20_06_10.png",
+      "sha256": "85c1f1ec06bada5b1fc129e69df0f2640c4ef3f7b870e623dedc0207baae717f",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_sfw_outfit_002",
       "rating": "sfw",
       "category": "outfit",
       "category_label": "换装",
-      "title": "百货试帽",
+      "title": "换装 · 002",
       "original": "originals/sfw/outfit/shiraha_sfw_outfit_002.png",
       "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_002.webp",
-      "source_name": "镜前试戴宽檐帽的银发女子.png",
-      "sha256": "40e9547294909f28b470684f1d6f1fac15da54a99dd9303680809941e87d9dc6",
+      "source_name": "ChatGPT Image 2026年8月20日 20_06_27.png",
+      "sha256": "d6389b2760563093fbeda988c66c402d9d113472a8c419110804c8194caf0d95",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_03_city_holiday"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_sfw_daily_015",
+      "id": "shiraha_sfw_outfit_003",
       "rating": "sfw",
-      "category": "daily",
-      "category_label": "日常",
-      "title": "河堤晚风",
-      "original": "originals/sfw/daily/shiraha_sfw_daily_015.png",
-      "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_015.webp",
-      "source_name": "风起黄昏江畔少女.png",
-      "sha256": "7474ae6fb785a1c1a07a4022672108146d433a0d60b9b1b125bfe2307b28d6c3",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 003",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_003.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_003.webp",
+      "source_name": "ChatGPT Image 2026年8月20日 20_06_59.png",
+      "sha256": "6e416dfb2f043ca817647082ce086ef15e858b2d86de5b81ce356d704826e43b",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_03_city_holiday"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_sfw_daily_016",
+      "id": "shiraha_sfw_outfit_004",
       "rating": "sfw",
-      "category": "daily",
-      "category_label": "日常",
-      "title": "电影院散场",
-      "original": "originals/sfw/daily/shiraha_sfw_daily_016.png",
-      "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_016.webp",
-      "source_name": "剧院灯影下的回眸邀约.png",
-      "sha256": "2b8138ddb8407809c263db8f510afcc31aec7d83945e8200c73f4e47b1bea7f5",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 004",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_004.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_004.webp",
+      "source_name": "ChatGPT Image 2026年8月20日 20_07_14.png",
+      "sha256": "5ea5b2cc3f787c2f13c4a01e20eddc7f58dbc7e183f152838655eeec1a7de86d",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_03_city_holiday"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_sfw_daily_017",
+      "id": "shiraha_sfw_outfit_005",
       "rating": "sfw",
-      "category": "daily",
-      "category_label": "日常",
-      "title": "晨间床沿回眸",
-      "original": "originals/sfw/daily/shiraha_sfw_daily_017.png",
-      "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_017.webp",
-      "source_name": "a_softly_lit_intimate_bedroom_scene_in_a_realisti_1_batch_1.png",
-      "sha256": "4f65450f3ecfff8ee64db3c19e202002661612f00439e6432775c0a5a8e04004",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 005",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_005.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_005.webp",
+      "source_name": "ChatGPT Image 2026年8月20日 20_08_20.png",
+      "sha256": "b038e9b3a5338e36c7f0c20a93ee4c2ddb697163d4b774536673ea0442453334",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_04_married_life"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_sfw_daily_018",
+      "id": "shiraha_sfw_outfit_006",
       "rating": "sfw",
-      "category": "daily",
-      "category_label": "日常",
-      "title": "夜晚沙发相伴",
-      "original": "originals/sfw/daily/shiraha_sfw_daily_018.png",
-      "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_018.webp",
-      "source_name": "a_cozy_indoor_evening_scene_in_a_softly_lit_living_2_batch_2.png",
-      "sha256": "1edff99a531cf45110a9fe75788cc77f4f1b8150fbb02d7327de531fd5d1d58e",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 006",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_006.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_006.webp",
+      "source_name": "ChatGPT Image 2026年8月20日 20_08_57.png",
+      "sha256": "2d755da359170867e0669374312486382ddf3f8568dafa87c4cc5213d638c8ab",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_04_married_life"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_sfw_daily_019",
+      "id": "shiraha_sfw_outfit_007",
       "rating": "sfw",
-      "category": "daily",
-      "category_label": "日常",
-      "title": "夜景窗边相伴",
-      "original": "originals/sfw/daily/shiraha_sfw_daily_019.png",
-      "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_019.webp",
-      "source_name": "a_detailed_night_time_indoor_outdoor_scene_a_beau_1.png",
-      "sha256": "05b7a90cc816ff39da0045beb20d0f32eb367286706f57b5df61875ea35cbe30",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 007",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_007.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_007.webp",
+      "source_name": "ChatGPT Image 2026年8月20日 20_09_09.png",
+      "sha256": "458da1e90b53b0ca969ccecabda54720bbb54b3c42ce009ca7a4f1cc9fa97539",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_04_married_life"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_sfw_daily_020",
+      "id": "shiraha_sfw_outfit_008",
       "rating": "sfw",
-      "category": "daily",
-      "category_label": "日常",
-      "title": "卧室梳发",
-      "original": "originals/sfw/daily/shiraha_sfw_daily_020.png",
-      "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_020.webp",
-      "source_name": "a_cozy_softly_lit_bedroom_dressing_room_scene_in_4_batch_4.png",
-      "sha256": "263a8f188c12b6aeae6658c10fe1444fc8cdacbdb5d43b6bcc81866431519dc6",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 008",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_008.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_008.webp",
+      "source_name": "ChatGPT Image 2026年8月20日 20_09_20.png",
+      "sha256": "235ce485c01c0ef26371ba6cfeb1c3473030d852f318c52d62b188ab70ff55d9",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_04_married_life"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_sfw_daily_021",
+      "id": "shiraha_sfw_outfit_009",
       "rating": "sfw",
-      "category": "daily",
-      "category_label": "日常",
-      "title": "窗边早餐",
-      "original": "originals/sfw/daily/shiraha_sfw_daily_021.png",
-      "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_021.webp",
-      "source_name": "a_photorealistic_anime_style_interior_scene_a_bri_5_batch_5.png",
-      "sha256": "427275c5cd8d4b0fd4a3bbcccc281a118f00097d5750efd2e285f894d58f3e77",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 009",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_009.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_009.webp",
+      "source_name": "ChatGPT Image 2026年8月20日 20_09_31.png",
+      "sha256": "1a3ead8e19ae5f10bcf2585b9e003a919786179498af37dd646561c0e0db6088",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_04_married_life"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_sfw_daily_022",
+      "id": "shiraha_sfw_outfit_010",
       "rating": "sfw",
-      "category": "daily",
-      "category_label": "日常",
-      "title": "月台启程",
-      "original": "originals/sfw/daily/shiraha_sfw_daily_022.png",
-      "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_022.webp",
-      "source_name": "a_highly_detailed_anime_style_illustration_scene_a_1_batch_1.png",
-      "sha256": "ee7c571466206aaec99d4ffe65fe3815af1a4b31449e24c0fda08fbce2df25a8",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 010",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_010.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_010.webp",
+      "source_name": "ChatGPT Image 2026年8月20日 20_09_36.png",
+      "sha256": "08b92e9ddbc701b38f673d655d2618e41be1726c34d004cec3305928380c15c0",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_05_short_trip"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_sfw_daily_023",
+      "id": "shiraha_sfw_outfit_011",
       "rating": "sfw",
-      "category": "daily",
-      "category_label": "日常",
-      "title": "旅馆休息",
-      "original": "originals/sfw/daily/shiraha_sfw_daily_023.png",
-      "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_023.webp",
-      "source_name": "a_highly_detailed_soft_lit_anime_style_interior_s_2_batch_2.png",
-      "sha256": "6f1480cb39e9091e13d62e4ab146ce92279d129e1d066749c3df027d988613e0",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 011",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_011.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_011.webp",
+      "source_name": "tsp-cache-349.png",
+      "sha256": "a829c9e3dc31f7f4729bda875c3e6da9e53c3ef90397840efb3fb1f308ebb53f",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_05_short_trip"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_sfw_daily_024",
+      "id": "shiraha_sfw_outfit_012",
       "rating": "sfw",
-      "category": "daily",
-      "category_label": "日常",
-      "title": "港口海风",
-      "original": "originals/sfw/daily/shiraha_sfw_daily_024.png",
-      "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_024.webp",
-      "source_name": "a_highly_detailed_soft_anime_illustration_cg_styl_3_batch_3.png",
-      "sha256": "024a7de309e645b2eaa6590da72db667438455ecd9f66a2fef35bf5f93d95b92",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 012",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_012.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_012.webp",
+      "source_name": "tsp-cache-364.png",
+      "sha256": "e67c9e5d50ff5450fe2e0c91be03e9f1cc54615b52d4c3c1770d14038482da55",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_05_short_trip"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_sfw_daily_025",
+      "id": "shiraha_sfw_outfit_013",
       "rating": "sfw",
-      "category": "daily",
-      "category_label": "日常",
-      "title": "温泉街回眸",
-      "original": "originals/sfw/daily/shiraha_sfw_daily_025.png",
-      "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_025.webp",
-      "source_name": "a_detailed_realistic_anime_style_cinematic_illust_4_batch_4.png",
-      "sha256": "662acd8685c2d5178327122aed3ed7349742b93948ab1e76e3deb2139aae25a4",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 013",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_013.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_013.webp",
+      "source_name": "tsp-cache-390.png",
+      "sha256": "9c45f651fb77e4b30d51ba8c6370cfa6d659bda7f36907c472401ee756963ba9",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_05_short_trip"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_sfw_daily_026",
+      "id": "shiraha_sfw_outfit_014",
       "rating": "sfw",
-      "category": "daily",
-      "category_label": "日常",
-      "title": "夜车归途",
-      "original": "originals/sfw/daily/shiraha_sfw_daily_026.png",
-      "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_026.webp",
-      "source_name": "a_photorealistic_anime_style_illustration_of_an_in_5_batch_5.png",
-      "sha256": "937fe9bc36184e299a1d8c71ad00e1559d5f6ce0662c6dc2555179dbe64988f5",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 014",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_014.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_014.webp",
+      "source_name": "tsp-cache-396.png",
+      "sha256": "8e0635e21a98d137b0a508d2d47e8796d8b1d84140fbce01056ec211de3048cf",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_05_short_trip"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_sfw_daily_027",
+      "id": "shiraha_sfw_outfit_015",
       "rating": "sfw",
-      "category": "daily",
-      "category_label": "日常",
-      "title": "忍泪",
-      "original": "originals/sfw/daily/shiraha_sfw_daily_027.png",
-      "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_027.webp",
-      "source_name": "a_soft_detailed_anime_illustration_style_portrait_1_batch_1.png",
-      "sha256": "b800926769ec10818b9def56059024394ce50f264ad2cf528c14d91efaf08fa5",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 015",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_015.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_015.webp",
+      "source_name": "tsp-cache-409.png",
+      "sha256": "9c09698513ad9671f39ecfaa46a46291a55a973f3467a415bba7bb1c0fde6fb7",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_06_emotion_closeup"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_sfw_daily_028",
+      "id": "shiraha_sfw_outfit_016",
       "rating": "sfw",
-      "category": "daily",
-      "category_label": "日常",
-      "title": "愤怒",
-      "original": "originals/sfw/daily/shiraha_sfw_daily_028.png",
-      "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_028.webp",
-      "source_name": "a_highly_detailed_photorealistic_anime_style_port_2_batch_2.png",
-      "sha256": "04e50068d401e00158c4b621955174a4ae2dac5ba072240c0fb1fdf012ce6fc4",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 016",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_016.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_016.webp",
+      "source_name": "tsp-cache-441.png",
+      "sha256": "412c1b773be3dddbcedb2e00fd0a72283906b6e6d0dd05eb86c245146221ca0d",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_06_emotion_closeup"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_sfw_daily_029",
+      "id": "shiraha_sfw_outfit_017",
       "rating": "sfw",
-      "category": "daily",
-      "category_label": "日常",
-      "title": "惊讶",
-      "original": "originals/sfw/daily/shiraha_sfw_daily_029.png",
-      "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_029.webp",
-      "source_name": "a_high_quality_anime_illustration_style_portrait_s_3_batch_3.png",
-      "sha256": "27a9c7385e96f586bb6cea23bb85ac416e46b2c7b2c285c4cff01d276f65ab60",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 017",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_017.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_017.webp",
+      "source_name": "tsp-cache-473.png",
+      "sha256": "71b7a063007546365d44176ecc7f4c0bdb5d076702474d87a9a1b7744a35fe33",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_06_emotion_closeup"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_sfw_daily_030",
+      "id": "shiraha_sfw_outfit_018",
       "rating": "sfw",
-      "category": "daily",
-      "category_label": "日常",
-      "title": "疲惫",
-      "original": "originals/sfw/daily/shiraha_sfw_daily_030.png",
-      "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_030.webp",
-      "source_name": "a_highly_detailed_soft_lit_anime_style_illustrati_4_batch_4.png",
-      "sha256": "2808a89dfa94c196af0c125477f8dec3204eca6e9b2b2608ca83149a396bd66c",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 018",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_018.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_018.webp",
+      "source_name": "tsp-cache-474.png",
+      "sha256": "e42742d9e60cd535166992c93569a6308754c2ef8669afe6f5113d42beb982db",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_06_emotion_closeup"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_sfw_daily_031",
+      "id": "shiraha_sfw_outfit_019",
       "rating": "sfw",
-      "category": "daily",
-      "category_label": "日常",
-      "title": "自然笑意",
-      "original": "originals/sfw/daily/shiraha_sfw_daily_031.png",
-      "thumb": "thumbs/sfw/daily/shiraha_sfw_daily_031.webp",
-      "source_name": "a_highly_detailed_soft_lit_anime_realistic_illust_5_batch_5.png",
-      "sha256": "c28f1710a85afb1008b6fc16f48ea9940c5b6be4b86d3e68e8eb0f8d05df63e0",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 019",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_019.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_019.webp",
+      "source_name": "tsp-cache-531.png",
+      "sha256": "61c2a434f6a00c50c381762bd1eb3b91a0d45e0c9246a7127ee370e37524b1f2",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_06_emotion_closeup"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_sfw_work_005",
+      "id": "shiraha_sfw_outfit_020",
       "rating": "sfw",
-      "category": "work",
-      "category_label": "工作",
-      "title": "舞台返场",
-      "original": "originals/sfw/work/shiraha_sfw_work_005.png",
-      "thumb": "thumbs/sfw/work/shiraha_sfw_work_005.webp",
-      "source_name": "a_highly_detailed_anime_style_concert_scene_a_gla_5_batch_5.png",
-      "sha256": "d9ac7f0f1ba576600bb7a8f4e381b047e1b42fc8eb007ec849a9fba69dd07d94",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 020",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_020.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_020.webp",
+      "source_name": "tsp-cache-563.png",
+      "sha256": "3207bf62ac828245d68059c7bf613d148b361c7753dc3bd8207a00f3bbb3dd61",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_07_stage_diva"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_sfw_work_006",
+      "id": "shiraha_sfw_outfit_021",
       "rating": "sfw",
-      "category": "work",
-      "category_label": "工作",
-      "title": "后台掀帘",
-      "original": "originals/sfw/work/shiraha_sfw_work_006.png",
-      "thumb": "thumbs/sfw/work/shiraha_sfw_work_006.webp",
-      "source_name": "a_highly_detailed_anime_style_photoreal_illustra_4_batch_4.png",
-      "sha256": "6f3d42ad6d481d5b4a462f877cbfe4588a3dfe71fe52d45c12dafb1e21689682",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 021",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_021.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_021.webp",
+      "source_name": "tsp-cache-300.png",
+      "sha256": "203ea54ae0be856575cafcbcd2e9fb8d52a2bdace999ed9b9e943b88deabfccc",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_07_stage_diva"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_sfw_work_007",
+      "id": "shiraha_sfw_outfit_022",
       "rating": "sfw",
-      "category": "work",
-      "category_label": "工作",
-      "title": "高光演唱",
-      "original": "originals/sfw/work/shiraha_sfw_work_007.png",
-      "thumb": "thumbs/sfw/work/shiraha_sfw_work_007.webp",
-      "source_name": "a_highly_detailed_glossy_anime_style_semi_reali_2_batch_2.png",
-      "sha256": "79d010aa3af354bebb8141a1f5f0bc5f33f2e728a89c5c711a0de893b54b50b4",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 022",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_022.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_022.webp",
+      "source_name": "tsp-cache-314.png",
+      "sha256": "855cbac7573bd6b23f6c992987b37064541684008bf77341706e6a50447c547d",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_07_stage_diva"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_sfw_work_008",
+      "id": "shiraha_sfw_outfit_023",
       "rating": "sfw",
-      "category": "work",
-      "category_label": "工作",
-      "title": "舞台抒情段",
-      "original": "originals/sfw/work/shiraha_sfw_work_008.png",
-      "thumb": "thumbs/sfw/work/shiraha_sfw_work_008.webp",
-      "source_name": "a_highly_detailed_photorealistic_anime_inspired_i_3_batch_3.png",
-      "sha256": "148ae38b556a1e66c102c0e5d73d8adc36e85328a2cc65ac96b78d147864d7c5",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 023",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_023.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_023.webp",
+      "source_name": "tsp-cache-326.png",
+      "sha256": "72faa1840176814e21fff291ed81a2e32b9f377d5648c4c17a8aa1d4ee5b359e",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_07_stage_diva"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_sfw_work_009",
+      "id": "shiraha_sfw_outfit_024",
       "rating": "sfw",
-      "category": "work",
-      "category_label": "工作",
-      "title": "聚光灯登台",
-      "original": "originals/sfw/work/shiraha_sfw_work_009.png",
-      "thumb": "thumbs/sfw/work/shiraha_sfw_work_009.webp",
-      "source_name": "a_highly_detailed_photorealistic_anime_style_conc_1_batch_1.png",
-      "sha256": "a25f1041a0a948c228f2d89dc544a163004551c00c0c2ab828083b5abc0b27eb",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 024",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_024.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_024.webp",
+      "source_name": "tsp-cache-344.png",
+      "sha256": "8f6e6e991c140685ab0526a1121bd4f3f39b783579d5c8a3142c818a9ac78e67",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_07_stage_diva"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_sfw_work_010",
+      "id": "shiraha_sfw_outfit_025",
       "rating": "sfw",
-      "category": "work",
-      "category_label": "工作",
-      "title": "指尖定格",
-      "original": "originals/sfw/work/shiraha_sfw_work_010.png",
-      "thumb": "thumbs/sfw/work/shiraha_sfw_work_010.webp",
-      "source_name": "a_detailed_photorealistic_anime_style_illustratio_2_batch_2.png",
-      "sha256": "ae51615a75e06007ee7e3fd9ab243bffdad4f49c479447e3689b6ab4be775f52",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 025",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_025.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_025.webp",
+      "source_name": "tsp-cache-359.png",
+      "sha256": "601ff147f2d9b135269e71c2fc05144c6f2307b6f19eb9689274fd129beb6a52",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_08_stage_performance"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_sfw_work_011",
+      "id": "shiraha_sfw_outfit_026",
       "rating": "sfw",
-      "category": "work",
-      "category_label": "工作",
-      "title": "黑银定点",
-      "original": "originals/sfw/work/shiraha_sfw_work_011.png",
-      "thumb": "thumbs/sfw/work/shiraha_sfw_work_011.webp",
-      "source_name": "a_dramatic_studio_stage_scene_a_single_anime_styl_4_batch_4.png",
-      "sha256": "6670fd9f74bedfa9b148805c9e04cbc1b0bf51ba90ace18458cf71169cf57caa",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 026",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_026.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_026.webp",
+      "source_name": "tsp-cache-360.png",
+      "sha256": "1950dd554c1d29123ecc715d47ec20d851c7719b5d6761592cf947b15d5797f4",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_08_stage_performance"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_sfw_work_012",
+      "id": "shiraha_sfw_outfit_027",
       "rating": "sfw",
-      "category": "work",
-      "category_label": "工作",
-      "title": "伸手互动",
-      "original": "originals/sfw/work/shiraha_sfw_work_012.png",
-      "thumb": "thumbs/sfw/work/shiraha_sfw_work_012.webp",
-      "source_name": "a_high_detail_anime_style_realistic_anime_illust_5_batch_5.png",
-      "sha256": "8b4e77577ba2d66eb9e7b4b3ec86506e508f59dfd9743d57d1617f922b5b6a14",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 027",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_027.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_027.webp",
+      "source_name": "tsp-cache-367.png",
+      "sha256": "77cb5f78a88ba1e0e93cd710622e3f37847f6996df9a2d387204c39d31ff1778",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_08_stage_performance"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_sfw_work_013",
+      "id": "shiraha_sfw_outfit_028",
       "rating": "sfw",
-      "category": "work",
-      "category_label": "工作",
-      "title": "举臂唱跳",
-      "original": "originals/sfw/work/shiraha_sfw_work_013.png",
-      "thumb": "thumbs/sfw/work/shiraha_sfw_work_013.webp",
-      "source_name": "a_highly_detailed_photorealistic_anime_style_3d_1_batch_1.png",
-      "sha256": "816b6f891983e14c87b0066132f2baed699d429d4a17b7318607475f8f6a890e",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 028",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_028.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_028.webp",
+      "source_name": "tsp-cache-385.png",
+      "sha256": "722616732320a544563f7f95e98ac584ff27c97fc917998b50a851dd66873940",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_08_stage_performance"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_sfw_work_014",
+      "id": "shiraha_sfw_outfit_029",
       "rating": "sfw",
-      "category": "work",
-      "category_label": "工作",
-      "title": "近距唱跳定格",
-      "original": "originals/sfw/work/shiraha_sfw_work_014.png",
-      "thumb": "thumbs/sfw/work/shiraha_sfw_work_014.webp",
-      "source_name": "a_highly_detailed_photorealistic_anime_stylized_i_3_batch_3.png",
-      "sha256": "e0b8a7601d0a4430cc8fc577dbb49678a54778f8e9e7fc1f9aa6a118902e997d",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 029",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_029.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_029.webp",
+      "source_name": "tsp-cache-413 2.png",
+      "sha256": "669bd16966f7ccac428c9d49a07551acf22f5fb9e2c5217e5b16c5d8deda9798",
       "classification": "visual_review",
-      "sourceGroup": "shiraha_series_08_stage_performance"
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_nsfw_underwear_001",
-      "rating": "nsfw",
-      "category": "underwear",
-      "category_label": "内衣",
-      "title": "内衣",
-      "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_001.png",
-      "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_001.webp",
-      "classification": "visual_review"
+      "id": "shiraha_sfw_outfit_030",
+      "rating": "sfw",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 030",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_030.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_030.webp",
+      "source_name": "tsp-cache-413 3.png",
+      "sha256": "850b94cc1d2cfbdd1b543599e1201f28eb3afed39bc097050c11cd3987e45f9e",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_nsfw_underwear_002",
-      "rating": "nsfw",
-      "category": "underwear",
-      "category_label": "内衣",
-      "title": "内衣",
-      "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_002.png",
-      "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_002.webp",
-      "classification": "visual_review"
+      "id": "shiraha_sfw_outfit_031",
+      "rating": "sfw",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 031",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_031.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_031.webp",
+      "source_name": "tsp-cache-413 4.png",
+      "sha256": "e4c548f5f745389b3133329b7d79141d348404d2adf72ba96dec570d6518398d",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_nsfw_underwear_003",
-      "rating": "nsfw",
-      "category": "underwear",
-      "category_label": "内衣",
-      "title": "内衣",
-      "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_003.png",
-      "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_003.webp",
-      "classification": "visual_review"
+      "id": "shiraha_sfw_outfit_032",
+      "rating": "sfw",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 032",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_032.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_032.webp",
+      "source_name": "tsp-cache-413.png",
+      "sha256": "eab51a6e8ded98ffc3b1f242d34cbbf7d3981b510bd9af6bd9a2f938f72e8924",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_nsfw_underwear_004",
-      "rating": "nsfw",
-      "category": "underwear",
-      "category_label": "内衣",
-      "title": "内衣",
-      "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_004.png",
-      "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_004.webp",
-      "classification": "visual_review"
+      "id": "shiraha_sfw_outfit_033",
+      "rating": "sfw",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 033",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_033.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_033.webp",
+      "source_name": "tsp-cache-418.png",
+      "sha256": "d0ac04b0ebcba39d5f8f81223004b0b51dd44901ef8bdb0b896a7fbc553d0634",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_nsfw_underwear_005",
-      "rating": "nsfw",
-      "category": "underwear",
-      "category_label": "内衣",
-      "title": "内衣",
-      "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_005.png",
-      "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_005.webp",
-      "classification": "visual_review"
+      "id": "shiraha_sfw_outfit_034",
+      "rating": "sfw",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 034",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_034.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_034.webp",
+      "source_name": "tsp-cache-430.png",
+      "sha256": "c88726d553204abc572d4935d3231d49baf92d426b276554c5b8a2c68bec1745",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_nsfw_underwear_006",
-      "rating": "nsfw",
-      "category": "underwear",
-      "category_label": "内衣",
-      "title": "内衣",
-      "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_006.png",
-      "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_006.webp",
-      "classification": "visual_review"
+      "id": "shiraha_sfw_outfit_035",
+      "rating": "sfw",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 035",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_035.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_035.webp",
+      "source_name": "tsp-cache-449.png",
+      "sha256": "f47d4970e74dd6cf7d34d24a67908f475090dbb97412b444c42777b7090716f6",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_nsfw_underwear_007",
-      "rating": "nsfw",
-      "category": "underwear",
-      "category_label": "内衣",
-      "title": "内衣",
-      "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_007.png",
-      "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_007.webp",
-      "classification": "visual_review"
+      "id": "shiraha_sfw_outfit_036",
+      "rating": "sfw",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 036",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_036.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_036.webp",
+      "source_name": "tsp-cache-504.png",
+      "sha256": "222ff4c1c77ebb596a51cdaf2790c9f1ee15593900d8dfe605ba4b01dbcd5818",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_nsfw_underwear_008",
-      "rating": "nsfw",
-      "category": "underwear",
-      "category_label": "内衣",
-      "title": "内衣",
-      "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_008.png",
-      "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_008.webp",
-      "classification": "visual_review"
+      "id": "shiraha_sfw_outfit_037",
+      "rating": "sfw",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 037",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_037.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_037.webp",
+      "source_name": "tsp-cache-505.png",
+      "sha256": "7028df65be7ea435ac0173312974492fec1400ec1faba24a7dbd8b446952ae81",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_nsfw_underwear_009",
-      "rating": "nsfw",
-      "category": "underwear",
-      "category_label": "内衣",
-      "title": "内衣",
-      "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_009.png",
-      "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_009.webp",
-      "classification": "visual_review"
+      "id": "shiraha_sfw_outfit_038",
+      "rating": "sfw",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 038",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_038.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_038.webp",
+      "source_name": "tsp-cache-509.png",
+      "sha256": "8be3f4bce1e3ddbeb6bf66c38647fb46b4debb635627d64d3b9af93013611555",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_nsfw_underwear_010",
-      "rating": "nsfw",
-      "category": "underwear",
-      "category_label": "内衣",
-      "title": "内衣",
-      "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_010.png",
-      "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_010.webp",
-      "classification": "visual_review"
+      "id": "shiraha_sfw_outfit_039",
+      "rating": "sfw",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 039",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_039.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_039.webp",
+      "source_name": "tsp-cache-551.png",
+      "sha256": "a1f18526468c10608fedc4420b82c3c05c813097c4f97911e5945db6b091353b",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_nsfw_underwear_011",
-      "rating": "nsfw",
-      "category": "underwear",
-      "category_label": "内衣",
-      "title": "内衣",
-      "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_011.png",
-      "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_011.webp",
-      "classification": "visual_review"
+      "id": "shiraha_sfw_outfit_040",
+      "rating": "sfw",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 040",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_040.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_040.webp",
+      "source_name": "tsp-cache-574.png",
+      "sha256": "54547d7c4b86d67ff55b12add3086701641d17fa12cbf2adb623d60ec09bfbfc",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_nsfw_underwear_012",
-      "rating": "nsfw",
-      "category": "underwear",
-      "category_label": "内衣",
-      "title": "内衣",
-      "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_012.png",
-      "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_012.webp",
-      "classification": "visual_review"
+      "id": "shiraha_sfw_outfit_041",
+      "rating": "sfw",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 041",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_041.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_041.webp",
+      "source_name": "tsp-cache-339.png",
+      "sha256": "ea600101112e158a4b9079f227661b540b0ec95f4bb0aa4877563b2f71b54117",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_nsfw_underwear_013",
-      "rating": "nsfw",
-      "category": "underwear",
-      "category_label": "内衣",
-      "title": "内衣",
-      "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_013.png",
-      "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_013.webp",
-      "classification": "visual_review"
+      "id": "shiraha_sfw_outfit_042",
+      "rating": "sfw",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 042",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_042.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_042.webp",
+      "source_name": "tsp-cache-348.png",
+      "sha256": "2d15b1f7659f520526b84d2c6d63beb947e9eb800dc9e33c97f7fd6dbfe08e3c",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_nsfw_underwear_014",
-      "rating": "nsfw",
-      "category": "underwear",
-      "category_label": "内衣",
-      "title": "内衣",
-      "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_014.png",
-      "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_014.webp",
-      "classification": "visual_review"
+      "id": "shiraha_sfw_outfit_043",
+      "rating": "sfw",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 043",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_043.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_043.webp",
+      "source_name": "tsp-cache-420.png",
+      "sha256": "f2a26590c273533e6558d3d8b897975d0ed6fbf83f013af4e89899b90a3bd6a1",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_nsfw_underwear_015",
-      "rating": "nsfw",
-      "category": "underwear",
-      "category_label": "内衣",
-      "title": "内衣",
-      "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_015.png",
-      "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_015.webp",
-      "classification": "visual_review"
+      "id": "shiraha_sfw_outfit_044",
+      "rating": "sfw",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 044",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_044.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_044.webp",
+      "source_name": "tsp-cache-428.png",
+      "sha256": "d9152aba56920790f9116199d1953f38b84d33faef4eb344d8cc7566d7cc4cc0",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_nsfw_underwear_016",
-      "rating": "nsfw",
-      "category": "underwear",
-      "category_label": "内衣",
-      "title": "内衣",
-      "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_016.png",
-      "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_016.webp",
-      "classification": "visual_review"
+      "id": "shiraha_sfw_outfit_045",
+      "rating": "sfw",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 045",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_045.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_045.webp",
+      "source_name": "tsp-cache-451.png",
+      "sha256": "371af78a6215040a2a53889ec15f13d1a4f3fc874efc60fbc4bab994bb9bfb37",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_nsfw_underwear_017",
-      "rating": "nsfw",
-      "category": "underwear",
-      "category_label": "内衣",
-      "title": "内衣",
-      "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_017.png",
-      "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_017.webp",
-      "classification": "visual_review"
+      "id": "shiraha_sfw_outfit_046",
+      "rating": "sfw",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 046",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_046.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_046.webp",
+      "source_name": "tsp-cache-500.png",
+      "sha256": "7c1abd3f9356b36c78e05428be4b772b278ee54b52c9abdc8ef4b4a886c96223",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_nsfw_underwear_018",
-      "rating": "nsfw",
-      "category": "underwear",
-      "category_label": "内衣",
-      "title": "内衣",
-      "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_018.png",
-      "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_018.webp",
-      "classification": "visual_review"
+      "id": "shiraha_sfw_outfit_047",
+      "rating": "sfw",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 047",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_047.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_047.webp",
+      "source_name": "tsp-cache-519.png",
+      "sha256": "00250851188a5ef8297025c98d277bfbfa170ab55ab31c1d086f66fd995fcd83",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
-      "id": "shiraha_nsfw_underwear_019",
-      "rating": "nsfw",
-      "category": "underwear",
-      "category_label": "内衣",
-      "title": "内衣",
-      "original": "originals/nsfw/underwear/shiraha_nsfw_underwear_019.png",
-      "thumb": "thumbs/nsfw/underwear/shiraha_nsfw_underwear_019.webp",
-      "classification": "visual_review"
+      "id": "shiraha_sfw_outfit_048",
+      "rating": "sfw",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 048",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_048.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_048.webp",
+      "source_name": "tsp-cache-544.png",
+      "sha256": "787b84c61f4aa44f8103730b8a17efa44dd231f90b4fdb97afd7c2a93a7681c1",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_sfw_outfit_049",
+      "rating": "sfw",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 049",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_049.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_049.webp",
+      "source_name": "tsp-cache-577.png",
+      "sha256": "f98a45648c76ad3d4eefd9994d8f88ed4299d6f26dc2e6b8e12d3aaff776f8b1",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_sfw_outfit_050",
+      "rating": "sfw",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 050",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_050.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_050.webp",
+      "source_name": "tsp-cache-414.png",
+      "sha256": "42025ed79fe524777a9afd731620871ad0db5fd139094632664991c7860fe250",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_sfw_outfit_051",
+      "rating": "sfw",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 051",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_051.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_051.webp",
+      "source_name": "tsp-cache-427.png",
+      "sha256": "8e2d3b555415a473d4b17f1271c49e4705ee909bdb3a7c4316a0c7552284000a",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_sfw_outfit_052",
+      "rating": "sfw",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 052",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_052.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_052.webp",
+      "source_name": "tsp-cache-454.png",
+      "sha256": "386193b826a690ee22ffe13d0dab4690ffc0d3041da233d084b1b32d97a1bfc0",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_sfw_outfit_053",
+      "rating": "sfw",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 053",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_053.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_053.webp",
+      "source_name": "tsp-cache-481.png",
+      "sha256": "9cd97411b0ef5d4f5aaea3a03d812dcc5e05edaa078ec542d4b8bb55d4ae22ce",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_sfw_outfit_054",
+      "rating": "sfw",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 054",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_054.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_054.webp",
+      "source_name": "tsp-cache-499.png",
+      "sha256": "15af64541e88493db3a821a7bf0b51e5ff13b17a99c1494dfd84d9416219bced",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_sfw_outfit_055",
+      "rating": "sfw",
+      "category": "outfit",
+      "category_label": "换装",
+      "title": "换装 · 055",
+      "original": "originals/sfw/outfit/shiraha_sfw_outfit_055.png",
+      "thumb": "thumbs/sfw/outfit/shiraha_sfw_outfit_055.webp",
+      "source_name": "tsp-cache-552.png",
+      "sha256": "97cbd80528e263bdb3fdf6ecdcfd3f2c72e6b46c9ee7932eee7310b0ae694094",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "换装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_sfw_swimwear_001",
+      "rating": "sfw",
+      "category": "swimwear",
+      "category_label": "泳装",
+      "title": "泳装 · 001",
+      "original": "originals/sfw/swimwear/shiraha_sfw_swimwear_001.png",
+      "thumb": "thumbs/sfw/swimwear/shiraha_sfw_swimwear_001.webp",
+      "source_name": "ChatGPT Image 2026年8月20日 20_06_23.png",
+      "sha256": "79affc80e369ff6b41e1e946a0b60dc6f9945ad4480e4d7c6aedca22de40ee04",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "泳装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_sfw_swimwear_002",
+      "rating": "sfw",
+      "category": "swimwear",
+      "category_label": "泳装",
+      "title": "泳装 · 002",
+      "original": "originals/sfw/swimwear/shiraha_sfw_swimwear_002.png",
+      "thumb": "thumbs/sfw/swimwear/shiraha_sfw_swimwear_002.webp",
+      "source_name": "ChatGPT Image 2026年8月20日 20_07_44.png",
+      "sha256": "d35732aaa75da57b56c01b855f9f55a730e80143d52da3aebdf5299d6a53cd4d",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "泳装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_sfw_swimwear_003",
+      "rating": "sfw",
+      "category": "swimwear",
+      "category_label": "泳装",
+      "title": "泳装 · 003",
+      "original": "originals/sfw/swimwear/shiraha_sfw_swimwear_003.png",
+      "thumb": "thumbs/sfw/swimwear/shiraha_sfw_swimwear_003.webp",
+      "source_name": "ChatGPT Image 2026年8月20日 20_07_58.png",
+      "sha256": "0652b5262fcc3b30509c93692570c105b7d4fe8755e554903e2b7c0368950b22",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "泳装"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_nsfw_nude_001",
       "rating": "nsfw",
       "category": "nude",
       "category_label": "裸体",
-      "title": "裸体",
+      "title": "裸体 · 001",
       "original": "originals/nsfw/nude/shiraha_nsfw_nude_001.png",
       "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_001.webp",
-      "classification": "visual_review"
+      "source_name": "tsp-cache-170.png",
+      "sha256": "566063cf9235ef57c685cdc3a14f9fbfcb158537e9fb80b90130958c1e2c4161",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "裸体"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_nsfw_nude_002",
       "rating": "nsfw",
       "category": "nude",
       "category_label": "裸体",
-      "title": "裸体",
+      "title": "裸体 · 002",
       "original": "originals/nsfw/nude/shiraha_nsfw_nude_002.png",
       "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_002.webp",
-      "classification": "visual_review"
+      "source_name": "tsp-cache-315.png",
+      "sha256": "a76d39e2d9784594bac8760da3e7fe48e6824f29e219146f9553e89f4304d33b",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "裸体"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_nsfw_nude_003",
       "rating": "nsfw",
       "category": "nude",
       "category_label": "裸体",
-      "title": "裸体",
+      "title": "裸体 · 003",
       "original": "originals/nsfw/nude/shiraha_nsfw_nude_003.png",
       "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_003.webp",
-      "classification": "visual_review"
+      "source_name": "tsp-cache-329.png",
+      "sha256": "bc63092ddd9180f483e038dbf59a2054f20c3b772e8419f3066b0223ade974f0",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "裸体"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_nsfw_nude_004",
       "rating": "nsfw",
       "category": "nude",
       "category_label": "裸体",
-      "title": "裸体",
+      "title": "裸体 · 004",
       "original": "originals/nsfw/nude/shiraha_nsfw_nude_004.png",
       "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_004.webp",
-      "classification": "visual_review"
+      "source_name": "tsp-cache-331.png",
+      "sha256": "d917053d4adba8b95f545b77d7a59ef2d74ce31c229e347e3ef09ad96db2de7b",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "裸体"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_nsfw_nude_005",
       "rating": "nsfw",
       "category": "nude",
       "category_label": "裸体",
-      "title": "裸体",
+      "title": "裸体 · 005",
       "original": "originals/nsfw/nude/shiraha_nsfw_nude_005.png",
       "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_005.webp",
-      "classification": "visual_review"
+      "source_name": "tsp-cache-340.png",
+      "sha256": "25d9ed018934a787358f201739ad603c91aba6473802806616c6492ccf5011ec",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "裸体"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_nsfw_nude_006",
       "rating": "nsfw",
       "category": "nude",
       "category_label": "裸体",
-      "title": "裸体",
+      "title": "裸体 · 006",
       "original": "originals/nsfw/nude/shiraha_nsfw_nude_006.png",
       "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_006.webp",
-      "classification": "visual_review"
-    },
-    {
-      "id": "shiraha_nsfw_nude_007",
-      "rating": "nsfw",
-      "category": "nude",
-      "category_label": "裸体",
-      "title": "裸体",
-      "original": "originals/nsfw/nude/shiraha_nsfw_nude_007.png",
-      "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_007.webp",
-      "classification": "visual_review"
-    },
-    {
-      "id": "shiraha_nsfw_nude_008",
-      "rating": "nsfw",
-      "category": "nude",
-      "category_label": "裸体",
-      "title": "裸体",
-      "original": "originals/nsfw/nude/shiraha_nsfw_nude_008.png",
-      "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_008.webp",
-      "classification": "visual_review"
-    },
-    {
-      "id": "shiraha_nsfw_nude_009",
-      "rating": "nsfw",
-      "category": "nude",
-      "category_label": "裸体",
-      "title": "裸体",
-      "original": "originals/nsfw/nude/shiraha_nsfw_nude_009.png",
-      "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_009.webp",
-      "classification": "visual_review"
-    },
-    {
-      "id": "shiraha_nsfw_nude_010",
-      "rating": "nsfw",
-      "category": "nude",
-      "category_label": "裸体",
-      "title": "裸体",
-      "original": "originals/nsfw/nude/shiraha_nsfw_nude_010.png",
-      "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_010.webp",
-      "classification": "visual_review"
-    },
-    {
-      "id": "shiraha_nsfw_nude_011",
-      "rating": "nsfw",
-      "category": "nude",
-      "category_label": "裸体",
-      "title": "裸体",
-      "original": "originals/nsfw/nude/shiraha_nsfw_nude_011.png",
-      "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_011.webp",
-      "classification": "visual_review"
-    },
-    {
-      "id": "shiraha_nsfw_nude_012",
-      "rating": "nsfw",
-      "category": "nude",
-      "category_label": "裸体",
-      "title": "裸体",
-      "original": "originals/nsfw/nude/shiraha_nsfw_nude_012.png",
-      "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_012.webp",
-      "classification": "visual_review"
-    },
-    {
-      "id": "shiraha_nsfw_nude_013",
-      "rating": "nsfw",
-      "category": "nude",
-      "category_label": "裸体",
-      "title": "裸体",
-      "original": "originals/nsfw/nude/shiraha_nsfw_nude_013.png",
-      "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_013.webp",
-      "classification": "visual_review"
-    },
-    {
-      "id": "shiraha_nsfw_nude_014",
-      "rating": "nsfw",
-      "category": "nude",
-      "category_label": "裸体",
-      "title": "裸体",
-      "original": "originals/nsfw/nude/shiraha_nsfw_nude_014.png",
-      "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_014.webp",
-      "classification": "visual_review"
-    },
-    {
-      "id": "shiraha_nsfw_nude_015",
-      "rating": "nsfw",
-      "category": "nude",
-      "category_label": "裸体",
-      "title": "裸体",
-      "original": "originals/nsfw/nude/shiraha_nsfw_nude_015.png",
-      "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_015.webp",
-      "classification": "visual_review"
-    },
-    {
-      "id": "shiraha_nsfw_nude_016",
-      "rating": "nsfw",
-      "category": "nude",
-      "category_label": "裸体",
-      "title": "裸体",
-      "original": "originals/nsfw/nude/shiraha_nsfw_nude_016.png",
-      "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_016.webp",
-      "classification": "visual_review"
-    },
-    {
-      "id": "shiraha_nsfw_nude_017",
-      "rating": "nsfw",
-      "category": "nude",
-      "category_label": "裸体",
-      "title": "裸体",
-      "original": "originals/nsfw/nude/shiraha_nsfw_nude_017.png",
-      "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_017.webp",
-      "classification": "visual_review"
-    },
-    {
-      "id": "shiraha_nsfw_nude_018",
-      "rating": "nsfw",
-      "category": "nude",
-      "category_label": "裸体",
-      "title": "裸体",
-      "original": "originals/nsfw/nude/shiraha_nsfw_nude_018.png",
-      "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_018.webp",
-      "classification": "visual_review"
-    },
-    {
-      "id": "shiraha_nsfw_nude_019",
-      "rating": "nsfw",
-      "category": "nude",
-      "category_label": "裸体",
-      "title": "裸体",
-      "original": "originals/nsfw/nude/shiraha_nsfw_nude_019.png",
-      "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_019.webp",
-      "classification": "visual_review"
-    },
-    {
-      "id": "shiraha_nsfw_nude_020",
-      "rating": "nsfw",
-      "category": "nude",
-      "category_label": "裸体",
-      "title": "裸体",
-      "original": "originals/nsfw/nude/shiraha_nsfw_nude_020.png",
-      "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_020.webp",
-      "classification": "visual_review"
-    },
-    {
-      "id": "shiraha_nsfw_nude_021",
-      "rating": "nsfw",
-      "category": "nude",
-      "category_label": "裸体",
-      "title": "裸体",
-      "original": "originals/nsfw/nude/shiraha_nsfw_nude_021.png",
-      "thumb": "thumbs/nsfw/nude/shiraha_nsfw_nude_021.webp",
-      "classification": "visual_review"
+      "source_name": "tsp-cache-345.png",
+      "sha256": "d2b0f35a0e2a9179603b24a9527074777cb69746775a1dd1245e977eafee3bc6",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "裸体"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_nsfw_masturbation_001",
       "rating": "nsfw",
       "category": "masturbation",
       "category_label": "自慰",
-      "title": "自慰",
+      "title": "自慰 · 001",
       "original": "originals/nsfw/masturbation/shiraha_nsfw_masturbation_001.png",
       "thumb": "thumbs/nsfw/masturbation/shiraha_nsfw_masturbation_001.webp",
-      "classification": "visual_review"
+      "source_name": "tsp-cache-352.png",
+      "sha256": "0541449cc52affc2b250c8c87bdf7f600043285eb9c4d6ccc6ab3daf2f9a46d4",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "自慰"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_nsfw_masturbation_002",
       "rating": "nsfw",
       "category": "masturbation",
       "category_label": "自慰",
-      "title": "自慰",
+      "title": "自慰 · 002",
       "original": "originals/nsfw/masturbation/shiraha_nsfw_masturbation_002.png",
       "thumb": "thumbs/nsfw/masturbation/shiraha_nsfw_masturbation_002.webp",
-      "classification": "visual_review"
+      "source_name": "tsp-cache-411.png",
+      "sha256": "1398e347bd61a7ffdd49faa5fc4305d17f413907fbee6721b2365584a1f558fe",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "自慰"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_nsfw_masturbation_003",
       "rating": "nsfw",
       "category": "masturbation",
       "category_label": "自慰",
-      "title": "自慰",
+      "title": "自慰 · 003",
       "original": "originals/nsfw/masturbation/shiraha_nsfw_masturbation_003.png",
       "thumb": "thumbs/nsfw/masturbation/shiraha_nsfw_masturbation_003.webp",
-      "classification": "visual_review"
+      "source_name": "tsp-cache-460.png",
+      "sha256": "c359534541f53a17b7c2b9b6c147a582ab65f604c243edd1006739d89e6fc583",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "自慰"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_nsfw_masturbation_004",
       "rating": "nsfw",
       "category": "masturbation",
       "category_label": "自慰",
-      "title": "自慰",
+      "title": "自慰 · 004",
       "original": "originals/nsfw/masturbation/shiraha_nsfw_masturbation_004.png",
       "thumb": "thumbs/nsfw/masturbation/shiraha_nsfw_masturbation_004.webp",
-      "classification": "visual_review"
+      "source_name": "tsp-cache-472.png",
+      "sha256": "cee37fd7c38325fc0852281818321e0ce615d4962cd198a21cd986fa276bf18b",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "自慰"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_nsfw_masturbation_005",
       "rating": "nsfw",
       "category": "masturbation",
       "category_label": "自慰",
-      "title": "自慰",
+      "title": "自慰 · 005",
       "original": "originals/nsfw/masturbation/shiraha_nsfw_masturbation_005.png",
       "thumb": "thumbs/nsfw/masturbation/shiraha_nsfw_masturbation_005.webp",
-      "classification": "visual_review"
+      "source_name": "tsp-cache-497.png",
+      "sha256": "2dfafeaf3f236e56499603bb754b5dc86eb593332f812b2a57e5815094fd6173",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "自慰"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_nsfw_masturbation_006",
       "rating": "nsfw",
       "category": "masturbation",
       "category_label": "自慰",
-      "title": "自慰",
+      "title": "自慰 · 006",
       "original": "originals/nsfw/masturbation/shiraha_nsfw_masturbation_006.png",
       "thumb": "thumbs/nsfw/masturbation/shiraha_nsfw_masturbation_006.webp",
-      "classification": "visual_review"
-    },
-    {
-      "id": "shiraha_nsfw_masturbation_007",
-      "rating": "nsfw",
-      "category": "masturbation",
-      "category_label": "自慰",
-      "title": "自慰",
-      "original": "originals/nsfw/masturbation/shiraha_nsfw_masturbation_007.png",
-      "thumb": "thumbs/nsfw/masturbation/shiraha_nsfw_masturbation_007.webp",
-      "classification": "visual_review"
+      "source_name": "tsp-cache-522.png",
+      "sha256": "4c38f10d896017f7400bfed8f92133797d235a99ab27a087665c00ae60a6bf41",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "自慰"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_nsfw_handjob_001",
       "rating": "nsfw",
       "category": "handjob",
       "category_label": "手交",
-      "title": "手交",
+      "title": "手交 · 001",
       "original": "originals/nsfw/handjob/shiraha_nsfw_handjob_001.png",
       "thumb": "thumbs/nsfw/handjob/shiraha_nsfw_handjob_001.webp",
-      "classification": "visual_review"
+      "source_name": "tsp-cache-467.png",
+      "sha256": "217392ac11d266e61ec7773ad6195777a9d78bae0d69e057dd19253a9eec0b81",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "手交"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_nsfw_handjob_002",
       "rating": "nsfw",
       "category": "handjob",
       "category_label": "手交",
-      "title": "手交",
+      "title": "手交 · 002",
       "original": "originals/nsfw/handjob/shiraha_nsfw_handjob_002.png",
       "thumb": "thumbs/nsfw/handjob/shiraha_nsfw_handjob_002.webp",
-      "classification": "visual_review"
+      "source_name": "tsp-cache-528.png",
+      "sha256": "bb918d4db3e1a68aa0a8fb425f94367c3502e376bfb44cd4717218db638fbf49",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "手交"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_handjob_003",
+      "rating": "nsfw",
+      "category": "handjob",
+      "category_label": "手交",
+      "title": "手交 · 003",
+      "original": "originals/nsfw/handjob/shiraha_nsfw_handjob_003.png",
+      "thumb": "thumbs/nsfw/handjob/shiraha_nsfw_handjob_003.webp",
+      "source_name": "tsp-cache-535.png",
+      "sha256": "bf7dad28c84cb56f75b180326524169e28037040a5b7d936b268091ff1dcd1ed",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "手交"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_handjob_004",
+      "rating": "nsfw",
+      "category": "handjob",
+      "category_label": "手交",
+      "title": "手交 · 004",
+      "original": "originals/nsfw/handjob/shiraha_nsfw_handjob_004.png",
+      "thumb": "thumbs/nsfw/handjob/shiraha_nsfw_handjob_004.webp",
+      "source_name": "tsp-cache-543.png",
+      "sha256": "e2d5c04e1621d953fb1eac94b332e724b13eff7214d1fedb9c52019ae1c65283",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "手交"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_nsfw_blowjob_001",
       "rating": "nsfw",
       "category": "blowjob",
       "category_label": "口交",
-      "title": "口交",
+      "title": "口交 · 001",
       "original": "originals/nsfw/blowjob/shiraha_nsfw_blowjob_001.png",
       "thumb": "thumbs/nsfw/blowjob/shiraha_nsfw_blowjob_001.webp",
-      "classification": "visual_review"
+      "source_name": "tsp-cache-350.png",
+      "sha256": "589df902cd653d8571118bce8c3729c547b18b570ee68e318b4cad351bb74964",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "口交"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_nsfw_blowjob_002",
       "rating": "nsfw",
       "category": "blowjob",
       "category_label": "口交",
-      "title": "口交",
+      "title": "口交 · 002",
       "original": "originals/nsfw/blowjob/shiraha_nsfw_blowjob_002.png",
       "thumb": "thumbs/nsfw/blowjob/shiraha_nsfw_blowjob_002.webp",
-      "classification": "visual_review"
+      "source_name": "tsp-cache-357.png",
+      "sha256": "eaf8f3dcf4d88e3ca77e2da459ebcf3a27f25fde741cffeae73cee5eb2f15afe",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "口交"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_nsfw_blowjob_003",
       "rating": "nsfw",
       "category": "blowjob",
       "category_label": "口交",
-      "title": "口交",
+      "title": "口交 · 003",
       "original": "originals/nsfw/blowjob/shiraha_nsfw_blowjob_003.png",
       "thumb": "thumbs/nsfw/blowjob/shiraha_nsfw_blowjob_003.webp",
-      "classification": "visual_review"
+      "source_name": "tsp-cache-382.png",
+      "sha256": "4069bf2f9e630a9a3f4241348ae30a3929f39c93aabbc0d77a6f3df8578c1513",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "口交"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_nsfw_blowjob_004",
       "rating": "nsfw",
       "category": "blowjob",
       "category_label": "口交",
-      "title": "口交",
+      "title": "口交 · 004",
       "original": "originals/nsfw/blowjob/shiraha_nsfw_blowjob_004.png",
       "thumb": "thumbs/nsfw/blowjob/shiraha_nsfw_blowjob_004.webp",
-      "classification": "visual_review"
+      "source_name": "tsp-cache-387.png",
+      "sha256": "96bf8fcfea4a183700376f8d7c9288ff575d6927bd7347a04339f64565029b9f",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "口交"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_nsfw_blowjob_005",
       "rating": "nsfw",
       "category": "blowjob",
       "category_label": "口交",
-      "title": "口交",
+      "title": "口交 · 005",
       "original": "originals/nsfw/blowjob/shiraha_nsfw_blowjob_005.png",
       "thumb": "thumbs/nsfw/blowjob/shiraha_nsfw_blowjob_005.webp",
-      "classification": "visual_review"
+      "source_name": "tsp-cache-397.png",
+      "sha256": "39ea411ba7520a19d421a113af2208cac99108a090e20f587a2bd5d971d261f0",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "口交"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_blowjob_006",
+      "rating": "nsfw",
+      "category": "blowjob",
+      "category_label": "口交",
+      "title": "口交 · 006",
+      "original": "originals/nsfw/blowjob/shiraha_nsfw_blowjob_006.png",
+      "thumb": "thumbs/nsfw/blowjob/shiraha_nsfw_blowjob_006.webp",
+      "source_name": "tsp-cache-408.png",
+      "sha256": "9d001639362d968f32ee1ea8ae8fc32f40f027f835ece48bde2bcb2bfc23aa43",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "口交"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_blowjob_007",
+      "rating": "nsfw",
+      "category": "blowjob",
+      "category_label": "口交",
+      "title": "口交 · 007",
+      "original": "originals/nsfw/blowjob/shiraha_nsfw_blowjob_007.png",
+      "thumb": "thumbs/nsfw/blowjob/shiraha_nsfw_blowjob_007.webp",
+      "source_name": "tsp-cache-416.png",
+      "sha256": "603a261a31aafbeaa31ae95780e383721c320768b90c539b1a182d084b1c41ca",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "口交"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_blowjob_008",
+      "rating": "nsfw",
+      "category": "blowjob",
+      "category_label": "口交",
+      "title": "口交 · 008",
+      "original": "originals/nsfw/blowjob/shiraha_nsfw_blowjob_008.png",
+      "thumb": "thumbs/nsfw/blowjob/shiraha_nsfw_blowjob_008.webp",
+      "source_name": "tsp-cache-431.png",
+      "sha256": "3b5f268099066dc847bd1e6c49342cad8f91f81842ac88cb0808cd101879a403",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "口交"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_blowjob_009",
+      "rating": "nsfw",
+      "category": "blowjob",
+      "category_label": "口交",
+      "title": "口交 · 009",
+      "original": "originals/nsfw/blowjob/shiraha_nsfw_blowjob_009.png",
+      "thumb": "thumbs/nsfw/blowjob/shiraha_nsfw_blowjob_009.webp",
+      "source_name": "tsp-cache-442.png",
+      "sha256": "59b89d95c201ebe865fdb2d12f5c54d411f51f893f23d6a59e4fc85835ea6e5a",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "口交"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_blowjob_010",
+      "rating": "nsfw",
+      "category": "blowjob",
+      "category_label": "口交",
+      "title": "口交 · 010",
+      "original": "originals/nsfw/blowjob/shiraha_nsfw_blowjob_010.png",
+      "thumb": "thumbs/nsfw/blowjob/shiraha_nsfw_blowjob_010.webp",
+      "source_name": "tsp-cache-545.png",
+      "sha256": "d8e563d27579b9a4c0a0da3ea193a3062ab0f5d55f2f5f9c4b9df9e6c9080eed",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "口交"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_blowjob_011",
+      "rating": "nsfw",
+      "category": "blowjob",
+      "category_label": "口交",
+      "title": "口交 · 011",
+      "original": "originals/nsfw/blowjob/shiraha_nsfw_blowjob_011.png",
+      "thumb": "thumbs/nsfw/blowjob/shiraha_nsfw_blowjob_011.webp",
+      "source_name": "tsp-cache-548.png",
+      "sha256": "042f9d0e56c310ef73acbee971b3ebea7929087b790ab9ce8f84d5862766dc2f",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "口交"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_blowjob_012",
+      "rating": "nsfw",
+      "category": "blowjob",
+      "category_label": "口交",
+      "title": "口交 · 012",
+      "original": "originals/nsfw/blowjob/shiraha_nsfw_blowjob_012.png",
+      "thumb": "thumbs/nsfw/blowjob/shiraha_nsfw_blowjob_012.webp",
+      "source_name": "tsp-cache-554.png",
+      "sha256": "5661c69b793e35a81e49119efbe9b3b563d6c5b8afcd9684c2aa60957e77e870",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "口交"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_nsfw_titjob_001",
       "rating": "nsfw",
       "category": "titjob",
       "category_label": "乳交",
-      "title": "乳交",
+      "title": "乳交 · 001",
       "original": "originals/nsfw/titjob/shiraha_nsfw_titjob_001.png",
       "thumb": "thumbs/nsfw/titjob/shiraha_nsfw_titjob_001.webp",
-      "classification": "visual_review"
+      "source_name": "tsp-cache-335.png",
+      "sha256": "7763403ce4b937e6baf5c5fdd78b898f046fc6cdbe43f225921baf4979d8f7b0",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "乳交"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_nsfw_titjob_002",
       "rating": "nsfw",
       "category": "titjob",
       "category_label": "乳交",
-      "title": "乳交",
+      "title": "乳交 · 002",
       "original": "originals/nsfw/titjob/shiraha_nsfw_titjob_002.png",
       "thumb": "thumbs/nsfw/titjob/shiraha_nsfw_titjob_002.webp",
-      "classification": "visual_review"
+      "source_name": "tsp-cache-341.png",
+      "sha256": "e305e2eca24d664083518c56453a7af1409222dd4eb85c92658b8008b97de103",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "乳交"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_nsfw_titjob_003",
       "rating": "nsfw",
       "category": "titjob",
       "category_label": "乳交",
-      "title": "乳交",
+      "title": "乳交 · 003",
       "original": "originals/nsfw/titjob/shiraha_nsfw_titjob_003.png",
       "thumb": "thumbs/nsfw/titjob/shiraha_nsfw_titjob_003.webp",
-      "classification": "visual_review"
+      "source_name": "tsp-cache-346.png",
+      "sha256": "22055163efa3b790abbe9380f3074b01f7c72500f3ff5741fbcf7d38e61487ae",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "乳交"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_nsfw_titjob_004",
       "rating": "nsfw",
       "category": "titjob",
       "category_label": "乳交",
-      "title": "乳交",
+      "title": "乳交 · 004",
       "original": "originals/nsfw/titjob/shiraha_nsfw_titjob_004.png",
       "thumb": "thumbs/nsfw/titjob/shiraha_nsfw_titjob_004.webp",
-      "classification": "visual_review"
+      "source_name": "tsp-cache-356.png",
+      "sha256": "b4b6e6f16357cec985c96a9eb2d1bddd8bf35a2c3f382342570c80938d1de0dc",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "乳交"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_nsfw_titjob_005",
       "rating": "nsfw",
       "category": "titjob",
       "category_label": "乳交",
-      "title": "乳交",
+      "title": "乳交 · 005",
       "original": "originals/nsfw/titjob/shiraha_nsfw_titjob_005.png",
       "thumb": "thumbs/nsfw/titjob/shiraha_nsfw_titjob_005.webp",
-      "classification": "visual_review"
+      "source_name": "tsp-cache-362.png",
+      "sha256": "a6f8ce3b3214cd3076e768b90e5d8b015c6cefc24ac362eb73f9ec4873316aa4",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "乳交"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_titjob_006",
+      "rating": "nsfw",
+      "category": "titjob",
+      "category_label": "乳交",
+      "title": "乳交 · 006",
+      "original": "originals/nsfw/titjob/shiraha_nsfw_titjob_006.png",
+      "thumb": "thumbs/nsfw/titjob/shiraha_nsfw_titjob_006.webp",
+      "source_name": "tsp-cache-402.png",
+      "sha256": "e8baf1b7262a9228b7c42a584c8509e37a050752bae648b8f1bd5bada4ea20b3",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "乳交"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_titjob_007",
+      "rating": "nsfw",
+      "category": "titjob",
+      "category_label": "乳交",
+      "title": "乳交 · 007",
+      "original": "originals/nsfw/titjob/shiraha_nsfw_titjob_007.png",
+      "thumb": "thumbs/nsfw/titjob/shiraha_nsfw_titjob_007.webp",
+      "source_name": "tsp-cache-407.png",
+      "sha256": "90816da6ffb6418017e6d83dc088cb92d1a50002eb51f7f98f116d55fe89202b",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "乳交"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_titjob_008",
+      "rating": "nsfw",
+      "category": "titjob",
+      "category_label": "乳交",
+      "title": "乳交 · 008",
+      "original": "originals/nsfw/titjob/shiraha_nsfw_titjob_008.png",
+      "thumb": "thumbs/nsfw/titjob/shiraha_nsfw_titjob_008.webp",
+      "source_name": "tsp-cache-422.png",
+      "sha256": "7caf0c91d32daa902512559edc70a481334fe3b1f8c2317a818c7bcbbc38bfe8",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "乳交"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_titjob_009",
+      "rating": "nsfw",
+      "category": "titjob",
+      "category_label": "乳交",
+      "title": "乳交 · 009",
+      "original": "originals/nsfw/titjob/shiraha_nsfw_titjob_009.png",
+      "thumb": "thumbs/nsfw/titjob/shiraha_nsfw_titjob_009.webp",
+      "source_name": "tsp-cache-520.png",
+      "sha256": "4af74f7415d6c0251117eca9417317fe9ba0cb537370d9d7b339d47508530ff8",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "乳交"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_titjob_010",
+      "rating": "nsfw",
+      "category": "titjob",
+      "category_label": "乳交",
+      "title": "乳交 · 010",
+      "original": "originals/nsfw/titjob/shiraha_nsfw_titjob_010.png",
+      "thumb": "thumbs/nsfw/titjob/shiraha_nsfw_titjob_010.webp",
+      "source_name": "tsp-cache-565.png",
+      "sha256": "58936bea134c765354ffe8ec8a6865ca88a8933e62ade7bf788283b8cdf485ac",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "乳交"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_titjob_011",
+      "rating": "nsfw",
+      "category": "titjob",
+      "category_label": "乳交",
+      "title": "乳交 · 011",
+      "original": "originals/nsfw/titjob/shiraha_nsfw_titjob_011.png",
+      "thumb": "thumbs/nsfw/titjob/shiraha_nsfw_titjob_011.webp",
+      "source_name": "tsp-cache-568.png",
+      "sha256": "0abc93b5adb873f17b909675bc436f0c489f0760c1405e6f0db8670eef8a0be3",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "乳交"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_titjob_012",
+      "rating": "nsfw",
+      "category": "titjob",
+      "category_label": "乳交",
+      "title": "乳交 · 012",
+      "original": "originals/nsfw/titjob/shiraha_nsfw_titjob_012.png",
+      "thumb": "thumbs/nsfw/titjob/shiraha_nsfw_titjob_012.webp",
+      "source_name": "tsp-cache-342.png",
+      "sha256": "3d0cdd84ce8bca83b1c36fb25fee1b34e01a90b1162481be907f532843dc13fb",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "乳交"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_nsfw_missionary_001",
       "rating": "nsfw",
       "category": "missionary",
       "category_label": "传教士",
-      "title": "传教士",
+      "title": "传教士 · 001",
       "original": "originals/nsfw/missionary/shiraha_nsfw_missionary_001.png",
       "thumb": "thumbs/nsfw/missionary/shiraha_nsfw_missionary_001.webp",
-      "classification": "visual_review"
+      "source_name": "tsp-cache-405.png",
+      "sha256": "bcf816b565a7e98bc635bce863aec4e5923307039b10e5ca647dbf4ebc920462",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "传教士"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_missionary_002",
+      "rating": "nsfw",
+      "category": "missionary",
+      "category_label": "传教士",
+      "title": "传教士 · 002",
+      "original": "originals/nsfw/missionary/shiraha_nsfw_missionary_002.png",
+      "thumb": "thumbs/nsfw/missionary/shiraha_nsfw_missionary_002.webp",
+      "source_name": "tsp-cache-406.png",
+      "sha256": "27f1db7b655b0183f46e9d8b66193c8f82685b2da46e65b2f443336759a8cea0",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "传教士"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_missionary_003",
+      "rating": "nsfw",
+      "category": "missionary",
+      "category_label": "传教士",
+      "title": "传教士 · 003",
+      "original": "originals/nsfw/missionary/shiraha_nsfw_missionary_003.png",
+      "thumb": "thumbs/nsfw/missionary/shiraha_nsfw_missionary_003.webp",
+      "source_name": "tsp-cache-417.png",
+      "sha256": "ef1f3270093ccafcc867e025ec6e70903392eb78141164c2b7cf828aa7d9b0fd",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "传教士"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_missionary_004",
+      "rating": "nsfw",
+      "category": "missionary",
+      "category_label": "传教士",
+      "title": "传教士 · 004",
+      "original": "originals/nsfw/missionary/shiraha_nsfw_missionary_004.png",
+      "thumb": "thumbs/nsfw/missionary/shiraha_nsfw_missionary_004.webp",
+      "source_name": "tsp-cache-423.png",
+      "sha256": "47fa0b8708d4efb5dd8ab552289cb201c41ce4d0230b1726f5e9748fb85be42f",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "传教士"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_missionary_005",
+      "rating": "nsfw",
+      "category": "missionary",
+      "category_label": "传教士",
+      "title": "传教士 · 005",
+      "original": "originals/nsfw/missionary/shiraha_nsfw_missionary_005.png",
+      "thumb": "thumbs/nsfw/missionary/shiraha_nsfw_missionary_005.webp",
+      "source_name": "tsp-cache-450.png",
+      "sha256": "994158a808a09bac01bbe128a1f48f1238c273bf620e2237cd5edb4ee4e0972d",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "传教士"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_missionary_006",
+      "rating": "nsfw",
+      "category": "missionary",
+      "category_label": "传教士",
+      "title": "传教士 · 006",
+      "original": "originals/nsfw/missionary/shiraha_nsfw_missionary_006.png",
+      "thumb": "thumbs/nsfw/missionary/shiraha_nsfw_missionary_006.webp",
+      "source_name": "tsp-cache-469.png",
+      "sha256": "37166a0a79513c9de388c8caa1f381906d50bfd0e838b80218abb824d816de01",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "传教士"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_missionary_007",
+      "rating": "nsfw",
+      "category": "missionary",
+      "category_label": "传教士",
+      "title": "传教士 · 007",
+      "original": "originals/nsfw/missionary/shiraha_nsfw_missionary_007.png",
+      "thumb": "thumbs/nsfw/missionary/shiraha_nsfw_missionary_007.webp",
+      "source_name": "tsp-cache-478.png",
+      "sha256": "65042228f2233aa7cfb357f54703ed3e9553883f72339acc72a7aa2447edddbb",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "传教士"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_missionary_008",
+      "rating": "nsfw",
+      "category": "missionary",
+      "category_label": "传教士",
+      "title": "传教士 · 008",
+      "original": "originals/nsfw/missionary/shiraha_nsfw_missionary_008.png",
+      "thumb": "thumbs/nsfw/missionary/shiraha_nsfw_missionary_008.webp",
+      "source_name": "tsp-cache-530.png",
+      "sha256": "3f935c8653d47780298ca5b0e2c80ee192fd2e8afd5cbadbb699393900ba92f4",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "传教士"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_missionary_009",
+      "rating": "nsfw",
+      "category": "missionary",
+      "category_label": "传教士",
+      "title": "传教士 · 009",
+      "original": "originals/nsfw/missionary/shiraha_nsfw_missionary_009.png",
+      "thumb": "thumbs/nsfw/missionary/shiraha_nsfw_missionary_009.webp",
+      "source_name": "tsp-cache-532.png",
+      "sha256": "9ab2ad63d450a8ba071b220b82ef2ff4a8eae4040e018c0dbc506c5b0f451f95",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "传教士"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_missionary_010",
+      "rating": "nsfw",
+      "category": "missionary",
+      "category_label": "传教士",
+      "title": "传教士 · 010",
+      "original": "originals/nsfw/missionary/shiraha_nsfw_missionary_010.png",
+      "thumb": "thumbs/nsfw/missionary/shiraha_nsfw_missionary_010.webp",
+      "source_name": "tsp-cache-539.png",
+      "sha256": "c392d540740bc61e496aa2f82a375f8a9c43c484afdcfb4bdaec89b4de1f368b",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "传教士"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_missionary_011",
+      "rating": "nsfw",
+      "category": "missionary",
+      "category_label": "传教士",
+      "title": "传教士 · 011",
+      "original": "originals/nsfw/missionary/shiraha_nsfw_missionary_011.png",
+      "thumb": "thumbs/nsfw/missionary/shiraha_nsfw_missionary_011.webp",
+      "source_name": "tsp-cache-549.png",
+      "sha256": "7d109b4f55a6a3db1cc6f9a0e8f0964a11178f70181e63a8d4bf41c6ef658168",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "传教士"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_missionary_012",
+      "rating": "nsfw",
+      "category": "missionary",
+      "category_label": "传教士",
+      "title": "传教士 · 012",
+      "original": "originals/nsfw/missionary/shiraha_nsfw_missionary_012.png",
+      "thumb": "thumbs/nsfw/missionary/shiraha_nsfw_missionary_012.webp",
+      "source_name": "tsp-cache-558.png",
+      "sha256": "86187ee11bf8e6f17c9197439b738574fcd90b7b9b4446c808d95f77c7e3c665",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "传教士"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_missionary_013",
+      "rating": "nsfw",
+      "category": "missionary",
+      "category_label": "传教士",
+      "title": "传教士 · 013",
+      "original": "originals/nsfw/missionary/shiraha_nsfw_missionary_013.png",
+      "thumb": "thumbs/nsfw/missionary/shiraha_nsfw_missionary_013.webp",
+      "source_name": "tsp-cache-570.png",
+      "sha256": "c9d7bd2b122a2e602507e40e666825912fdb43cbf40aabc395c0de486ff8bc87",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "传教士"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_nsfw_doggy_001",
       "rating": "nsfw",
       "category": "doggy",
       "category_label": "后入",
-      "title": "后入",
+      "title": "后入 · 001",
       "original": "originals/nsfw/doggy/shiraha_nsfw_doggy_001.png",
       "thumb": "thumbs/nsfw/doggy/shiraha_nsfw_doggy_001.webp",
-      "classification": "visual_review"
+      "source_name": "tsp-cache-214.png",
+      "sha256": "b6bf81b17b9fe5bcf2e521bb78c0ecbd1222f98b1fc35b05afb7a00683c9a104",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "后入"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_doggy_002",
+      "rating": "nsfw",
+      "category": "doggy",
+      "category_label": "后入",
+      "title": "后入 · 002",
+      "original": "originals/nsfw/doggy/shiraha_nsfw_doggy_002.png",
+      "thumb": "thumbs/nsfw/doggy/shiraha_nsfw_doggy_002.webp",
+      "source_name": "tsp-cache-215.png",
+      "sha256": "7308a6a07c80c279df2d29cad949d2ffe8ebbc4582a6f94f0255ef1741a62138",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "后入"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_doggy_003",
+      "rating": "nsfw",
+      "category": "doggy",
+      "category_label": "后入",
+      "title": "后入 · 003",
+      "original": "originals/nsfw/doggy/shiraha_nsfw_doggy_003.png",
+      "thumb": "thumbs/nsfw/doggy/shiraha_nsfw_doggy_003.webp",
+      "source_name": "tsp-cache-216.png",
+      "sha256": "eca7be1a88d6f6a9caff46bece7e94357acfcd78c51af2eb8365d241b950a9c6",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "后入"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_doggy_004",
+      "rating": "nsfw",
+      "category": "doggy",
+      "category_label": "后入",
+      "title": "后入 · 004",
+      "original": "originals/nsfw/doggy/shiraha_nsfw_doggy_004.png",
+      "thumb": "thumbs/nsfw/doggy/shiraha_nsfw_doggy_004.webp",
+      "source_name": "tsp-cache-217.png",
+      "sha256": "bfbd180ba36c6f48614cd719129e17398169a80daac756af6fd0b1b30bc864a5",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "后入"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_doggy_005",
+      "rating": "nsfw",
+      "category": "doggy",
+      "category_label": "后入",
+      "title": "后入 · 005",
+      "original": "originals/nsfw/doggy/shiraha_nsfw_doggy_005.png",
+      "thumb": "thumbs/nsfw/doggy/shiraha_nsfw_doggy_005.webp",
+      "source_name": "tsp-cache-218.png",
+      "sha256": "3368033e6fadc401786fbd8eac915d98693dc9bd50da05737328d6d9aebba2a9",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "后入"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_doggy_006",
+      "rating": "nsfw",
+      "category": "doggy",
+      "category_label": "后入",
+      "title": "后入 · 006",
+      "original": "originals/nsfw/doggy/shiraha_nsfw_doggy_006.png",
+      "thumb": "thumbs/nsfw/doggy/shiraha_nsfw_doggy_006.webp",
+      "source_name": "tsp-cache-219.png",
+      "sha256": "b3693c1f14351fc18ff1e56c39af14be4a55fdb5ad20e4a61dc5604d457d45cb",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "后入"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_doggy_007",
+      "rating": "nsfw",
+      "category": "doggy",
+      "category_label": "后入",
+      "title": "后入 · 007",
+      "original": "originals/nsfw/doggy/shiraha_nsfw_doggy_007.png",
+      "thumb": "thumbs/nsfw/doggy/shiraha_nsfw_doggy_007.webp",
+      "source_name": "tsp-cache-221.png",
+      "sha256": "44e5b518d0ce2d8afca7e054ce0f95b4d8da45914be70003fabe78a9792afd19",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "后入"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_doggy_008",
+      "rating": "nsfw",
+      "category": "doggy",
+      "category_label": "后入",
+      "title": "后入 · 008",
+      "original": "originals/nsfw/doggy/shiraha_nsfw_doggy_008.png",
+      "thumb": "thumbs/nsfw/doggy/shiraha_nsfw_doggy_008.webp",
+      "source_name": "tsp-cache-226.png",
+      "sha256": "eb335affe3ad95c3c9a98db54b89048432a531d3eea7f2d7f52c506b1e22feeb",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "后入"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_doggy_009",
+      "rating": "nsfw",
+      "category": "doggy",
+      "category_label": "后入",
+      "title": "后入 · 009",
+      "original": "originals/nsfw/doggy/shiraha_nsfw_doggy_009.png",
+      "thumb": "thumbs/nsfw/doggy/shiraha_nsfw_doggy_009.webp",
+      "source_name": "tsp-cache-232.png",
+      "sha256": "87791949f702b2c1ed28e1f156e6837983e964f9fd2d271a065436fd2a9160ad",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "后入"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_doggy_010",
+      "rating": "nsfw",
+      "category": "doggy",
+      "category_label": "后入",
+      "title": "后入 · 010",
+      "original": "originals/nsfw/doggy/shiraha_nsfw_doggy_010.png",
+      "thumb": "thumbs/nsfw/doggy/shiraha_nsfw_doggy_010.webp",
+      "source_name": "tsp-cache-235.png",
+      "sha256": "bc002d4c014271451a4cf7c6e3805322068742f0941a6e62459de650ddda9686",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "后入"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_doggy_011",
+      "rating": "nsfw",
+      "category": "doggy",
+      "category_label": "后入",
+      "title": "后入 · 011",
+      "original": "originals/nsfw/doggy/shiraha_nsfw_doggy_011.png",
+      "thumb": "thumbs/nsfw/doggy/shiraha_nsfw_doggy_011.webp",
+      "source_name": "tsp-cache-237.png",
+      "sha256": "c6b1831444977a501b30721502878c490a3ef9f320c92c28dbdb263f3b665526",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "后入"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_doggy_012",
+      "rating": "nsfw",
+      "category": "doggy",
+      "category_label": "后入",
+      "title": "后入 · 012",
+      "original": "originals/nsfw/doggy/shiraha_nsfw_doggy_012.png",
+      "thumb": "thumbs/nsfw/doggy/shiraha_nsfw_doggy_012.webp",
+      "source_name": "tsp-cache-238.png",
+      "sha256": "5f6d71a6ae87aef55271a4e1eff49ca385cb951bb7f47b9acf47aea250741987",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "后入"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_doggy_013",
+      "rating": "nsfw",
+      "category": "doggy",
+      "category_label": "后入",
+      "title": "后入 · 013",
+      "original": "originals/nsfw/doggy/shiraha_nsfw_doggy_013.png",
+      "thumb": "thumbs/nsfw/doggy/shiraha_nsfw_doggy_013.webp",
+      "source_name": "tsp-cache-244.png",
+      "sha256": "5e9daf4beb8b2513380710346c470d63935db02f845c3d0b82dfc29496b15521",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "后入"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_doggy_014",
+      "rating": "nsfw",
+      "category": "doggy",
+      "category_label": "后入",
+      "title": "后入 · 014",
+      "original": "originals/nsfw/doggy/shiraha_nsfw_doggy_014.png",
+      "thumb": "thumbs/nsfw/doggy/shiraha_nsfw_doggy_014.webp",
+      "source_name": "tsp-cache-305.png",
+      "sha256": "9855bd26dedd9db61e563f644af492a880cac6a95e1d3c793c2f2e9c88075b30",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "后入"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_doggy_015",
+      "rating": "nsfw",
+      "category": "doggy",
+      "category_label": "后入",
+      "title": "后入 · 015",
+      "original": "originals/nsfw/doggy/shiraha_nsfw_doggy_015.png",
+      "thumb": "thumbs/nsfw/doggy/shiraha_nsfw_doggy_015.webp",
+      "source_name": "tsp-cache-343.png",
+      "sha256": "23af443a5b158977d64a2ff498662623ef3a0fa481602695781f31741033bab9",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "后入"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_doggy_016",
+      "rating": "nsfw",
+      "category": "doggy",
+      "category_label": "后入",
+      "title": "后入 · 016",
+      "original": "originals/nsfw/doggy/shiraha_nsfw_doggy_016.png",
+      "thumb": "thumbs/nsfw/doggy/shiraha_nsfw_doggy_016.webp",
+      "source_name": "tsp-cache-462.png",
+      "sha256": "b0e0c0c961e1e7060f2828034e1725af43e4d47f40103a30113056e44328974c",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "后入"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_doggy_017",
+      "rating": "nsfw",
+      "category": "doggy",
+      "category_label": "后入",
+      "title": "后入 · 017",
+      "original": "originals/nsfw/doggy/shiraha_nsfw_doggy_017.png",
+      "thumb": "thumbs/nsfw/doggy/shiraha_nsfw_doggy_017.webp",
+      "source_name": "tsp-cache-550.png",
+      "sha256": "b9d1525be4b676a98cd69431c1a405ff48410e7296f5841819c2ca4f48973753",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "后入"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_doggy_018",
+      "rating": "nsfw",
+      "category": "doggy",
+      "category_label": "后入",
+      "title": "后入 · 018",
+      "original": "originals/nsfw/doggy/shiraha_nsfw_doggy_018.png",
+      "thumb": "thumbs/nsfw/doggy/shiraha_nsfw_doggy_018.webp",
+      "source_name": "tsp-cache-239.png",
+      "sha256": "d5b9e8e772cbe91675f9a20fb369c27445498324386c819e1dc1d95cff6b88db",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "后入"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_doggy_019",
+      "rating": "nsfw",
+      "category": "doggy",
+      "category_label": "后入",
+      "title": "后入 · 019",
+      "original": "originals/nsfw/doggy/shiraha_nsfw_doggy_019.png",
+      "thumb": "thumbs/nsfw/doggy/shiraha_nsfw_doggy_019.webp",
+      "source_name": "tsp-cache-240.png",
+      "sha256": "14fb8ad852b1315c75b33089b93784163ffd103bb6d59370cc09f665c058d975",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "后入"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_doggy_020",
+      "rating": "nsfw",
+      "category": "doggy",
+      "category_label": "后入",
+      "title": "后入 · 020",
+      "original": "originals/nsfw/doggy/shiraha_nsfw_doggy_020.png",
+      "thumb": "thumbs/nsfw/doggy/shiraha_nsfw_doggy_020.webp",
+      "source_name": "tsp-cache-245.png",
+      "sha256": "93053e19742d6e20f1822a3051d45e1fad02e429d06b7a5677664fa39613a2f3",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "后入"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_doggy_021",
+      "rating": "nsfw",
+      "category": "doggy",
+      "category_label": "后入",
+      "title": "后入 · 021",
+      "original": "originals/nsfw/doggy/shiraha_nsfw_doggy_021.png",
+      "thumb": "thumbs/nsfw/doggy/shiraha_nsfw_doggy_021.webp",
+      "source_name": "tsp-cache-246.png",
+      "sha256": "1da483dc8774d2b2b54a509883c2dc2f70778fb85b57cbc633baf1584cd94917",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "后入"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     },
     {
       "id": "shiraha_nsfw_other_001",
       "rating": "nsfw",
       "category": "other",
       "category_label": "其它",
-      "title": "其它",
+      "title": "其它 · 001",
       "original": "originals/nsfw/other/shiraha_nsfw_other_001.png",
       "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_001.webp",
-      "classification": "visual_review"
+      "source_name": "tsp-cache-480.png",
+      "sha256": "ac2ec8d99b366d555d1fccd2910d2de8c13662cecbda55d9617fb013c8f830c4",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_002",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 002",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_002.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_002.webp",
+      "source_name": "tsp-cache-351.png",
+      "sha256": "a0a9034f4c052b237b398108b1873a71d6649e0a1459c0f3cef1bbd32a7f916c",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_003",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 003",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_003.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_003.webp",
+      "source_name": "tsp-cache-361.png",
+      "sha256": "8d407c48dd808730b445e9bcb971c18da4b88e0ce31433594a519583fefbe482",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_004",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 004",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_004.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_004.webp",
+      "source_name": "tsp-cache-381.png",
+      "sha256": "aa190a11d9c002318812c1fd1b198e6ed34abd85e8dac618276b821d6e621ba5",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_005",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 005",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_005.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_005.webp",
+      "source_name": "tsp-cache-388.png",
+      "sha256": "8e91990f6e0a45b1856edbfb04c6c35f2447591b4a5ff83c86571a1ddd3a4814",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_006",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 006",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_006.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_006.webp",
+      "source_name": "tsp-cache-398.png",
+      "sha256": "9f9662fd58eb42528a6bc537fb4dd4bbc7274934f55a0df971f824ad09070455",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_007",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 007",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_007.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_007.webp",
+      "source_name": "tsp-cache-412.png",
+      "sha256": "acf0c8dafe3b5e5dee409c1ec9a038cbc5be94b4ff3d9c44b1a095a6556e21e9",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_008",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 008",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_008.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_008.webp",
+      "source_name": "tsp-cache-415.png",
+      "sha256": "9412eb18e6e5e62aaf838d6edfdeb2b7c3309dc1d7ccf72eb80514ee6da5f525",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_009",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 009",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_009.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_009.webp",
+      "source_name": "tsp-cache-425.png",
+      "sha256": "ba09d232be833407bc93c3dca09490be29ffa87cd885f0887a7149859e9178e0",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_010",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 010",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_010.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_010.webp",
+      "source_name": "tsp-cache-438.png",
+      "sha256": "420f5286d432778702d117e798287701995076984f1559edb31f8464ea28cd00",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_011",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 011",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_011.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_011.webp",
+      "source_name": "tsp-cache-453.png",
+      "sha256": "4b987b68155dc97ff43977dcedb0107107f92907eb23c0c760b5b217b2f030e0",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_012",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 012",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_012.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_012.webp",
+      "source_name": "tsp-cache-553.png",
+      "sha256": "0e7618d9cbc5680f8e9f3d25fcb2a4bb2483b7a36f3fb0e1d21d3fc533964efa",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_013",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 013",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_013.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_013.webp",
+      "source_name": "tsp-cache-571.png",
+      "sha256": "ccbd1f3753088fde7ded266002b1ea1e5d61d6ce2c2c6337baae9879de665029",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_014",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 014",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_014.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_014.webp",
+      "source_name": "tsp-cache-353.png",
+      "sha256": "80f1e8b66ead4aa55750202aaa6764c8f9041feb295a26ba191a9987c30003b6",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_015",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 015",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_015.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_015.webp",
+      "source_name": "tsp-cache-440.png",
+      "sha256": "c068c538588e575ef4551e05a27cca37a4f54c15b644080e121cbf4ff3776b0a",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_016",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 016",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_016.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_016.webp",
+      "source_name": "tsp-cache-373.png",
+      "sha256": "237d94e8708295920bd3a3052cba57b486eb378ea3ec235843ccc31f9dc664c4",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_017",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 017",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_017.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_017.webp",
+      "source_name": "tsp-cache-375.png",
+      "sha256": "d618778e18cf5300920f165e8b0b380ff816d926c3842c1d32762c20c9f452d7",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_018",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 018",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_018.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_018.webp",
+      "source_name": "tsp-cache-377.png",
+      "sha256": "7632ec9fef4d79e3263e9a10e67d3d67fc59c2d0482f4564c1b436207ccab00c",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_019",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 019",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_019.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_019.webp",
+      "source_name": "tsp-cache-429.png",
+      "sha256": "090d3306cba4c736aaa777ef7f4d0e1bd3e9853626b6a175e5d901b423cdde9a",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_020",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 020",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_020.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_020.webp",
+      "source_name": "tsp-cache-444.png",
+      "sha256": "11a150a1cb8bbf7a566420a50f99821529d48c9c5797786c7c6d4388519bc263",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_021",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 021",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_021.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_021.webp",
+      "source_name": "tsp-cache-479.png",
+      "sha256": "14c982bd5366bca687e0d5fff377f18168bce8af7cb5411da6abf99d29aac87d",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_022",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 022",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_022.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_022.webp",
+      "source_name": "tsp-cache-567.png",
+      "sha256": "40a8b8146a2e79a7ab4d33c76607fb8d21ff8be9dd5bc6faae47e0009e711199",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_023",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 023",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_023.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_023.webp",
+      "source_name": "tsp-cache-276.png",
+      "sha256": "819c8c1bd7446a6260fccdbe56d2d39054fc2d80149a5f67e17a8847d1131147",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_024",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 024",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_024.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_024.webp",
+      "source_name": "tsp-cache-293.png",
+      "sha256": "618e56c86d3b9a4fc7634b7c8e4bb2bf4cb7c8afe496e31e515420ab453d45de",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_025",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 025",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_025.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_025.webp",
+      "source_name": "tsp-cache-298.png",
+      "sha256": "81278f29b478fbcd77f482f7e32b75513cc29b31b26ce245025ab5fca776a014",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_026",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 026",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_026.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_026.webp",
+      "source_name": "tsp-cache-290.png",
+      "sha256": "edbd866ca6e372504f6e016b1b3f65226968a6166a763be26bba827ba6a227a1",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_027",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 027",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_027.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_027.webp",
+      "source_name": "tsp-cache-291.png",
+      "sha256": "bede253016233593de3f9e24c4210232d1ea48811224d34df04a3baac8b342be",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_028",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 028",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_028.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_028.webp",
+      "source_name": "tsp-cache-303.png",
+      "sha256": "f85eb3b74fffdc09b073f77ba68d007457b361bfca7dda55beed7bdb733784fe",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_029",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 029",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_029.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_029.webp",
+      "source_name": "tsp-cache-304.png",
+      "sha256": "25f9fd3d6b1dca90a87c622ceb923b0fa69245379aefe31aead1e58e1724390b",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_030",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 030",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_030.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_030.webp",
+      "source_name": "tsp-cache-319.png",
+      "sha256": "d580f795f49594aa45e6d7091f0f0f97dbeae8d1b8789aa430ceb658b2cc2855",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_031",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 031",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_031.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_031.webp",
+      "source_name": "tsp-cache-320.png",
+      "sha256": "9a82f3a519d23780eca447023cc0dae389d3aefbc8b8004b0bd35256e1891f3f",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_032",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 032",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_032.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_032.webp",
+      "source_name": "tsp-cache-322.png",
+      "sha256": "319b10760ee5f92b701eeb9387250824558de5564fc1e073105eabb6e59b572f",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_033",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 033",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_033.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_033.webp",
+      "source_name": "tsp-cache-347.png",
+      "sha256": "69a06d9a2fb331a07d1505c2cb2799479b2596f0c6b699000121208d122cfd36",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_034",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 034",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_034.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_034.webp",
+      "source_name": "tsp-cache-393.png",
+      "sha256": "c89f3a123fcae65063a9a87564d593a5891bd39f8f4103f14a6426af70dc551f",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_035",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 035",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_035.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_035.webp",
+      "source_name": "tsp-cache-533.png",
+      "sha256": "3ca47d393a86d9932cad97ca158adecafab1a88dacc0f6796bde6f2b017f9205",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_036",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 036",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_036.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_036.webp",
+      "source_name": "tsp-cache-547.png",
+      "sha256": "bd9a9c1168d7d9c7798edb5966bdc387a94b3457604ee8a3fad51257e55f3793",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_037",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 037",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_037.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_037.webp",
+      "source_name": "tsp-cache-324.png",
+      "sha256": "e016bd747b1e8549122cd3294140412f5e2caf678ffa4c5a2c6aff529a52c1b1",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_038",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 038",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_038.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_038.webp",
+      "source_name": "tsp-cache-534.png",
+      "sha256": "024a9b8f3f7c50da36f8a5330060179ea96c5686565345eca7867729fd01eb3f",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
+    },
+    {
+      "id": "shiraha_nsfw_other_039",
+      "rating": "nsfw",
+      "category": "other",
+      "category_label": "其它",
+      "title": "其它 · 039",
+      "original": "originals/nsfw/other/shiraha_nsfw_other_039.png",
+      "thumb": "thumbs/nsfw/other/shiraha_nsfw_other_039.webp",
+      "source_name": "tsp-cache-171.png",
+      "sha256": "6817c91db9e3945b4717f26e82e1f6bc1833fb2c87418dde15b4167cc2cddef5",
+      "classification": "visual_review",
+      "unlock": {
+        "mode": "exact_scene_tags",
+        "character_id": "mikage_shiraha",
+        "required_present_character": "御影白羽",
+        "all_tags": [
+          "御影白羽在场",
+          "其它"
+        ],
+        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
+      }
     }
-  ]
+  ],
+  "unlock_policy": {
+    "version": "1.0",
+    "default": "deny",
+    "description": "没有 unlock 条件的图片不可通过剧情自动解锁；reference 仅作人物参考。"
+  }
 }
