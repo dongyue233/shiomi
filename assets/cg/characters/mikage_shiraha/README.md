@@ -1,1 +1,1 @@
-御影白羽 CG v2：目录、ID、缩略图和 manifest 遵循 shiomi 仓库现有 schema。SFW/NSFW 为一级分类，daily/work/outfit/swimwear 与既有 NSFW 分类为二级分类。
+御影白羽 CG v2：本增量包只更新全局 manifest 和角色 manifest。仓库已有的 cover.webp、reference 原图和 reference 缩略图保持不变，不在本包重复上传。目录、ID、缩略图和 manifest 遵循 shiomi 仓库现有 schema。SFW/NSFW 为一级分类，daily/work/outfit/swimwear 与既有 NSFW 分类为二级分类。

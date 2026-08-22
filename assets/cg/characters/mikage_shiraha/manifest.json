@@ -3,7 +3,7 @@
   "character_id": "mikage_shiraha",
   "character_name": "御影白羽",
   "cover": "cover.webp",
-  "classification_method": "visual_review",
+  "classification_method": "zip_source_folder_plus_visual_review",
   "category_order": {
     "sfw": [
       "daily",
@@ -87,8 +87,13 @@
           "御影白羽在场",
           "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_daily_002",
@@ -109,8 +114,13 @@
           "御影白羽在场",
           "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_daily_003",
@@ -131,8 +141,13 @@
           "御影白羽在场",
           "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_daily_004",
@@ -153,8 +168,13 @@
           "御影白羽在场",
           "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_daily_005",
@@ -175,8 +195,13 @@
           "御影白羽在场",
           "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_daily_006",
@@ -197,8 +222,13 @@
           "御影白羽在场",
           "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_daily_007",
@@ -219,8 +249,13 @@
           "御影白羽在场",
           "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_daily_008",
@@ -241,8 +276,13 @@
           "御影白羽在场",
           "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_daily_009",
@@ -263,8 +303,13 @@
           "御影白羽在场",
           "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_daily_010",
@@ -285,8 +330,13 @@
           "御影白羽在场",
           "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_daily_011",
@@ -307,8 +357,13 @@
           "御影白羽在场",
           "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_daily_012",
@@ -329,8 +384,13 @@
           "御影白羽在场",
           "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_daily_013",
@@ -351,8 +411,13 @@
           "御影白羽在场",
           "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_daily_014",
@@ -373,8 +438,13 @@
           "御影白羽在场",
           "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_001",
@@ -393,10 +463,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_002",
@@ -415,10 +490,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_003",
@@ -437,10 +517,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_004",
@@ -459,10 +544,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_005",
@@ -481,10 +571,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_006",
@@ -503,10 +598,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_007",
@@ -525,10 +625,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_008",
@@ -547,10 +652,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_009",
@@ -569,10 +679,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_010",
@@ -591,10 +706,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_011",
@@ -613,10 +733,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_012",
@@ -635,10 +760,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_013",
@@ -657,10 +787,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_014",
@@ -679,10 +814,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_015",
@@ -701,10 +841,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_016",
@@ -723,10 +868,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_017",
@@ -745,10 +895,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_018",
@@ -767,10 +922,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_019",
@@ -789,10 +949,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_020",
@@ -811,10 +976,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_021",
@@ -833,10 +1003,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_022",
@@ -855,10 +1030,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_023",
@@ -877,10 +1057,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_024",
@@ -899,10 +1084,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_025",
@@ -921,10 +1111,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_026",
@@ -943,10 +1138,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_027",
@@ -965,10 +1165,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_028",
@@ -987,10 +1192,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_029",
@@ -1009,10 +1219,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_030",
@@ -1031,10 +1246,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_031",
@@ -1053,10 +1273,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_032",
@@ -1075,10 +1300,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_033",
@@ -1097,10 +1327,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_034",
@@ -1119,10 +1354,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_035",
@@ -1141,10 +1381,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_036",
@@ -1163,10 +1408,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_037",
@@ -1185,10 +1435,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_038",
@@ -1207,10 +1462,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_039",
@@ -1229,10 +1489,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_040",
@@ -1251,10 +1516,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_041",
@@ -1273,10 +1543,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_042",
@@ -1295,10 +1570,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_043",
@@ -1317,10 +1597,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_044",
@@ -1339,10 +1624,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_045",
@@ -1361,10 +1651,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_046",
@@ -1383,10 +1678,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_047",
@@ -1405,10 +1705,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_048",
@@ -1427,10 +1732,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_049",
@@ -1449,10 +1759,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_050",
@@ -1471,10 +1786,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_051",
@@ -1493,10 +1813,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_052",
@@ -1515,10 +1840,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_053",
@@ -1537,10 +1867,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_054",
@@ -1559,10 +1894,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_outfit_055",
@@ -1581,10 +1921,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "换装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_swimwear_001",
@@ -1603,10 +1948,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "泳装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_swimwear_002",
@@ -1625,10 +1975,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "泳装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_sfw_swimwear_003",
@@ -1647,10 +2002,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "泳装"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_nude_001",
@@ -1669,10 +2029,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "裸体"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_nude_002",
@@ -1691,10 +2056,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "裸体"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_nude_003",
@@ -1713,10 +2083,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "裸体"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_nude_004",
@@ -1735,10 +2110,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "裸体"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_nude_005",
@@ -1757,10 +2137,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "裸体"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_nude_006",
@@ -1779,10 +2164,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "裸体"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_masturbation_001",
@@ -1801,10 +2191,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "自慰"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_masturbation_002",
@@ -1823,10 +2218,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "自慰"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_masturbation_003",
@@ -1845,10 +2245,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "自慰"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_masturbation_004",
@@ -1867,10 +2272,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "自慰"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_masturbation_005",
@@ -1889,10 +2299,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "自慰"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_masturbation_006",
@@ -1911,10 +2326,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "自慰"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_handjob_001",
@@ -1933,10 +2353,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "手交"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_handjob_002",
@@ -1955,10 +2380,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "手交"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_handjob_003",
@@ -1977,10 +2407,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "手交"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_handjob_004",
@@ -1999,10 +2434,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "手交"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_blowjob_001",
@@ -2021,10 +2461,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "口交"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_blowjob_002",
@@ -2043,10 +2488,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "口交"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_blowjob_003",
@@ -2065,10 +2515,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "口交"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_blowjob_004",
@@ -2087,10 +2542,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "口交"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_blowjob_005",
@@ -2109,10 +2569,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "口交"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_blowjob_006",
@@ -2131,10 +2596,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "口交"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_blowjob_007",
@@ -2153,10 +2623,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "口交"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_blowjob_008",
@@ -2175,10 +2650,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "口交"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_blowjob_009",
@@ -2197,10 +2677,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "口交"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_blowjob_010",
@@ -2219,10 +2704,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "口交"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_blowjob_011",
@@ -2241,10 +2731,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "口交"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_blowjob_012",
@@ -2263,10 +2758,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "口交"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_titjob_001",
@@ -2285,10 +2785,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "乳交"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_titjob_002",
@@ -2307,10 +2812,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "乳交"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_titjob_003",
@@ -2329,10 +2839,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "乳交"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_titjob_004",
@@ -2351,10 +2866,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "乳交"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_titjob_005",
@@ -2373,10 +2893,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "乳交"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_titjob_006",
@@ -2395,10 +2920,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "乳交"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_titjob_007",
@@ -2417,10 +2947,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "乳交"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_titjob_008",
@@ -2439,10 +2974,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "乳交"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_titjob_009",
@@ -2461,10 +3001,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "乳交"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_titjob_010",
@@ -2483,10 +3028,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "乳交"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_titjob_011",
@@ -2505,10 +3055,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "乳交"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_titjob_012",
@@ -2527,10 +3082,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "乳交"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_missionary_001",
@@ -2549,10 +3109,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "传教士"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_missionary_002",
@@ -2571,10 +3136,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "传教士"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_missionary_003",
@@ -2593,10 +3163,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "传教士"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_missionary_004",
@@ -2615,10 +3190,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "传教士"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_missionary_005",
@@ -2637,10 +3217,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "传教士"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_missionary_006",
@@ -2659,10 +3244,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "传教士"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_missionary_007",
@@ -2681,10 +3271,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "传教士"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_missionary_008",
@@ -2703,10 +3298,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "传教士"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_missionary_009",
@@ -2725,10 +3325,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "传教士"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_missionary_010",
@@ -2747,10 +3352,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "传教士"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_missionary_011",
@@ -2769,10 +3379,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "传教士"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_missionary_012",
@@ -2791,10 +3406,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "传教士"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_missionary_013",
@@ -2813,10 +3433,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "传教士"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_doggy_001",
@@ -2835,10 +3460,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "后入"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_doggy_002",
@@ -2857,10 +3487,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "后入"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_doggy_003",
@@ -2879,10 +3514,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "后入"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_doggy_004",
@@ -2901,10 +3541,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "后入"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_doggy_005",
@@ -2923,10 +3568,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "后入"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_doggy_006",
@@ -2945,10 +3595,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "后入"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_doggy_007",
@@ -2967,10 +3622,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "后入"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_doggy_008",
@@ -2989,10 +3649,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "后入"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_doggy_009",
@@ -3011,10 +3676,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "后入"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_doggy_010",
@@ -3033,10 +3703,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "后入"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_doggy_011",
@@ -3055,10 +3730,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "后入"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_doggy_012",
@@ -3077,10 +3757,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "后入"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_doggy_013",
@@ -3099,10 +3784,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "后入"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_doggy_014",
@@ -3121,10 +3811,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "后入"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_doggy_015",
@@ -3143,10 +3838,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "后入"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_doggy_016",
@@ -3165,10 +3865,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "后入"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_doggy_017",
@@ -3187,10 +3892,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "后入"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_doggy_018",
@@ -3209,10 +3919,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "后入"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_doggy_019",
@@ -3231,10 +3946,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "后入"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_doggy_020",
@@ -3253,10 +3973,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "后入"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_doggy_021",
@@ -3275,10 +4000,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "后入"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_001",
@@ -3297,10 +4027,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_002",
@@ -3319,10 +4054,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_003",
@@ -3341,10 +4081,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_004",
@@ -3363,10 +4108,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_005",
@@ -3385,10 +4135,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_006",
@@ -3407,10 +4162,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_007",
@@ -3429,10 +4189,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_008",
@@ -3451,10 +4216,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_009",
@@ -3473,10 +4243,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_010",
@@ -3495,10 +4270,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_011",
@@ -3517,10 +4297,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_012",
@@ -3539,10 +4324,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_013",
@@ -3561,10 +4351,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_014",
@@ -3583,10 +4378,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_015",
@@ -3605,10 +4405,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_016",
@@ -3627,10 +4432,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_017",
@@ -3649,10 +4459,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_018",
@@ -3671,10 +4486,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_019",
@@ -3693,10 +4513,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_020",
@@ -3715,10 +4540,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_021",
@@ -3737,10 +4567,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_022",
@@ -3759,10 +4594,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_023",
@@ -3781,10 +4621,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_024",
@@ -3803,10 +4648,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_025",
@@ -3825,10 +4675,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_026",
@@ -3847,10 +4702,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_027",
@@ -3869,10 +4729,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_028",
@@ -3891,10 +4756,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_029",
@@ -3913,10 +4783,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_030",
@@ -3935,10 +4810,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_031",
@@ -3957,10 +4837,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_032",
@@ -3979,10 +4864,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_033",
@@ -4001,10 +4891,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_034",
@@ -4023,10 +4918,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_035",
@@ -4045,10 +4945,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_036",
@@ -4067,10 +4972,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_037",
@@ -4089,10 +4999,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_038",
@@ -4111,10 +5026,15 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     },
     {
       "id": "shiraha_nsfw_other_039",
@@ -4133,15 +5053,21 @@
         "required_present_character": "御影白羽",
         "all_tags": [
           "御影白羽在场",
-          "其它"
+          "日常"
         ],
-        "note": "只有当前 shiomi_scene 同时确认角色在场并包含全部标签时解锁。"
-      }
+        "note": "当前场景必须同时确认御影白羽在场并命中该来源目录对应的具体场景标签。"
+      },
+      "source_folder": "daily",
+      "scene_tags": [
+        "御影白羽在场",
+        "日常"
+      ]
     }
   ],
   "unlock_policy": {
-    "version": "1.0",
+    "version": "1.1",
     "default": "deny",
-    "description": "没有 unlock 条件的图片不可通过剧情自动解锁；reference 仅作人物参考。"
+    "source_of_truth": "御影白羽.zip",
+    "description": "只按压缩包来源目录对应的具体场景标签解锁。"
   }
 }
