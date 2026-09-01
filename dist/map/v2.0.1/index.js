@@ -451,7 +451,12 @@ async function installMarkerLayer() {
 
   const world = root.querySelector('.world-layer');
   const observer = new MutationObserver(mutations => {
-    if (mutations.some(mutation => mutation.type === 'attributes' && mutation.attributeName === 'class')) {
+    if (mutations.some(mutation =>
+      mutation.type === 'attributes' &&
+      mutation.attributeName === 'class' &&
+      mutation.target instanceof Element &&
+      mutation.target.matches?.('.pin.coordinate')
+    )) {
       syncSelectedLabels(root);
     }
   });
