@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="zh-CN">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" href="data:,"><title>汐见地图嵌入测试</title></head>
+<body style="margin:0;min-height:100vh;display:grid;place-items:center;background:#e8e2d7;font-family:serif">
+  <button id="open" style="padding:14px 24px">打开汐见地图</button>
+  <script type="module">
+    import './index.js?embedded=1';
+    document.getElementById('open').addEventListener('click', () => window.ShiomiMap?.open());
+  </script>
+</body>
+</html>

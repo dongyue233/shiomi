@@ -1,0 +1,41 @@
+{
+  "schema": "shiomi.city.tile-manifest.v7.0",
+  "sourceVersion": "v7.0-seven-region-final-master",
+  "sourceSha256": "8DBCA4E553728E2AFA3CEA44103B7E27F8B171801C3959AA7A5E91FC06FBC391",
+  "basePath": "tiles-v7.0-final-master",
+  "tileSize": 512,
+  "formatPriority": [
+    "avif",
+    "webp"
+  ],
+  "levels": [
+    {
+      "id": 0,
+      "width": 1448,
+      "height": 1086,
+      "columns": 3,
+      "rows": 3
+    },
+    {
+      "id": 1,
+      "width": 2896,
+      "height": 2172,
+      "columns": 6,
+      "rows": 5
+    },
+    {
+      "id": 2,
+      "width": 5792,
+      "height": 4344,
+      "columns": 12,
+      "rows": 9
+    },
+    {
+      "id": 3,
+      "width": 11584,
+      "height": 8688,
+      "columns": 23,
+      "rows": 17
+    }
+  ]
+}
