@@ -1,0 +1,337 @@
+[
+  {
+    "id": "shiomi_station_hall__day__bg",
+    "prompt": "Use case: stylized-concept\nAsset type: Shiomi visual novel BG, shiomi_station_hall__day__bg.\nWorld and location facts: Keiwa year seven, Shiomi is a mature Japanese industrial port city with electric commuter rail, electricity, district steam heating and electromechanical communications. Shiomi Station is a four-storey steel-and-glass station complex. Its public hall has a large mechanical clock, split-flap timetable, staffed ticket windows, enclosed mechanical ticket machines, luggage lockers, public telephones and a small keyboard text terminal. Engines, boilers and signal machinery are in staff-only equipment rooms, never the passenger hall.\nEstablished scene facts: Clear spring afternoon, normal quiet off-peak service, clean maintained working station. No named characters.\nPrimary request: Generate ONE complete opaque landscape background, horizontal 16:9, as close as possible to 1920x1080 native pixels, never a grid. The hall should read as a credible everyday mature city railway hub.\nStyle/medium: Polished Japanese visual-novel hand-painted environmental art, precise architectural perspective, fine restrained lines, tangible materials, soft luminous daylight, subtle painterly texture; natural cream, blue-grey steel, muted green and wood accents, no global cyan filter. Establish the visual style for a coherent series.\nComposition/framing: Eye-level camera about 1.5m in the middle of a wide public concourse. High central mechanical clock under clear steel roof trusses; split-flap board beyond and above head level. Glass windows on left, ticket facilities at far right and rear edges, lockers and public telephone on side walls. Keep the central 30-70% horizontally at character head and torso heights low in visual density. Entire near floor and central walking aisle unobstructed, suitable sprite foot anchors around x=.35/.65,y=.88. Small distant passenger silhouettes optional, no middle or near people. Normal-scale gates deep in the hall. The clock and main hall remain legible centrally.\nLighting/mood: Bright spring window daylight from upper left, neutral approximately 5200K with softer practical overhead electric light, quiet confident everyday life. Soft realistic floor shadows, no baked character shadows.\nMaterials/textures: Pale stone floor, painted blue-grey steel members, glazing, practical enclosed cream and green electromechanical ticket cabinets with buttons and paper-ticket slots, maintained wall panels and wooden seating at sides.\nConstraints: Perspective and pedestrian paths must work; machinery belongs behind the boundary, roof trusses structural rather than decoration. Signs small and incidental with simple Japanese labels if needed.\nAvoid: Brass fantasy decoration, giant exposed gears or steam vents, Victorian outfits, touchscreens, holograms, airships at the rail station, foreground figures, dialogue box, choices, game UI, title, watermark, collage.",
+    "tool": "image_gen__imagegen",
+    "status": "accepted",
+    "reference_asset_ids": [],
+    "tool_result_reference": "backgrounds/shiomi_station_hall__day__bg.png",
+    "project_file": "backgrounds/shiomi_station_hall__day__bg.png",
+    "generation_output_reference": "/workspace/scratch/329cd0d9ea3a/generated_images/exec-884b26fe-43b5-4db3-8893-5fd679c44f8c.png",
+    "reference_files": []
+  },
+  {
+    "id": "shiomi_station_hall__day__cg",
+    "prompt": "Use case: stylized-concept\nAsset type: Shiomi visual novel standalone scene CG / shiomi_station_hall__day__cg\nWorld and location facts: 景和七年，和国关东东南海湾汐见市，成熟工业都市。蒸汽为发电供热工业动力，电力用于普通照明交通与机电通信，民用设备完整外壳，非泛蒸汽朋克。公共站厅钢骨玻璃、机械钟和翻牌时刻牌；侧边实体机械售票、公用电话与键盘式文字终端。旅客区域不放大型动力设备。\nEstablished scene facts: 春季；晴朗春日下午。首批场景型CG，不加入任何有名角色或虚构剧情。\nPrimary request: 只生成一张完整独立横向16:9、不透明原图，尽可能接近1920×1080原生像素，无拼图。全新完整构图，单独观看即可理解地点；不是参考BG的复制、简单裁切或移动元素。\nStyle/medium: 统一日式视觉小说细致环境绘制；以第一张站厅BG为绘制风格参照，可信建筑透视、克制细线、适度绘画笔触、真实维护痕迹、柔和空气透视。保留本地点木色、米白、蓝灰、绿与红砖真实材料色；不套整图青色或棕色滤镜。\nComposition/framing: 从左侧窗边座椅旁斜望站厅长轴，低矮木座椅与行李为前景，钟和翻牌在中上方，出站通道与少量远中景通勤者构成纵深；保留参考图窗、柜台、门、梁与设备样式。 清楚的前中后景与主体；可有少量中远景普通市民，无人物特写。参考图只用于建筑设施材料与绘制风格一致，新设计镜头位置与主次。\nLighting/mood: 晴朗春日下午，左侧或左前方自然日光约5200K，室内辅以实用电灯；阴影有方向，光源与窗户位置对应。\nMaterials/textures: 浅石色立柱、蓝灰钢梁、左侧大玻璃、右侧绿白售票柜台；铜黑色方框机械钟居高，下面左右分开的翻牌时刻表。\nConstraints: 保持地点用途、层数、公共/工作边界及设施一致。背景图不带固定角色；独立CG保持地点、设备一致却使用新的完整视角。Image 1 is this same location BG, spatial/material reference only; generate a new scene CG.\nAvoid: 装饰齿轮、全城黄铜、持续喷汽、维多利亚服饰、全息触屏、巨型科幻屏幕、近景人物、对话框、选项、UI、标题、水印、多格；不改卡。",
+    "tool": "image_gen__imagegen",
+    "reference_asset_ids": [
+      "shiomi_station_hall__day__bg"
+    ],
+    "status": "accepted",
+    "corrections": [],
+    "tool_result_reference": "standalone/shiomi_station_hall__day__cg.png",
+    "project_file": "standalone/shiomi_station_hall__day__cg.png",
+    "generation_output_reference": "/workspace/scratch/329cd0d9ea3a/generated_images/exec-8c69e5da-931f-42f0-9dc1-13fb5a89bc1d.png",
+    "reference_files": [
+      "backgrounds/shiomi_station_hall__day__bg.png"
+    ]
+  },
+  {
+    "id": "central_police_exterior__day__bg",
+    "prompt": "Use case: stylized-concept\nAsset type: Shiomi visual novel BG / central_police_exterior__day__bg\nWorld and location facts: 景和七年，和国关东东南海湾汐见市，成熟工业都市。蒸汽为发电供热工业动力，电力用于普通照明交通与机电通信，民用设备完整外壳，非泛蒸汽朋克。五层钢骨砖石警署，位于站北行政区与旧城交界；正门面对主干道，后侧公务车库不作公众入口。\nEstablished scene facts: 春季；晴朗春日下午。首批场景型CG，不加入任何有名角色或虚构剧情。\nPrimary request: 只生成一张完整独立横向16:9、不透明原图，尽可能接近1920×1080原生像素，无拼图。用于透明立绘叠加的完整背景。\nStyle/medium: 统一日式视觉小说细致环境绘制；以第一张站厅BG为绘制风格参照，可信建筑透视、克制细线、适度绘画笔触、真实维护痕迹、柔和空气透视。保留本地点木色、米白、蓝灰、绿与红砖真实材料色；不套整图青色或棕色滤镜。\nComposition/framing: 从人行道平视入口，前方留空，门面与五层建筑结构可辨。左前方自然日光。 视点约1.5米，中央30%至70%宽度留低密度头脸及躯干区，中央近景地面通畅，脚部建议x=.35/.65,y=.88，不烘焙人物或阴影；无近中景人物，远处小人可省略。\nLighting/mood: 晴朗春日下午，左侧或左前方自然日光约5200K，室内辅以实用电灯；阴影有方向，光源与窗户位置对应。\nMaterials/textures: 准确五层，每层一排窗；红褐砖与浅石门框、蓝灰钢骨、朴素公共机构标识；入口台阶低而宽，中央人行道平整。\nConstraints: 保持地点用途、层数、公共/工作边界及设施一致。背景图不带固定角色；独立CG保持地点、设备一致却使用新的完整视角。Image 1 is the style reference only, not the same location.\nAvoid: 装饰齿轮、全城黄铜、持续喷汽、维多利亚服饰、全息触屏、巨型科幻屏幕、近景人物、对话框、选项、UI、标题、水印、多格；不改卡。",
+    "tool": "image_gen__imagegen",
+    "reference_asset_ids": [
+      "shiomi_station_hall__day__bg"
+    ],
+    "status": "accepted",
+    "corrections": [
+      {
+        "reason": "Only four storeys visibly rendered; five required.",
+        "prompt": "定向修正这张警署BG：保留砖石材质、正门和门廊、绿化、日光、画风。当前四层不符设定；必须为准确五层：一层地面入口，加上四层办公窗排，各层清楚分隔，一共五层。镜头稍后退使整栋五层与屋顶全部入框，前景人行道仍通畅可放立绘。维持横向16:9，尽可能接近1920×1080；不要人物或UI；不得用屋顶小塔假充第五层。"
+      }
+    ],
+    "tool_result_reference": "backgrounds/central_police_exterior__day__bg.png",
+    "project_file": "backgrounds/central_police_exterior__day__bg.png",
+    "generation_output_reference": "/workspace/scratch/329cd0d9ea3a/generated_images/exec-cb954fa7-2414-43f6-b2a4-db0686cb8326.png",
+    "reference_files": [
+      "backgrounds/shiomi_station_hall__day__bg.png"
+    ]
+  },
+  {
+    "id": "central_police_exterior__day__cg",
+    "prompt": "Use case: stylized-concept\nAsset type: Shiomi visual novel standalone scene CG / central_police_exterior__day__cg\nWorld and location facts: 景和七年，和国关东东南海湾汐见市，成熟工业都市。蒸汽为发电供热工业动力，电力用于普通照明交通与机电通信，民用设备完整外壳，非泛蒸汽朋克。五层钢骨砖石警署，位于站北行政区与旧城交界；正门面对主干道，后侧公务车库不作公众入口。\nEstablished scene facts: 春季；晴朗春日下午。首批场景型CG，不加入任何有名角色或虚构剧情。\nPrimary request: 只生成一张完整独立横向16:9、不透明原图，尽可能接近1920×1080原生像素，无拼图。全新完整构图，单独观看即可理解地点；不是参考BG的复制、简单裁切或移动元素。\nStyle/medium: 统一日式视觉小说细致环境绘制；以第一张站厅BG为绘制风格参照，可信建筑透视、克制细线、适度绘画笔触、真实维护痕迹、柔和空气透视。保留本地点木色、米白、蓝灰、绿与红砖真实材料色；不套整图青色或棕色滤镜。\nComposition/framing: 从主干道人行道侧方斜看完整五层建筑；入口为视觉重心，前景路缘与正常燃油出租车或公务轿车，少量中远景办事市民；不要从车库看正门。 清楚的前中后景与主体；可有少量中远景普通市民，无人物特写。参考图只用于建筑设施材料与绘制风格一致，新设计镜头位置与主次。\nLighting/mood: 晴朗春日下午，左侧或左前方自然日光约5200K，室内辅以实用电灯；阴影有方向，光源与窗户位置对应。\nMaterials/textures: 准确五层，每层一排窗；红褐砖与浅石门框、蓝灰钢骨、朴素公共机构标识；入口台阶低而宽，中央人行道平整。\nConstraints: 保持地点用途、层数、公共/工作边界及设施一致。背景图不带固定角色；独立CG保持地点、设备一致却使用新的完整视角。Image 1 is this same location BG, spatial/material reference only; generate a new scene CG.\nAvoid: 装饰齿轮、全城黄铜、持续喷汽、维多利亚服饰、全息触屏、巨型科幻屏幕、近景人物、对话框、选项、UI、标题、水印、多格；不改卡。",
+    "tool": "image_gen__imagegen",
+    "reference_asset_ids": [
+      "central_police_exterior__day__bg"
+    ],
+    "status": "accepted",
+    "corrections": [],
+    "tool_result_reference": "standalone/central_police_exterior__day__cg.png",
+    "project_file": "standalone/central_police_exterior__day__cg.png",
+    "generation_output_reference": "/workspace/scratch/329cd0d9ea3a/generated_images/exec-6b791d5e-fb87-423b-b524-31d174916d88.png",
+    "reference_files": [
+      "backgrounds/central_police_exterior__day__bg.png"
+    ]
+  },
+  {
+    "id": "central_police_criminal_office__day__bg",
+    "prompt": "Use case: stylized-concept\nAsset type: Shiomi visual novel BG / central_police_criminal_office__day__bg\nWorld and location facts: 景和七年，和国关东东南海湾汐见市，成熟工业都市。蒸汽为发电供热工业动力，电力用于普通照明交通与机电通信，民用设备完整外壳，非泛蒸汽朋克。耐用办公桌、文书、文件柜、固定电话、黑板、传真或电传；自然窗光和实用电灯。没有触屏电脑墙或全息设备。三楼来自当前剧情参考。\nEstablished scene facts: 春季；晴朗春日下午。首批场景型CG，不加入任何有名角色或虚构剧情。\nPrimary request: 只生成一张完整独立横向16:9、不透明原图，尽可能接近1920×1080原生像素，无拼图。用于透明立绘叠加的完整背景。\nStyle/medium: 统一日式视觉小说细致环境绘制；以第一张站厅BG为绘制风格参照，可信建筑透视、克制细线、适度绘画笔触、真实维护痕迹、柔和空气透视。保留本地点木色、米白、蓝灰、绿与红砖真实材料色；不套整图青色或棕色滤镜。\nComposition/framing: 平视办公室走道，前景不被桌面封满，桌组在侧方，窗与百叶在左边，中央留出会话人物空间。 视点约1.5米，中央30%至70%宽度留低密度头脸及躯干区，中央近景地面通畅，脚部建议x=.35/.65,y=.88，不烘焙人物或阴影；无近中景人物，远处小人可省略。\nLighting/mood: 晴朗春日下午，左侧或左前方自然日光约5200K，室内辅以实用电灯；阴影有方向，光源与窗户位置对应。\nMaterials/textures: 耐用木桌与灰绿文件柜、黑色固定电话、台灯、纸文件托盘、黑板、封闭传真机或电传机；百叶窗、荧光灯；不出现屏幕电脑。\nConstraints: 保持地点用途、层数、公共/工作边界及设施一致。背景图不带固定角色；独立CG保持地点、设备一致却使用新的完整视角。Image 1 is the style reference only, not the same location.\nAvoid: 装饰齿轮、全城黄铜、持续喷汽、维多利亚服饰、全息触屏、巨型科幻屏幕、近景人物、对话框、选项、UI、标题、水印、多格；不改卡。",
+    "tool": "image_gen__imagegen",
+    "reference_asset_ids": [
+      "shiomi_station_hall__day__bg"
+    ],
+    "status": "accepted",
+    "corrections": [],
+    "tool_result_reference": "backgrounds/central_police_criminal_office__day__bg.png",
+    "project_file": "backgrounds/central_police_criminal_office__day__bg.png",
+    "generation_output_reference": "/workspace/scratch/329cd0d9ea3a/generated_images/exec-c5f65ea5-aceb-46f2-a9ab-918097d2dc8a.png",
+    "reference_files": [
+      "backgrounds/shiomi_station_hall__day__bg.png"
+    ]
+  },
+  {
+    "id": "central_police_criminal_office__day__cg",
+    "prompt": "Use case: stylized-concept\nAsset type: Shiomi visual novel standalone scene CG / central_police_criminal_office__day__cg\nWorld and location facts: 景和七年，和国关东东南海湾汐见市，成熟工业都市。蒸汽为发电供热工业动力，电力用于普通照明交通与机电通信，民用设备完整外壳，非泛蒸汽朋克。耐用办公桌、文书、文件柜、固定电话、黑板、传真或电传；自然窗光和实用电灯。没有触屏电脑墙或全息设备。三楼来自当前剧情参考。\nEstablished scene facts: 春季；晴朗春日下午。首批场景型CG，不加入任何有名角色或虚构剧情。\nPrimary request: 只生成一张完整独立横向16:9、不透明原图，尽可能接近1920×1080原生像素，无拼图。全新完整构图，单独观看即可理解地点；不是参考BG的复制、简单裁切或移动元素。\nStyle/medium: 统一日式视觉小说细致环境绘制；以第一张站厅BG为绘制风格参照，可信建筑透视、克制细线、适度绘画笔触、真实维护痕迹、柔和空气透视。保留本地点木色、米白、蓝灰、绿与红砖真实材料色；不套整图青色或棕色滤镜。\nComposition/framing: 从办公室侧边斜看一张在侧前景的桌子与叠放的纸本卷宗；窗光照到纸张，后方同类桌组、百叶和黑板形成层次，房间保持日常文书工作状态，不虚构案件证据与事件。 清楚的前中后景与主体；可有少量中远景普通市民，无人物特写。参考图只用于建筑设施材料与绘制风格一致，新设计镜头位置与主次。\nLighting/mood: 晴朗春日下午，左侧或左前方自然日光约5200K，室内辅以实用电灯；阴影有方向，光源与窗户位置对应。\nMaterials/textures: 耐用木桌与灰绿文件柜、黑色固定电话、台灯、纸文件托盘、黑板、封闭传真机或电传机；百叶窗、荧光灯；不出现屏幕电脑。\nConstraints: 保持地点用途、层数、公共/工作边界及设施一致。背景图不带固定角色；独立CG保持地点、设备一致却使用新的完整视角。Image 1 is this same location BG, spatial/material reference only; generate a new scene CG.\nAvoid: 装饰齿轮、全城黄铜、持续喷汽、维多利亚服饰、全息触屏、巨型科幻屏幕、近景人物、对话框、选项、UI、标题、水印、多格；不改卡。",
+    "tool": "image_gen__imagegen",
+    "reference_asset_ids": [
+      "central_police_criminal_office__day__bg"
+    ],
+    "status": "accepted",
+    "corrections": [],
+    "tool_result_reference": "standalone/central_police_criminal_office__day__cg.png",
+    "project_file": "standalone/central_police_criminal_office__day__cg.png",
+    "generation_output_reference": "/workspace/scratch/329cd0d9ea3a/generated_images/exec-1a71eade-bcc8-487c-a2c2-8ac4e58d4ee8.png",
+    "reference_files": [
+      "backgrounds/central_police_criminal_office__day__bg.png"
+    ]
+  },
+  {
+    "id": "tsurumi_neighborhood__day__bg",
+    "prompt": "Use case: stylized-concept\nAsset type: Shiomi visual novel BG / tsurumi_neighborhood__day__bg\nWorld and location facts: 景和七年，和国关东东南海湾汐见市，成熟工业都市。蒸汽为发电供热工业动力，电力用于普通照明交通与机电通信，民用设备完整外壳，非泛蒸汽朋克。两三层木砖混合住宅店屋、窄巷、旧路面，真实后加通信线、局部保温热力管与维修支架；无街道持续喷汽。\nEstablished scene facts: 春季；晴朗春日下午。首批场景型CG，不加入任何有名角色或虚构剧情。\nPrimary request: 只生成一张完整独立横向16:9、不透明原图，尽可能接近1920×1080原生像素，无拼图。用于透明立绘叠加的完整背景。\nStyle/medium: 统一日式视觉小说细致环境绘制；以第一张站厅BG为绘制风格参照，可信建筑透视、克制细线、适度绘画笔触、真实维护痕迹、柔和空气透视。保留本地点木色、米白、蓝灰、绿与红砖真实材料色；不套整图青色或棕色滤镜。\nComposition/framing: 行人平视，中央巷道和两边会话站位可用，小店与民居两侧展开，不让线杆占据脸部区域。 视点约1.5米，中央30%至70%宽度留低密度头脸及躯干区，中央近景地面通畅，脚部建议x=.35/.65,y=.88，不烘焙人物或阴影；无近中景人物，远处小人可省略。\nLighting/mood: 晴朗春日下午，左侧或左前方自然日光约5200K，室内辅以实用电灯；阴影有方向，光源与窗户位置对应。\nMaterials/textures: 二至三层木砖混合民居；瓦屋顶、木窗框、补过的灰泥与深砖；实用线路靠边，保温热力管沿墙角局部后加，不在道路喷汽。\nConstraints: 保持地点用途、层数、公共/工作边界及设施一致。背景图不带固定角色；独立CG保持地点、设备一致却使用新的完整视角。Image 1 is the style reference only, not the same location.\nAvoid: 装饰齿轮、全城黄铜、持续喷汽、维多利亚服饰、全息触屏、巨型科幻屏幕、近景人物、对话框、选项、UI、标题、水印、多格；不改卡。",
+    "tool": "image_gen__imagegen",
+    "reference_asset_ids": [
+      "shiomi_station_hall__day__bg"
+    ],
+    "status": "accepted",
+    "corrections": [],
+    "tool_result_reference": "backgrounds/tsurumi_neighborhood__day__bg.png",
+    "project_file": "backgrounds/tsurumi_neighborhood__day__bg.png",
+    "generation_output_reference": "/workspace/scratch/329cd0d9ea3a/generated_images/exec-a621b32e-1cb1-4b4e-b72b-7aef69442fbe.png",
+    "reference_files": [
+      "backgrounds/shiomi_station_hall__day__bg.png"
+    ]
+  },
+  {
+    "id": "tsurumi_neighborhood__day__cg",
+    "prompt": "Use case: stylized-concept\nAsset type: Shiomi visual novel standalone scene CG / tsurumi_neighborhood__day__cg\nWorld and location facts: 景和七年，和国关东东南海湾汐见市，成熟工业都市。蒸汽为发电供热工业动力，电力用于普通照明交通与机电通信，民用设备完整外壳，非泛蒸汽朋克。两三层木砖混合住宅店屋、窄巷、旧路面，真实后加通信线、局部保温热力管与维修支架；无街道持续喷汽。\nEstablished scene facts: 春季；晴朗春日下午。首批场景型CG，不加入任何有名角色或虚构剧情。\nPrimary request: 只生成一张完整独立横向16:9、不透明原图，尽可能接近1920×1080原生像素，无拼图。全新完整构图，单独观看即可理解地点；不是参考BG的复制、简单裁切或移动元素。\nStyle/medium: 统一日式视觉小说细致环境绘制；以第一张站厅BG为绘制风格参照，可信建筑透视、克制细线、适度绘画笔触、真实维护痕迹、柔和空气透视。保留本地点木色、米白、蓝灰、绿与红砖真实材料色；不套整图青色或棕色滤镜。\nComposition/framing: 从巷道转角斜望小店与住宅，近景路边自行车、盆栽和木门，中景二三层阳台与小店，后景几名普通居民；一条可实际步行的巷道贯穿画面。 清楚的前中后景与主体；可有少量中远景普通市民，无人物特写。参考图只用于建筑设施材料与绘制风格一致，新设计镜头位置与主次。\nLighting/mood: 晴朗春日下午，左侧或左前方自然日光约5200K，室内辅以实用电灯；阴影有方向，光源与窗户位置对应。\nMaterials/textures: 二至三层木砖混合民居；瓦屋顶、木窗框、补过的灰泥与深砖；实用线路靠边，保温热力管沿墙角局部后加，不在道路喷汽。\nConstraints: 保持地点用途、层数、公共/工作边界及设施一致。背景图不带固定角色；独立CG保持地点、设备一致却使用新的完整视角。Image 1 is this same location BG, spatial/material reference only; generate a new scene CG.\nAvoid: 装饰齿轮、全城黄铜、持续喷汽、维多利亚服饰、全息触屏、巨型科幻屏幕、近景人物、对话框、选项、UI、标题、水印、多格；不改卡。",
+    "tool": "image_gen__imagegen",
+    "reference_asset_ids": [
+      "tsurumi_neighborhood__day__bg"
+    ],
+    "status": "accepted",
+    "corrections": [],
+    "tool_result_reference": "standalone/tsurumi_neighborhood__day__cg.png",
+    "project_file": "standalone/tsurumi_neighborhood__day__cg.png",
+    "generation_output_reference": "/workspace/scratch/329cd0d9ea3a/generated_images/exec-55df907e-7695-4f9b-8608-30be476e6b6d.png",
+    "reference_files": [
+      "backgrounds/tsurumi_neighborhood__day__bg.png"
+    ]
+  },
+  {
+    "id": "tsurumi_bridge_riverbank__day__bg",
+    "prompt": "Use case: stylized-concept\nAsset type: Shiomi visual novel BG / tsurumi_bridge_riverbank__day__bg\nWorld and location facts: 景和七年，和国关东东南海湾汐见市，成熟工业都市。蒸汽为发电供热工业动力，电力用于普通照明交通与机电通信，民用设备完整外壳，非泛蒸汽朋克。普通城市生活桥，汽车公交自行车行人可通行，北岸低层住宅与河堤路，正常城市河流；混凝土桥依据用户剧情。\nEstablished scene facts: 春季；晴朗春日下午。首批场景型CG，不加入任何有名角色或虚构剧情。\nPrimary request: 只生成一张完整独立横向16:9、不透明原图，尽可能接近1920×1080原生像素，无拼图。用于透明立绘叠加的完整背景。\nStyle/medium: 统一日式视觉小说细致环境绘制；以第一张站厅BG为绘制风格参照，可信建筑透视、克制细线、适度绘画笔触、真实维护痕迹、柔和空气透视。保留本地点木色、米白、蓝灰、绿与红砖真实材料色；不套整图青色或棕色滤镜。\nComposition/framing: 从北岸步道平视桥头，中央地面留人物位置，桥与河居中可识别，避免前景栏杆挡全部人物。 视点约1.5米，中央30%至70%宽度留低密度头脸及躯干区，中央近景地面通畅，脚部建议x=.35/.65,y=.88，不烘焙人物或阴影；无近中景人物，远处小人可省略。\nLighting/mood: 晴朗春日下午，左侧或左前方自然日光约5200K，室内辅以实用电灯；阴影有方向，光源与窗户位置对应。\nMaterials/textures: 中等尺度混凝土普通生活桥，低护栏、车行道与人行道，汐见川北岸低层民居，正常宽度流动城市河水，局部新绿。\nConstraints: 保持地点用途、层数、公共/工作边界及设施一致。背景图不带固定角色；独立CG保持地点、设备一致却使用新的完整视角。Image 1 is the style reference only, not the same location.\nAvoid: 装饰齿轮、全城黄铜、持续喷汽、维多利亚服饰、全息触屏、巨型科幻屏幕、近景人物、对话框、选项、UI、标题、水印、多格；不改卡。",
+    "tool": "image_gen__imagegen",
+    "reference_asset_ids": [
+      "shiomi_station_hall__day__bg"
+    ],
+    "status": "accepted",
+    "corrections": [],
+    "tool_result_reference": "backgrounds/tsurumi_bridge_riverbank__day__bg.png",
+    "project_file": "backgrounds/tsurumi_bridge_riverbank__day__bg.png",
+    "generation_output_reference": "/workspace/scratch/329cd0d9ea3a/generated_images/exec-491be49c-a7da-4acb-aa53-513cf8d05484.png",
+    "reference_files": [
+      "backgrounds/shiomi_station_hall__day__bg.png"
+    ]
+  },
+  {
+    "id": "tsurumi_bridge_riverbank__day__cg",
+    "prompt": "Use case: stylized-concept\nAsset type: Shiomi visual novel standalone scene CG / tsurumi_bridge_riverbank__day__cg\nWorld and location facts: 景和七年，和国关东东南海湾汐见市，成熟工业都市。蒸汽为发电供热工业动力，电力用于普通照明交通与机电通信，民用设备完整外壳，非泛蒸汽朋克。普通城市生活桥，汽车公交自行车行人可通行，北岸低层住宅与河堤路，正常城市河流；混凝土桥依据用户剧情。\nEstablished scene facts: 春季；晴朗春日下午。首批场景型CG，不加入任何有名角色或虚构剧情。\nPrimary request: 只生成一张完整独立横向16:9、不透明原图，尽可能接近1920×1080原生像素，无拼图。全新完整构图，单独观看即可理解地点；不是参考BG的复制、简单裁切或移动元素。\nStyle/medium: 统一日式视觉小说细致环境绘制；以第一张站厅BG为绘制风格参照，可信建筑透视、克制细线、适度绘画笔触、真实维护痕迹、柔和空气透视。保留本地点木色、米白、蓝灰、绿与红砖真实材料色；不套整图青色或棕色滤镜。\nComposition/framing: 从堤岸小路弯处斜望桥跨过河流；前景堤坡与草，中景混凝土桥和公交车小轮廓，后景旧城和远处电气铁路。河水反光构成引导；没有巨大吊索桥或欧式大运河。 清楚的前中后景与主体；可有少量中远景普通市民，无人物特写。参考图只用于建筑设施材料与绘制风格一致，新设计镜头位置与主次。\nLighting/mood: 晴朗春日下午，左侧或左前方自然日光约5200K，室内辅以实用电灯；阴影有方向，光源与窗户位置对应。\nMaterials/textures: 中等尺度混凝土普通生活桥，低护栏、车行道与人行道，汐见川北岸低层民居，正常宽度流动城市河水，局部新绿。\nConstraints: 保持地点用途、层数、公共/工作边界及设施一致。背景图不带固定角色；独立CG保持地点、设备一致却使用新的完整视角。Image 1 is this same location BG, spatial/material reference only; generate a new scene CG.\nAvoid: 装饰齿轮、全城黄铜、持续喷汽、维多利亚服饰、全息触屏、巨型科幻屏幕、近景人物、对话框、选项、UI、标题、水印、多格；不改卡。",
+    "tool": "image_gen__imagegen",
+    "reference_asset_ids": [
+      "tsurumi_bridge_riverbank__day__bg"
+    ],
+    "status": "accepted",
+    "corrections": [],
+    "tool_result_reference": "standalone/tsurumi_bridge_riverbank__day__cg.png",
+    "project_file": "standalone/tsurumi_bridge_riverbank__day__cg.png",
+    "generation_output_reference": "/workspace/scratch/329cd0d9ea3a/generated_images/exec-60937e1a-c568-4ab4-8667-f237de3fc4f3.png",
+    "reference_files": [
+      "backgrounds/tsurumi_bridge_riverbank__day__bg.png"
+    ]
+  },
+  {
+    "id": "riverside_apartment_203__day__bg",
+    "prompt": "Use case: stylized-concept\nAsset type: Shiomi visual novel BG / riverside_apartment_203__day__bg\nWorld and location facts: 景和七年，和国关东东南海湾汐见市，成熟工业都市。蒸汽为发电供热工业动力，电力用于普通照明交通与机电通信，民用设备完整外壳，非泛蒸汽朋克。用户示例指定六叠和室、低木方桌、壁橱、朝南玻璃铝移窗与窄阳台、汐见川河堤窗景、墙角铸铁散热器；窄玄关和小厨房可见一角。不是川风庄。\nEstablished scene facts: 春季；晴朗春日下午。首批场景型CG，不加入任何有名角色或虚构剧情。\nPrimary request: 只生成一张完整独立横向16:9、不透明原图，尽可能接近1920×1080原生像素，无拼图。用于透明立绘叠加的完整背景。\nStyle/medium: 统一日式视觉小说细致环境绘制；以第一张站厅BG为绘制风格参照，可信建筑透视、克制细线、适度绘画笔触、真实维护痕迹、柔和空气透视。保留本地点木色、米白、蓝灰、绿与红砖真实材料色；不套整图青色或棕色滤镜。\nComposition/framing: 室内平视，从入口朝窗看，中央留可站位地面，方桌靠侧、不挡全部人物；日光从左前窗进入。 视点约1.5米，中央30%至70%宽度留低密度头脸及躯干区，中央近景地面通畅，脚部建议x=.35/.65,y=.88，不烘焙人物或阴影；无近中景人物，远处小人可省略。\nLighting/mood: 晴朗春日下午，左侧或左前方自然日光约5200K，室内辅以实用电灯；阴影有方向，光源与窗户位置对应。\nMaterials/textures: 六叠榻榻米小房间、低原木方桌靠侧、推拉壁橱；南侧铝合金玻璃移窗与窄阳台，窗外汐见川河堤，墙角铸铁散热器；窄玄关右鞋柜和狭厨房只露一角，水槽、单口燃气灶、小双门冰箱。\nConstraints: 保持地点用途、层数、公共/工作边界及设施一致。背景图不带固定角色；独立CG保持地点、设备一致却使用新的完整视角。Image 1 is the style reference only, not the same location.\nAvoid: 装饰齿轮、全城黄铜、持续喷汽、维多利亚服饰、全息触屏、巨型科幻屏幕、近景人物、对话框、选项、UI、标题、水印、多格；不改卡。",
+    "tool": "image_gen__imagegen",
+    "reference_asset_ids": [
+      "shiomi_station_hall__day__bg"
+    ],
+    "status": "accepted",
+    "corrections": [],
+    "tool_result_reference": "backgrounds/riverside_apartment_203__day__bg.png",
+    "project_file": "backgrounds/riverside_apartment_203__day__bg.png",
+    "generation_output_reference": "/workspace/scratch/329cd0d9ea3a/generated_images/exec-fcdc9b56-6171-4d82-ac26-c0090fe65d47.png",
+    "reference_files": [
+      "backgrounds/shiomi_station_hall__day__bg.png"
+    ]
+  },
+  {
+    "id": "riverside_apartment_203__day__cg",
+    "prompt": "Use case: stylized-concept\nAsset type: Shiomi visual novel standalone scene CG / riverside_apartment_203__day__cg\nWorld and location facts: 景和七年，和国关东东南海湾汐见市，成熟工业都市。蒸汽为发电供热工业动力，电力用于普通照明交通与机电通信，民用设备完整外壳，非泛蒸汽朋克。用户示例指定六叠和室、低木方桌、壁橱、朝南玻璃铝移窗与窄阳台、汐见川河堤窗景、墙角铸铁散热器；窄玄关和小厨房可见一角。不是川风庄。\nEstablished scene facts: 春季；晴朗春日下午。首批场景型CG，不加入任何有名角色或虚构剧情。\nPrimary request: 只生成一张完整独立横向16:9、不透明原图，尽可能接近1920×1080原生像素，无拼图。全新完整构图，单独观看即可理解地点；不是参考BG的复制、简单裁切或移动元素。\nStyle/medium: 统一日式视觉小说细致环境绘制；以第一张站厅BG为绘制风格参照，可信建筑透视、克制细线、适度绘画笔触、真实维护痕迹、柔和空气透视。保留本地点木色、米白、蓝灰、绿与红砖真实材料色；不套整图青色或棕色滤镜。\nComposition/framing: 从房间侧角朝南窗斜看完整六叠居室；侧前景方桌与普通杯子、少量书，中景轻薄窗帘被河风稍吹动，远景阳台与河堤；壁橱和铸铁散热器仍在相同墙面。不要把窗外河景变成海景；不是川风庄。 清楚的前中后景与主体；可有少量中远景普通市民，无人物特写。参考图只用于建筑设施材料与绘制风格一致，新设计镜头位置与主次。\nLighting/mood: 晴朗春日下午，左侧或左前方自然日光约5200K，室内辅以实用电灯；阴影有方向，光源与窗户位置对应。\nMaterials/textures: 六叠榻榻米小房间、低原木方桌靠侧、推拉壁橱；南侧铝合金玻璃移窗与窄阳台，窗外汐见川河堤，墙角铸铁散热器；窄玄关右鞋柜和狭厨房只露一角，水槽、单口燃气灶、小双门冰箱。\nConstraints: 保持地点用途、层数、公共/工作边界及设施一致。背景图不带固定角色；独立CG保持地点、设备一致却使用新的完整视角。Image 1 is this same location BG, spatial/material reference only; generate a new scene CG.\nAvoid: 装饰齿轮、全城黄铜、持续喷汽、维多利亚服饰、全息触屏、巨型科幻屏幕、近景人物、对话框、选项、UI、标题、水印、多格；不改卡。",
+    "tool": "image_gen__imagegen",
+    "reference_asset_ids": [
+      "riverside_apartment_203__day__bg"
+    ],
+    "status": "accepted",
+    "corrections": [
+      {
+        "reason": "Initial CG too similar to frontal BG; requires substantially new camera and complete composition.",
+        "prompt": "定向修正独立CG构图。参考图是已成立的203室空间和材料参照，不是要微调的成品。必须生成从全新相机位置绘制的一张独立CG，禁止沿用正对窗户的中央BG镜头、禁止简单裁切平移。景和七年汐见市春日下午，独居六叠小和室、左墙推拉壁橱、南侧铝合金玻璃移窗和窄阳台、窗外汐见川河堤、窗右角铸铁散热器、低原木方桌、窄厨房在入口右侧。新相机位于厨房旁的室内角落，沿房间对角线向壁橱/南窗交界斜望，桌面与杯子书籍构成左下至中央清晰前景，南窗必须以斜角出现在画面右半部而非正对镜头占全幅，右侧薄窗帘在微风中成为中景主体，河堤与河水作为窗外远景。窗帘不要仍全部系起，让一幅轻轻飘动；不增加人或新剧情。不复制参考图的画面几何，不改变房间设施材质身份。保持同批精细日式视觉小说环境绘制、真实空间尺度与光影，一张完整横向16:9尽量接近1920×1080，不透明，无UI标题水印。"
+      }
+    ],
+    "tool_result_reference": "standalone/riverside_apartment_203__day__cg.png",
+    "project_file": "standalone/riverside_apartment_203__day__cg.png",
+    "generation_output_reference": "/workspace/scratch/329cd0d9ea3a/generated_images/exec-ff1e95f0-cb3d-47ee-8b48-d52a80c5f684.png",
+    "reference_files": [
+      "backgrounds/riverside_apartment_203__day__bg.png"
+    ]
+  },
+  {
+    "id": "shirasagi_shopping_street__day__bg",
+    "prompt": "Use case: stylized-concept\nAsset type: Shiomi visual novel BG / shirasagi_shopping_street__day__bg\nWorld and location facts: 景和七年，和国关东东南海湾汐见市，成熟工业都市。蒸汽为发电供热工业动力，电力用于普通照明交通与机电通信，民用设备完整外壳，非泛蒸汽朋克。连续钢骨玻璃檐棚、狭长家庭店铺、卷帘和玻璃橱窗；食品日用、菓子、书籍、家电与维修服务并存。冷藏排风设备以店内及后场为主。\nEstablished scene facts: 春季；晴朗春日下午。首批场景型CG，不加入任何有名角色或虚构剧情。\nPrimary request: 只生成一张完整独立横向16:9、不透明原图，尽可能接近1920×1080原生像素，无拼图。用于透明立绘叠加的完整背景。\nStyle/medium: 统一日式视觉小说细致环境绘制；以第一张站厅BG为绘制风格参照，可信建筑透视、克制细线、适度绘画笔触、真实维护痕迹、柔和空气透视。保留本地点木色、米白、蓝灰、绿与红砖真实材料色；不套整图青色或棕色滤镜。\nComposition/framing: 在檐棚下平视通道，中央留会话空间；两侧店铺不要把巨幅招牌置于人物脸部。顶部透射柔和日光。 视点约1.5米，中央30%至70%宽度留低密度头脸及躯干区，中央近景地面通畅，脚部建议x=.35/.65,y=.88，不烘焙人物或阴影；无近中景人物，远处小人可省略。\nLighting/mood: 晴朗春日下午，左侧或左前方自然日光约5200K，室内辅以实用电灯；阴影有方向，光源与窗户位置对应。\nMaterials/textures: 连续钢骨玻璃檐棚、两边狭长店铺，上方朴素公共照明和小机械钟；玻璃橱窗卷帘、食品冷藏陈列柜、书店杂志架、家电修理店封闭电器外壳。\nConstraints: 保持地点用途、层数、公共/工作边界及设施一致。背景图不带固定角色；独立CG保持地点、设备一致却使用新的完整视角。Image 1 is the style reference only, not the same location.\nAvoid: 装饰齿轮、全城黄铜、持续喷汽、维多利亚服饰、全息触屏、巨型科幻屏幕、近景人物、对话框、选项、UI、标题、水印、多格；不改卡。",
+    "tool": "image_gen__imagegen",
+    "reference_asset_ids": [
+      "shiomi_station_hall__day__bg"
+    ],
+    "status": "accepted",
+    "corrections": [],
+    "tool_result_reference": "backgrounds/shirasagi_shopping_street__day__bg.png",
+    "project_file": "backgrounds/shirasagi_shopping_street__day__bg.png",
+    "generation_output_reference": "/workspace/scratch/329cd0d9ea3a/generated_images/exec-087e0346-8ef3-43ff-b80c-e85b2e711deb.png",
+    "reference_files": [
+      "backgrounds/shiomi_station_hall__day__bg.png"
+    ]
+  },
+  {
+    "id": "shirasagi_shopping_street__day__cg",
+    "prompt": "Use case: stylized-concept\nAsset type: Shiomi visual novel standalone scene CG / shirasagi_shopping_street__day__cg\nWorld and location facts: 景和七年，和国关东东南海湾汐见市，成熟工业都市。蒸汽为发电供热工业动力，电力用于普通照明交通与机电通信，民用设备完整外壳，非泛蒸汽朋克。连续钢骨玻璃檐棚、狭长家庭店铺、卷帘和玻璃橱窗；食品日用、菓子、书籍、家电与维修服务并存。冷藏排风设备以店内及后场为主。\nEstablished scene facts: 春季；晴朗春日下午。首批场景型CG，不加入任何有名角色或虚构剧情。\nPrimary request: 只生成一张完整独立横向16:9、不透明原图，尽可能接近1920×1080原生像素，无拼图。全新完整构图，单独观看即可理解地点；不是参考BG的复制、简单裁切或移动元素。\nStyle/medium: 统一日式视觉小说细致环境绘制；以第一张站厅BG为绘制风格参照，可信建筑透视、克制细线、适度绘画笔触、真实维护痕迹、柔和空气透视。保留本地点木色、米白、蓝灰、绿与红砖真实材料色；不套整图青色或棕色滤镜。\nComposition/framing: 从食品店门边斜望檐棚长轴，前景一角蔬果与纸袋，中景不同年代招牌的菓子店、书店、电器维修铺，远中景少量采购市民和靠边自行车；通道可通行，不统一装修成主题街。 清楚的前中后景与主体；可有少量中远景普通市民，无人物特写。参考图只用于建筑设施材料与绘制风格一致，新设计镜头位置与主次。\nLighting/mood: 晴朗春日下午，左侧或左前方自然日光约5200K，室内辅以实用电灯；阴影有方向，光源与窗户位置对应。\nMaterials/textures: 连续钢骨玻璃檐棚、两边狭长店铺，上方朴素公共照明和小机械钟；玻璃橱窗卷帘、食品冷藏陈列柜、书店杂志架、家电修理店封闭电器外壳。\nConstraints: 保持地点用途、层数、公共/工作边界及设施一致。背景图不带固定角色；独立CG保持地点、设备一致却使用新的完整视角。Image 1 is this same location BG, spatial/material reference only; generate a new scene CG.\nAvoid: 装饰齿轮、全城黄铜、持续喷汽、维多利亚服饰、全息触屏、巨型科幻屏幕、近景人物、对话框、选项、UI、标题、水印、多格；不改卡。",
+    "tool": "image_gen__imagegen",
+    "reference_asset_ids": [
+      "shirasagi_shopping_street__day__bg"
+    ],
+    "status": "accepted",
+    "corrections": [],
+    "tool_result_reference": "standalone/shirasagi_shopping_street__day__cg.png",
+    "project_file": "standalone/shirasagi_shopping_street__day__cg.png",
+    "generation_output_reference": "/workspace/scratch/329cd0d9ea3a/generated_images/exec-1751c12b-c4cf-4539-bafb-6f5ac70c8ede.png",
+    "reference_files": [
+      "backgrounds/shirasagi_shopping_street__day__bg.png"
+    ]
+  },
+  {
+    "id": "cafe_shiosai__day__bg",
+    "prompt": "Use case: stylized-concept\nAsset type: Shiomi visual novel BG / cafe_shiosai__day__bg\nWorld and location facts: 景和七年，和国关东东南海湾汐见市，成熟工业都市。蒸汽为发电供热工业动力，电力用于普通照明交通与机电通信，民用设备完整外壳，非泛蒸汽朋克。两层木砖混合店屋的一层营业区：木吧台、六小桌、窗边长椅、唱片机、报纸架、公用电话与小键盘公共文字终端。\nEstablished scene facts: 春季；晴朗春日下午。首批场景型CG，不加入任何有名角色或虚构剧情。\nPrimary request: 只生成一张完整独立横向16:9、不透明原图，尽可能接近1920×1080原生像素，无拼图。用于透明立绘叠加的完整背景。\nStyle/medium: 统一日式视觉小说细致环境绘制；以第一张站厅BG为绘制风格参照，可信建筑透视、克制细线、适度绘画笔触、真实维护痕迹、柔和空气透视。保留本地点木色、米白、蓝灰、绿与红砖真实材料色；不套整图青色或棕色滤镜。\nComposition/framing: 平视店内通道，吧台在一侧、窗位左侧，中央留会话站位；咖啡与木材真实颜色，日光辅以暖电灯。 视点约1.5米，中央30%至70%宽度留低密度头脸及躯干区，中央近景地面通畅，脚部建议x=.35/.65,y=.88，不烘焙人物或阴影；无近中景人物，远处小人可省略。\nLighting/mood: 晴朗春日下午，左侧或左前方自然日光约5200K，室内辅以实用电灯；阴影有方向，光源与窗户位置对应。\nMaterials/textures: 一楼普通营业区，共六张小桌、窗边长椅、木吧台、唱片机、报纸架、公用电话与小键盘文字终端；楼上私人区域不入镜；实用暖电灯。\nConstraints: 保持地点用途、层数、公共/工作边界及设施一致。背景图不带固定角色；独立CG保持地点、设备一致却使用新的完整视角。Image 1 is the style reference only, not the same location.\nAvoid: 装饰齿轮、全城黄铜、持续喷汽、维多利亚服饰、全息触屏、巨型科幻屏幕、近景人物、对话框、选项、UI、标题、水印、多格；不改卡。",
+    "tool": "image_gen__imagegen",
+    "reference_asset_ids": [
+      "shiomi_station_hall__day__bg"
+    ],
+    "status": "accepted",
+    "corrections": [
+      {
+        "reason": "Keyboard public text terminal not legible; gramophone too antique; ensure six small tables.",
+        "prompt": "定向修正这张潮声营业区BG，只修正设备与小桌数量，保留建筑、左窗右木吧台、木地板、灯、透视、光线和本批画风。景和七年成熟工业都市的普通老喫茶店，不是十九世纪咖啡宫。把左侧黄铜号角留声机替换为正常电动黑胶唱片机：紧凑矩形木或灰色机身、圆唱盘、唱臂、普通小音箱，无号角。公用电话旁边明确加一台小型公共文字终端：完整灰绿外壳、微小单色文本显示窗、实体小键盘，放在靠墙窄柜上；设备不能占通道，不是触屏。不改掉公用电话和报纸架。营业区总共六张小木桌，沿窗边及较深的店内侧分布，可在画面边缘部分可见，但不要横堵中央人物站位；现有小桌按这个总数补足。无近中景人物。无UI标题水印；完整横向16:9不透明图片，尽量接近1920×1080原生像素。"
+      }
+    ],
+    "tool_result_reference": "backgrounds/cafe_shiosai__day__bg.png",
+    "project_file": "backgrounds/cafe_shiosai__day__bg.png",
+    "generation_output_reference": "/workspace/scratch/329cd0d9ea3a/generated_images/exec-fb8700ce-068c-4909-b605-36adc1e7c66a.png",
+    "reference_files": [
+      "backgrounds/shiomi_station_hall__day__bg.png"
+    ]
+  },
+  {
+    "id": "cafe_shiosai__day__cg",
+    "prompt": "Use case: stylized-concept\nAsset type: Shiomi visual novel standalone scene CG / cafe_shiosai__day__cg\nWorld and location facts: 景和七年，和国关东东南海湾汐见市，成熟工业都市。蒸汽为发电供热工业动力，电力用于普通照明交通与机电通信，民用设备完整外壳，非泛蒸汽朋克。两层木砖混合店屋的一层营业区：木吧台、六小桌、窗边长椅、唱片机、报纸架、公用电话与小键盘公共文字终端。\nEstablished scene facts: 春季；晴朗春日下午。首批场景型CG，不加入任何有名角色或虚构剧情。\nPrimary request: 只生成一张完整独立横向16:9、不透明原图，尽可能接近1920×1080原生像素，无拼图。全新完整构图，单独观看即可理解地点；不是参考BG的复制、简单裁切或移动元素。\nStyle/medium: 统一日式视觉小说细致环境绘制；以第一张站厅BG为绘制风格参照，可信建筑透视、克制细线、适度绘画笔触、真实维护痕迹、柔和空气透视。保留本地点木色、米白、蓝灰、绿与红砖真实材料色；不套整图青色或棕色滤镜。\nComposition/framing: 从靠窗座位斜望木吧台与店内纵深；前景小桌上一杯咖啡与杯碟，中景窗边长椅、唱片机，后景吧台和其余小桌；保留六桌，温柔午后营业空间，不加近景店主。 清楚的前中后景与主体；可有少量中远景普通市民，无人物特写。参考图只用于建筑设施材料与绘制风格一致，新设计镜头位置与主次。\nLighting/mood: 晴朗春日下午，左侧或左前方自然日光约5200K，室内辅以实用电灯；阴影有方向，光源与窗户位置对应。\nMaterials/textures: 一楼普通营业区，共六张小桌、窗边长椅、木吧台、唱片机、报纸架、公用电话与小键盘文字终端；楼上私人区域不入镜；实用暖电灯。\nConstraints: 保持地点用途、层数、公共/工作边界及设施一致。背景图不带固定角色；独立CG保持地点、设备一致却使用新的完整视角。Image 1 is this same location BG, spatial/material reference only; generate a new scene CG.\nAvoid: 装饰齿轮、全城黄铜、持续喷汽、维多利亚服饰、全息触屏、巨型科幻屏幕、近景人物、对话框、选项、UI、标题、水印、多格；不改卡。",
+    "tool": "image_gen__imagegen",
+    "reference_asset_ids": [
+      "cafe_shiosai__day__bg"
+    ],
+    "status": "accepted",
+    "corrections": [],
+    "tool_result_reference": "standalone/cafe_shiosai__day__cg.png",
+    "project_file": "standalone/cafe_shiosai__day__cg.png",
+    "generation_output_reference": "/workspace/scratch/329cd0d9ea3a/generated_images/exec-be65f113-8096-4167-80bb-26528827e199.png",
+    "reference_files": [
+      "backgrounds/cafe_shiosai__day__bg.png"
+    ]
+  },
+  {
+    "id": "yoimachi_shuto_street__night__bg",
+    "prompt": "Use case: stylized-concept\nAsset type: Shiomi visual novel BG / yoimachi_shuto_street__night__bg\nWorld and location facts: 景和七年，和国关东东南海湾汐见市，成熟工业都市。蒸汽为发电供热工业动力，电力用于普通照明交通与机电通信，民用设备完整外壳，非泛蒸汽朋克。三至七层狭窄商业楼，多经营者、霓虹、灯箱、机械转牌、出租车；酒吧俱乐部卡拉OK和餐饮共存，机械后勤在楼后。\nEstablished scene facts: 春季；春季晴朗夜间。首批场景型CG，不加入任何有名角色或虚构剧情。\nPrimary request: 只生成一张完整独立横向16:9、不透明原图，尽可能接近1920×1080原生像素，无拼图。用于透明立绘叠加的完整背景。\nStyle/medium: 统一日式视觉小说细致环境绘制；以第一张站厅BG为绘制风格参照，可信建筑透视、克制细线、适度绘画笔触、真实维护痕迹、柔和空气透视。保留本地点木色、米白、蓝灰、绿与红砖真实材料色；不套整图青色或棕色滤镜。\nComposition/framing: 平视主街边缘，中央和左右人物站位适度暗而可辨，避免强霓虹在人脸预留区；完整城市街面，无UI或近景人物。 视点约1.5米，中央30%至70%宽度留低密度头脸及躯干区，中央近景地面通畅，脚部建议x=.35/.65,y=.88，不烘焙人物或阴影；无近中景人物，远处小人可省略。\nLighting/mood: 来自左前方及侧面的真实暖灯箱/路灯，约2800-4000K暖光与暗蓝夜色平衡，留人物位置较平静不刺眼。\nMaterials/textures: 三至七层狭窄商业楼、同楼多店，真实霓虹和灯箱、机械转牌；少量高级暗木门面与平价餐饮并存，出租车是普通燃油轿车；春夜无街道喷汽或冬雾。\nConstraints: 保持地点用途、层数、公共/工作边界及设施一致。背景图不带固定角色；独立CG保持地点、设备一致却使用新的完整视角。Image 1 is the style reference only, not the same location.\nAvoid: 装饰齿轮、全城黄铜、持续喷汽、维多利亚服饰、全息触屏、巨型科幻屏幕、近景人物、对话框、选项、UI、标题、水印、多格；不改卡。",
+    "tool": "image_gen__imagegen",
+    "reference_asset_ids": [
+      "shiomi_station_hall__day__bg"
+    ],
+    "status": "accepted",
+    "corrections": [],
+    "tool_result_reference": "backgrounds/yoimachi_shuto_street__night__bg.png",
+    "project_file": "backgrounds/yoimachi_shuto_street__night__bg.png",
+    "generation_output_reference": "/workspace/scratch/329cd0d9ea3a/generated_images/exec-f7c125f6-960a-4777-a27b-00c2e235bbcc.png",
+    "reference_files": [
+      "backgrounds/shiomi_station_hall__day__bg.png"
+    ]
+  },
+  {
+    "id": "yoimachi_shuto_street__night__cg",
+    "prompt": "Use case: stylized-concept\nAsset type: Shiomi visual novel standalone scene CG / yoimachi_shuto_street__night__cg\nWorld and location facts: 景和七年，和国关东东南海湾汐见市，成熟工业都市。蒸汽为发电供热工业动力，电力用于普通照明交通与机电通信，民用设备完整外壳，非泛蒸汽朋克。三至七层狭窄商业楼，多经营者、霓虹、灯箱、机械转牌、出租车；酒吧俱乐部卡拉OK和餐饮共存，机械后勤在楼后。\nEstablished scene facts: 春季；春季晴朗夜间。首批场景型CG，不加入任何有名角色或虚构剧情。\nPrimary request: 只生成一张完整独立横向16:9、不透明原图，尽可能接近1920×1080原生像素，无拼图。全新完整构图，单独观看即可理解地点；不是参考BG的复制、简单裁切或移动元素。\nStyle/medium: 统一日式视觉小说细致环境绘制；以第一张站厅BG为绘制风格参照，可信建筑透视、克制细线、适度绘画笔触、真实维护痕迹、柔和空气透视。保留本地点木色、米白、蓝灰、绿与红砖真实材料色；不套整图青色或棕色滤镜。\nComposition/framing: 从路口侧边斜望朱灯通，前景局部路缘与出租车灯，中景红暖餐馆灯箱和俱乐部门面，后景多层商业楼；少量正常衣着成年人在中远景上下班与娱乐，地面零星光泽而非倾盆雨；没有成人裸露广告。 清楚的前中后景与主体；可有少量中远景普通市民，无人物特写。参考图只用于建筑设施材料与绘制风格一致，新设计镜头位置与主次。\nLighting/mood: 来自左前方及侧面的真实暖灯箱/路灯，约2800-4000K暖光与暗蓝夜色平衡，留人物位置较平静不刺眼。\nMaterials/textures: 三至七层狭窄商业楼、同楼多店，真实霓虹和灯箱、机械转牌；少量高级暗木门面与平价餐饮并存，出租车是普通燃油轿车；春夜无街道喷汽或冬雾。\nConstraints: 保持地点用途、层数、公共/工作边界及设施一致。背景图不带固定角色；独立CG保持地点、设备一致却使用新的完整视角。Image 1 is this same location BG, spatial/material reference only; generate a new scene CG.\nAvoid: 装饰齿轮、全城黄铜、持续喷汽、维多利亚服饰、全息触屏、巨型科幻屏幕、近景人物、对话框、选项、UI、标题、水印、多格；不改卡。",
+    "tool": "image_gen__imagegen",
+    "reference_asset_ids": [
+      "yoimachi_shuto_street__night__bg"
+    ],
+    "status": "accepted",
+    "corrections": [],
+    "tool_result_reference": "standalone/yoimachi_shuto_street__night__cg.png",
+    "project_file": "standalone/yoimachi_shuto_street__night__cg.png",
+    "generation_output_reference": "/workspace/scratch/329cd0d9ea3a/generated_images/exec-589635f6-a1d8-46b6-a4b3-c5e4d061ccfc.png",
+    "reference_files": [
+      "backgrounds/yoimachi_shuto_street__night__bg.png"
+    ]
+  },
+  {
+    "id": "east_port_airship_terminal__day__bg",
+    "prompt": "Use case: stylized-concept\nAsset type: Shiomi visual novel BG / east_port_airship_terminal__day__bg\nWorld and location facts: 景和七年，和国关东东南海湾汐见市，成熟工业都市。蒸汽为发电供热工业动力，电力用于普通照明交通与机电通信，民用设备完整外壳，非泛蒸汽朋克。公众候乘大厅、售票确认、行李称重、机械时刻牌、广播和大窗；大窗外受控系留塔、机库及长椭圆刚性空艇，封闭外壳和尾翼、包覆动力舱与螺旋桨。\nEstablished scene facts: 春季；晴朗春日下午，风况正常。首批场景型CG，不加入任何有名角色或虚构剧情。\nPrimary request: 只生成一张完整独立横向16:9、不透明原图，尽可能接近1920×1080原生像素，无拼图。用于透明立绘叠加的完整背景。\nStyle/medium: 统一日式视觉小说细致环境绘制；以第一张站厅BG为绘制风格参照，可信建筑透视、克制细线、适度绘画笔触、真实维护痕迹、柔和空气透视。保留本地点木色、米白、蓝灰、绿与红砖真实材料色；不套整图青色或棕色滤镜。\nComposition/framing: 站在公众大厅平视大窗，中央通道留站位，售票与行李设施在两侧；不能让旅客站在绞盘危险区。 视点约1.5米，中央30%至70%宽度留低密度头脸及躯干区，中央近景地面通畅，脚部建议x=.35/.65,y=.88，不烘焙人物或阴影；无近中景人物，远处小人可省略。\nLighting/mood: 晴朗春日下午，左侧或左前方自然日光约5200K，室内辅以实用电灯；阴影有方向，光源与窗户位置对应。\nMaterials/textures: 公众候乘厅钢骨大窗、木金属座椅，售票确认窗口、行李秤、机械时刻牌、公共电话、广播；玻璃外远处安全场地内系留塔、机库、封闭流线长椭圆刚性空艇，尾翼、封闭下客舱与包覆螺旋桨动力舱。\nConstraints: 保持地点用途、层数、公共/工作边界及设施一致。背景图不带固定角色；独立CG保持地点、设备一致却使用新的完整视角。Image 1 is the style reference only, not the same location.\nAvoid: 装饰齿轮、全城黄铜、持续喷汽、维多利亚服饰、全息触屏、巨型科幻屏幕、近景人物、对话框、选项、UI、标题、水印、多格；不改卡。",
+    "tool": "image_gen__imagegen",
+    "reference_asset_ids": [
+      "shiomi_station_hall__day__bg"
+    ],
+    "status": "accepted",
+    "corrections": [],
+    "tool_result_reference": "backgrounds/east_port_airship_terminal__day__bg.png",
+    "project_file": "backgrounds/east_port_airship_terminal__day__bg.png",
+    "generation_output_reference": "/workspace/scratch/329cd0d9ea3a/generated_images/exec-4edcb7d2-d060-4bef-980b-bc41a08d8817.png",
+    "reference_files": [
+      "backgrounds/shiomi_station_hall__day__bg.png"
+    ]
+  },
+  {
+    "id": "east_port_airship_terminal__day__cg",
+    "prompt": "Use case: stylized-concept\nAsset type: Shiomi visual novel standalone scene CG / east_port_airship_terminal__day__cg\nWorld and location facts: 景和七年，和国关东东南海湾汐见市，成熟工业都市。蒸汽为发电供热工业动力，电力用于普通照明交通与机电通信，民用设备完整外壳，非泛蒸汽朋克。公众候乘大厅、售票确认、行李称重、机械时刻牌、广播和大窗；大窗外受控系留塔、机库及长椭圆刚性空艇，封闭外壳和尾翼、包覆动力舱与螺旋桨。\nEstablished scene facts: 春季；晴朗春日下午，风况正常。首批场景型CG，不加入任何有名角色或虚构剧情。\nPrimary request: 只生成一张完整独立横向16:9、不透明原图，尽可能接近1920×1080原生像素，无拼图。全新完整构图，单独观看即可理解地点；不是参考BG的复制、简单裁切或移动元素。\nStyle/medium: 统一日式视觉小说细致环境绘制；以第一张站厅BG为绘制风格参照，可信建筑透视、克制细线、适度绘画笔触、真实维护痕迹、柔和空气透视。保留本地点木色、米白、蓝灰、绿与红砖真实材料色；不套整图青色或棕色滤镜。\nComposition/framing: 从公众大厅的座椅旁斜望大窗，前景座椅与一两件普通行李，中景玻璃和检票安全边界，后景完整大型刚性空艇在系留塔旁；比例可信、空艇不可紧贴玻璃；少量旅客只在大厅内，无人在绞盘危险区。 清楚的前中后景与主体；可有少量中远景普通市民，无人物特写。参考图只用于建筑设施材料与绘制风格一致，新设计镜头位置与主次。\nLighting/mood: 晴朗春日下午，左侧或左前方自然日光约5200K，室内辅以实用电灯；阴影有方向，光源与窗户位置对应。\nMaterials/textures: 公众候乘厅钢骨大窗、木金属座椅，售票确认窗口、行李秤、机械时刻牌、公共电话、广播；玻璃外远处安全场地内系留塔、机库、封闭流线长椭圆刚性空艇，尾翼、封闭下客舱与包覆螺旋桨动力舱。\nConstraints: 保持地点用途、层数、公共/工作边界及设施一致。背景图不带固定角色；独立CG保持地点、设备一致却使用新的完整视角。Image 1 is this same location BG, spatial/material reference only; generate a new scene CG.\nAvoid: 装饰齿轮、全城黄铜、持续喷汽、维多利亚服饰、全息触屏、巨型科幻屏幕、近景人物、对话框、选项、UI、标题、水印、多格；不改卡。",
+    "tool": "image_gen__imagegen",
+    "reference_asset_ids": [
+      "east_port_airship_terminal__day__bg"
+    ],
+    "status": "accepted",
+    "corrections": [
+      {
+        "reason": "Tail shows exposed docking-like mechanical hub; require nose mooring and clean closed tail.",
+        "prompt": "定向修正这张东港空艇埠独立CG，仅修正窗外主空艇的系留连接与尾部结构；保留公众厅、长椅行李、人物、窗、售票柜台、视角、机库、日光、画风。参考当前主艇艇首在左，艇尾在右。大型刚性空艇应通过艇首/nose与系留塔连接，不能尾部与塔对接。删除画面右侧尾部所有黄铜环、齿轮、裸露支架及对接装置；尾部画平整封闭的银灰外壳和可信垂直/水平尾翼，自由远离右侧塔。右侧塔可以留为未使用的独立远景塔，与尾部无接触、无线缆。主艇左侧艇首连接一座独立系留塔，该塔位于窗外远景安全场地、在船首下方，距离大厅足够远。动力为包覆外壳的独立吊舱和螺旋桨，客舱为下部封闭长舱，不露装饰齿轮，不是木船。公众旅客全部在室内，作业场地保持安全边界。完整横向16:9原图尽可能近1920×1080，一张，不透明，无UI标题水印。"
+      }
+    ],
+    "tool_result_reference": "standalone/east_port_airship_terminal__day__cg.png",
+    "project_file": "standalone/east_port_airship_terminal__day__cg.png",
+    "generation_output_reference": "/workspace/scratch/329cd0d9ea3a/generated_images/exec-cc359f02-64ef-499f-9ba6-f67e66bdb196.png",
+    "reference_files": [
+      "backgrounds/east_port_airship_terminal__day__bg.png"
+    ]
+  }
+]
