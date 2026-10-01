@@ -1,30 +1,9 @@
-# 汐见远程资源仓库 v0.2
+# 汐见五位女主角立绘 v2
 
-这一版采用单仓库、单地图资源结构。
+30张新制透明RGBA PNG，5位人物各6张，三套服装与两种动作/表情。实际尺寸均为1024×1536。
 
-## 目录
+正脸、正常成人比例，用户参考的二次元五官与细腻皮肤、发丝及布料。御影白羽r13按IMG_0334/0330重做并沿用自然站姿，所有款式无麦克风和线缆。
 
-- `manifest.json`：统一资源索引
-- `assets/map/shiomi-city.webp`：唯一城市地图底图
-- `assets/cg/regions/`：地区 CG
-- `assets/cg/characters/`：角色 CG
-- `dist/asset-manager/index.js`：资源管理器
-- `dist/map/index.js`：地图前端
+manifest.json提供别名、服装、表情、真实尺寸、脚部锚点及contain显示参数；prompts.json记录逐图实际提示词与生成结果。PNG均为真正生成原图，未做哈希测试、未内嵌角色卡。旧资源不覆盖。
 
-## 设计原则
-
-地图只保留一张正式底图，不再区分 preview / standard / hd。
-CG 按需加载，不在聊天启动时全量预载。
-后续新增 CG 只更新 `manifest.json` 与对应图片文件，不需要修改角色卡世界书。
-
-## 预期仓库
-
-建议创建公开仓库：`dongyue233/shiomi`
-
-创建并上传后可使用 jsDelivr：
-
-- manifest: `https://cdn.jsdelivr.net/gh/dongyue233/shiomi@v0.2.0/manifest.json`
-- AssetManager: `https://cdn.jsdelivr.net/gh/dongyue233/shiomi@v0.2.0/dist/asset-manager/index.js`
-- Map: `https://cdn.jsdelivr.net/gh/dongyue233/shiomi@v0.2.0/dist/map/index.js`
-
-正式角色卡应固定版本 tag，不使用 `main` 或 `latest`。
+阅读器应只在本段明确说话/在场时显示立绘，独立场景CG保持contain且隐藏另外立绘。安装索引本身不会让其他版本阅读器自动支持。
