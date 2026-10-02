@@ -1,0 +1,999 @@
+{
+  "schema_version": 1,
+  "batch_id": "shiomi-heroines-summer-v1",
+  "asset_count": 30,
+  "season": "summer",
+  "art_direction": "统一精致动画赛璐璐风格；全身透明立绘；夏季外出服；六种表情与自然肢体动作。",
+  "approval": "用户要求将本批夏季立绘上传至仓库。",
+  "characters": [
+    {
+      "id": "mio",
+      "name": "水城澪",
+      "aliases": [
+        "水城澪",
+        "澪"
+      ],
+      "default_asset": "mio__summer_calm",
+      "variants": [
+        "mio__summer_happy",
+        "mio__summer_calm",
+        "mio__summer_surprised",
+        "mio__summer_shy",
+        "mio__summer_sad",
+        "mio__summer_angry"
+      ]
+    },
+    {
+      "id": "ayano",
+      "name": "藤崎绫乃",
+      "aliases": [
+        "藤崎绫乃",
+        "绫乃"
+      ],
+      "default_asset": "ayano__summer_calm",
+      "variants": [
+        "ayano__summer_happy",
+        "ayano__summer_calm",
+        "ayano__summer_surprised",
+        "ayano__summer_shy",
+        "ayano__summer_sad",
+        "ayano__summer_angry"
+      ]
+    },
+    {
+      "id": "chizuru",
+      "name": "望月千鹤",
+      "aliases": [
+        "望月千鹤",
+        "千鹤"
+      ],
+      "default_asset": "chizuru__summer_calm",
+      "variants": [
+        "chizuru__summer_happy",
+        "chizuru__summer_calm",
+        "chizuru__summer_surprised",
+        "chizuru__summer_shy",
+        "chizuru__summer_sad",
+        "chizuru__summer_angry"
+      ]
+    },
+    {
+      "id": "miyu",
+      "name": "星野美羽",
+      "aliases": [
+        "星野美羽",
+        "美羽"
+      ],
+      "default_asset": "miyu__summer_calm",
+      "variants": [
+        "miyu__summer_happy",
+        "miyu__summer_calm",
+        "miyu__summer_surprised",
+        "miyu__summer_shy",
+        "miyu__summer_sad",
+        "miyu__summer_angry"
+      ]
+    },
+    {
+      "id": "shiraha",
+      "name": "御影白羽",
+      "aliases": [
+        "御影白羽",
+        "白羽"
+      ],
+      "default_asset": "shiraha__summer_calm",
+      "variants": [
+        "shiraha__summer_happy",
+        "shiraha__summer_calm",
+        "shiraha__summer_surprised",
+        "shiraha__summer_shy",
+        "shiraha__summer_sad",
+        "shiraha__summer_angry"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "shiraha__summer_happy",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "夏季外出服·开心",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "happy",
+      "relative_file": "shiraha/summer_happy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "御影白羽",
+        "白羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9869791666666666
+      },
+      "size_bytes": 1401456,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "shiraha__summer_calm",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "夏季外出服·平静",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "calm",
+      "relative_file": "shiraha/summer_calm.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "御影白羽",
+        "白羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9869791666666666
+      },
+      "size_bytes": 1360857,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "shiraha__summer_surprised",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "夏季外出服·惊讶",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "surprised",
+      "relative_file": "shiraha/summer_surprised.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "御影白羽",
+        "白羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.98046875
+      },
+      "size_bytes": 1376134,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "shiraha__summer_shy",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "夏季外出服·害羞",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "shy",
+      "relative_file": "shiraha/summer_shy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "御影白羽",
+        "白羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9869791666666666
+      },
+      "size_bytes": 1369264,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "shiraha__summer_sad",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "夏季外出服·伤心",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "sad",
+      "relative_file": "shiraha/summer_sad.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "御影白羽",
+        "白羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9869791666666666
+      },
+      "size_bytes": 1373907,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "shiraha__summer_angry",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "夏季外出服·生气",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "angry",
+      "relative_file": "shiraha/summer_angry.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "御影白羽",
+        "白羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9876302083333334
+      },
+      "size_bytes": 1377047,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "miyu__summer_happy",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "夏季外出服·开心",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "happy",
+      "relative_file": "miyu/summer_happy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "星野美羽",
+        "美羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.98828125
+      },
+      "size_bytes": 1462082,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "miyu__summer_calm",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "夏季外出服·平静",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "calm",
+      "relative_file": "miyu/summer_calm.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "星野美羽",
+        "美羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9947916666666666
+      },
+      "size_bytes": 1445869,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "miyu__summer_surprised",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "夏季外出服·惊讶",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "surprised",
+      "relative_file": "miyu/summer_surprised.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "星野美羽",
+        "美羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9928385416666666
+      },
+      "size_bytes": 1449849,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "miyu__summer_shy",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "夏季外出服·害羞",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "shy",
+      "relative_file": "miyu/summer_shy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "星野美羽",
+        "美羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.990234375
+      },
+      "size_bytes": 1441477,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "miyu__summer_sad",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "夏季外出服·伤心",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "sad",
+      "relative_file": "miyu/summer_sad.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "星野美羽",
+        "美羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.994140625
+      },
+      "size_bytes": 1439784,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "miyu__summer_angry",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "夏季外出服·生气",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "angry",
+      "relative_file": "miyu/summer_angry.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "星野美羽",
+        "美羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9895833333333334
+      },
+      "size_bytes": 1450888,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "chizuru__summer_happy",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "夏季外出服·开心",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "happy",
+      "relative_file": "chizuru/summer_happy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "望月千鹤",
+        "千鹤"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.994140625
+      },
+      "size_bytes": 1629006,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "chizuru__summer_calm",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "夏季外出服·平静",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "calm",
+      "relative_file": "chizuru/summer_calm.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "望月千鹤",
+        "千鹤"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.994140625
+      },
+      "size_bytes": 1637904,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "chizuru__summer_surprised",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "夏季外出服·惊讶",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "surprised",
+      "relative_file": "chizuru/summer_surprised.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "望月千鹤",
+        "千鹤"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.994140625
+      },
+      "size_bytes": 1609342,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "chizuru__summer_shy",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "夏季外出服·害羞",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "shy",
+      "relative_file": "chizuru/summer_shy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "望月千鹤",
+        "千鹤"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.994140625
+      },
+      "size_bytes": 1622237,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "chizuru__summer_sad",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "夏季外出服·伤心",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "sad",
+      "relative_file": "chizuru/summer_sad.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "望月千鹤",
+        "千鹤"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9947916666666666
+      },
+      "size_bytes": 1629564,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "chizuru__summer_angry",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "夏季外出服·生气",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "angry",
+      "relative_file": "chizuru/summer_angry.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "望月千鹤",
+        "千鹤"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9947916666666666
+      },
+      "size_bytes": 1621711,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "mio__summer_happy",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "夏季外出服·开心",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "happy",
+      "relative_file": "mio/summer_happy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "水城澪",
+        "澪"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9895833333333334
+      },
+      "size_bytes": 1319332,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "mio__summer_calm",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "夏季外出服·平静",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "calm",
+      "relative_file": "mio/summer_calm.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "水城澪",
+        "澪"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9889322916666666
+      },
+      "size_bytes": 1344774,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "mio__summer_surprised",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "夏季外出服·惊讶",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "surprised",
+      "relative_file": "mio/summer_surprised.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "水城澪",
+        "澪"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9895833333333334
+      },
+      "size_bytes": 1318279,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "mio__summer_shy",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "夏季外出服·害羞",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "shy",
+      "relative_file": "mio/summer_shy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "水城澪",
+        "澪"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9895833333333334
+      },
+      "size_bytes": 1284602,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "mio__summer_sad",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "夏季外出服·伤心",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "sad",
+      "relative_file": "mio/summer_sad.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "水城澪",
+        "澪"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9889322916666666
+      },
+      "size_bytes": 1292586,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "mio__summer_angry",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "夏季外出服·生气",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "angry",
+      "relative_file": "mio/summer_angry.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "水城澪",
+        "澪"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9895833333333334
+      },
+      "size_bytes": 1325067,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "ayano__summer_happy",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "夏季外出服·开心",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "happy",
+      "relative_file": "ayano/summer_happy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "藤崎绫乃",
+        "绫乃"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9680989583333334
+      },
+      "size_bytes": 1279120,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "ayano__summer_calm",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "夏季外出服·平静",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "calm",
+      "relative_file": "ayano/summer_calm.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "藤崎绫乃",
+        "绫乃"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9674479166666666
+      },
+      "size_bytes": 1251763,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "ayano__summer_surprised",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "夏季外出服·惊讶",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "surprised",
+      "relative_file": "ayano/summer_surprised.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "藤崎绫乃",
+        "绫乃"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9661458333333334
+      },
+      "size_bytes": 1281369,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "ayano__summer_shy",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "夏季外出服·害羞",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "shy",
+      "relative_file": "ayano/summer_shy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "藤崎绫乃",
+        "绫乃"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.966796875
+      },
+      "size_bytes": 1262097,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "ayano__summer_sad",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "夏季外出服·伤心",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "sad",
+      "relative_file": "ayano/summer_sad.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "藤崎绫乃",
+        "绫乃"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.966796875
+      },
+      "size_bytes": 1263386,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "ayano__summer_angry",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "夏季外出服·生气",
+      "outfit": "summer",
+      "season": "summer",
+      "expression": "angry",
+      "relative_file": "ayano/summer_angry.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "summer-v1",
+      "aliases": [
+        "藤崎绫乃",
+        "绫乃"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.966796875
+      },
+      "size_bytes": 1265825,
+      "approval": "publication_requested"
+    }
+  ],
+  "downloads": [
+    {
+      "character_id": "mio",
+      "name": "水城澪",
+      "relative_file": "downloads/shiomi-summer-mio-6.zip",
+      "size_bytes": 7912597
+    },
+    {
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "relative_file": "downloads/shiomi-summer-ayano-6.zip",
+      "size_bytes": 7616713
+    },
+    {
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "relative_file": "downloads/shiomi-summer-chizuru-6.zip",
+      "size_bytes": 9815807
+    },
+    {
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "relative_file": "downloads/shiomi-summer-miyu-6.zip",
+      "size_bytes": 8725649
+    },
+    {
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "relative_file": "downloads/shiomi-summer-shiraha-6.zip",
+      "size_bytes": 8282822
+    }
+  ]
+}
