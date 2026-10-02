@@ -1,30 +1,13 @@
-# 汐见远程资源仓库 v0.2
+# 汐见（Shiomi）
 
-这一版采用单仓库、单地图资源结构。
+最新角色卡：**v1.33.58**；阅读器：**v0.10.5**。
 
-## 目录
+- [角色卡 PNG（可直接导入）](character-cards/latest.png)
+- [角色卡 JSON](character-cards/latest.json)
+- [春季通过版立绘 ZIP：5位×6表情，共30张](assets/sprites/heroines-spring-v3/shiomi-spring-approved-30.zip)
+- [春季立绘索引](assets/sprites/heroines-spring-v3/manifest.json)
+- [发布说明](docs/handoff/shiomi-spring-publication-2026-10-02.md)
 
-- `manifest.json`：统一资源索引
-- `assets/map/shiomi-city.webp`：唯一城市地图底图
-- `assets/cg/regions/`：地区 CG
-- `assets/cg/characters/`：角色 CG
-- `dist/asset-manager/index.js`：资源管理器
-- `dist/map/index.js`：地图前端
+这套春季透明立绘采用统一动画赛璐璐风格。默认使用平静，每人可以选择开心、平静、惊讶、害羞、伤心、生气。旧款式选择兼容到新的表情。
 
-## 设计原则
-
-地图只保留一张正式底图，不再区分 preview / standard / hd。
-CG 按需加载，不在聊天启动时全量预载。
-后续新增 CG 只更新 `manifest.json` 与对应图片文件，不需要修改角色卡世界书。
-
-## 预期仓库
-
-建议创建公开仓库：`dongyue233/shiomi`
-
-创建并上传后可使用 jsDelivr：
-
-- manifest: `https://cdn.jsdelivr.net/gh/dongyue233/shiomi@v0.2.0/manifest.json`
-- AssetManager: `https://cdn.jsdelivr.net/gh/dongyue233/shiomi@v0.2.0/dist/asset-manager/index.js`
-- Map: `https://cdn.jsdelivr.net/gh/dongyue233/shiomi@v0.2.0/dist/map/index.js`
-
-正式角色卡应固定版本 tag，不使用 `main` 或 `latest`。
+原有场景、CG、地图与历史版本继续保留。

@@ -1,6 +1,6 @@
 {
   "schema": "shiomi_assets_v1",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "baseUrl": "./",
   "assets": {
     "map.city.base": {
@@ -254,6 +254,276 @@
       "sha256": "7bb378a27161c2fd36d441f4898ef53ca500bee21dc8e4abb32ed14f6cb36811",
       "loading": "on-demand",
       "cache": "immutable"
+    },
+    "sprite.shiraha__spring_happy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/shiraha/spring_happy.png",
+      "mime": "image/png",
+      "bytes": 1328156,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.shiraha__spring_calm": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/shiraha/spring_calm.png",
+      "mime": "image/png",
+      "bytes": 1294293,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.shiraha__spring_surprised": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/shiraha/spring_surprised.png",
+      "mime": "image/png",
+      "bytes": 1318568,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.shiraha__spring_shy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/shiraha/spring_shy.png",
+      "mime": "image/png",
+      "bytes": 1307824,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.shiraha__spring_sad": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/shiraha/spring_sad.png",
+      "mime": "image/png",
+      "bytes": 1306504,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.shiraha__spring_angry": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/shiraha/spring_angry.png",
+      "mime": "image/png",
+      "bytes": 1300151,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.miyu__spring_happy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/miyu/spring_happy.png",
+      "mime": "image/png",
+      "bytes": 1519133,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.miyu__spring_calm": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/miyu/spring_calm.png",
+      "mime": "image/png",
+      "bytes": 1479097,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.miyu__spring_surprised": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/miyu/spring_surprised.png",
+      "mime": "image/png",
+      "bytes": 1496576,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.miyu__spring_shy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/miyu/spring_shy.png",
+      "mime": "image/png",
+      "bytes": 1468912,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.miyu__spring_sad": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/miyu/spring_sad.png",
+      "mime": "image/png",
+      "bytes": 1485307,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.miyu__spring_angry": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/miyu/spring_angry.png",
+      "mime": "image/png",
+      "bytes": 1497042,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.chizuru__spring_happy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/chizuru/spring_happy.png",
+      "mime": "image/png",
+      "bytes": 1524834,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.chizuru__spring_calm": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/chizuru/spring_calm.png",
+      "mime": "image/png",
+      "bytes": 1521483,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.chizuru__spring_surprised": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/chizuru/spring_surprised.png",
+      "mime": "image/png",
+      "bytes": 1527961,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.chizuru__spring_shy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/chizuru/spring_shy.png",
+      "mime": "image/png",
+      "bytes": 1520504,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.chizuru__spring_sad": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/chizuru/spring_sad.png",
+      "mime": "image/png",
+      "bytes": 1524680,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.chizuru__spring_angry": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/chizuru/spring_angry.png",
+      "mime": "image/png",
+      "bytes": 1530328,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.mio__spring_happy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/mio/spring_happy.png",
+      "mime": "image/png",
+      "bytes": 1333948,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.mio__spring_calm": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/mio/spring_calm.png",
+      "mime": "image/png",
+      "bytes": 1318563,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.mio__spring_surprised": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/mio/spring_surprised.png",
+      "mime": "image/png",
+      "bytes": 1327522,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.mio__spring_shy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/mio/spring_shy.png",
+      "mime": "image/png",
+      "bytes": 1301720,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.mio__spring_sad": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/mio/spring_sad.png",
+      "mime": "image/png",
+      "bytes": 1296279,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.mio__spring_angry": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/mio/spring_angry.png",
+      "mime": "image/png",
+      "bytes": 1337153,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.ayano__spring_happy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/ayano/spring_happy.png",
+      "mime": "image/png",
+      "bytes": 1286555,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.ayano__spring_calm": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/ayano/spring_calm.png",
+      "mime": "image/png",
+      "bytes": 1278420,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.ayano__spring_surprised": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/ayano/spring_surprised.png",
+      "mime": "image/png",
+      "bytes": 1295414,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.ayano__spring_shy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/ayano/spring_shy.png",
+      "mime": "image/png",
+      "bytes": 1261206,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.ayano__spring_sad": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/ayano/spring_sad.png",
+      "mime": "image/png",
+      "bytes": 1281248,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.ayano__spring_angry": {
+      "type": "image",
+      "src": "assets/sprites/heroines-spring-v3/ayano/spring_angry.png",
+      "mime": "image/png",
+      "bytes": 1283907,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
     }
   },
   "collections": {
@@ -519,6 +789,104 @@
         ]
       }
     },
-    "characters": {}
+    "characters": {},
+    "sprites": {
+      "season": "spring",
+      "manifest": "assets/sprites/heroines-spring-v3/manifest.json",
+      "asset_commit": "0b8aab77629c56c5bcff2ea140cf128c5ee3e81b",
+      "characters": [
+        {
+          "id": "mio",
+          "name": "水城澪",
+          "aliases": [
+            "水城澪",
+            "澪"
+          ],
+          "default_asset": "mio__spring_calm",
+          "variants": [
+            "mio__spring_happy",
+            "mio__spring_calm",
+            "mio__spring_surprised",
+            "mio__spring_shy",
+            "mio__spring_sad",
+            "mio__spring_angry"
+          ]
+        },
+        {
+          "id": "ayano",
+          "name": "藤崎绫乃",
+          "aliases": [
+            "藤崎绫乃",
+            "绫乃"
+          ],
+          "default_asset": "ayano__spring_calm",
+          "variants": [
+            "ayano__spring_happy",
+            "ayano__spring_calm",
+            "ayano__spring_surprised",
+            "ayano__spring_shy",
+            "ayano__spring_sad",
+            "ayano__spring_angry"
+          ]
+        },
+        {
+          "id": "chizuru",
+          "name": "望月千鹤",
+          "aliases": [
+            "望月千鹤",
+            "千鹤"
+          ],
+          "default_asset": "chizuru__spring_calm",
+          "variants": [
+            "chizuru__spring_happy",
+            "chizuru__spring_calm",
+            "chizuru__spring_surprised",
+            "chizuru__spring_shy",
+            "chizuru__spring_sad",
+            "chizuru__spring_angry"
+          ]
+        },
+        {
+          "id": "miyu",
+          "name": "星野美羽",
+          "aliases": [
+            "星野美羽",
+            "美羽"
+          ],
+          "default_asset": "miyu__spring_calm",
+          "variants": [
+            "miyu__spring_happy",
+            "miyu__spring_calm",
+            "miyu__spring_surprised",
+            "miyu__spring_shy",
+            "miyu__spring_sad",
+            "miyu__spring_angry"
+          ]
+        },
+        {
+          "id": "shiraha",
+          "name": "御影白羽",
+          "aliases": [
+            "御影白羽",
+            "白羽"
+          ],
+          "default_asset": "shiraha__spring_calm",
+          "variants": [
+            "shiraha__spring_happy",
+            "shiraha__spring_calm",
+            "shiraha__spring_surprised",
+            "shiraha__spring_shy",
+            "shiraha__spring_sad",
+            "shiraha__spring_angry"
+          ]
+        }
+      ]
+    }
+  },
+  "latest_character_card": {
+    "version": "1.33.58",
+    "json": "character-cards/latest.json",
+    "png": "character-cards/latest.png",
+    "reader_version": "0.10.5"
   }
 }
