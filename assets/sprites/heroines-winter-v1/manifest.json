@@ -1,0 +1,994 @@
+{
+  "schema_version": 1,
+  "batch_id": "shiomi-heroines-winter-v1",
+  "asset_count": 30,
+  "season": "winter",
+  "art_direction": "统一精致动画赛璐璐风格；全身透明立绘；冬季外出服；六种表情与自然肢体动作。",
+  "approval": "用户要求将本批定稿立绘打包上传至仓库。",
+  "characters": [
+    {
+      "id": "mio",
+      "name": "水城澪",
+      "aliases": [
+        "水城澪",
+        "澪"
+      ],
+      "default_asset": "mio__winter_calm",
+      "variants": [
+        "mio__winter_happy",
+        "mio__winter_calm",
+        "mio__winter_surprised",
+        "mio__winter_shy",
+        "mio__winter_sad",
+        "mio__winter_angry"
+      ]
+    },
+    {
+      "id": "ayano",
+      "name": "藤崎绫乃",
+      "aliases": [
+        "藤崎绫乃",
+        "绫乃"
+      ],
+      "default_asset": "ayano__winter_calm",
+      "variants": [
+        "ayano__winter_happy",
+        "ayano__winter_calm",
+        "ayano__winter_surprised",
+        "ayano__winter_shy",
+        "ayano__winter_sad",
+        "ayano__winter_angry"
+      ]
+    },
+    {
+      "id": "chizuru",
+      "name": "望月千鹤",
+      "aliases": [
+        "望月千鹤",
+        "千鹤"
+      ],
+      "default_asset": "chizuru__winter_calm",
+      "variants": [
+        "chizuru__winter_happy",
+        "chizuru__winter_calm",
+        "chizuru__winter_surprised",
+        "chizuru__winter_shy",
+        "chizuru__winter_sad",
+        "chizuru__winter_angry"
+      ]
+    },
+    {
+      "id": "miyu",
+      "name": "星野美羽",
+      "aliases": [
+        "星野美羽",
+        "美羽"
+      ],
+      "default_asset": "miyu__winter_calm",
+      "variants": [
+        "miyu__winter_happy",
+        "miyu__winter_calm",
+        "miyu__winter_surprised",
+        "miyu__winter_shy",
+        "miyu__winter_sad",
+        "miyu__winter_angry"
+      ]
+    },
+    {
+      "id": "shiraha",
+      "name": "御影白羽",
+      "aliases": [
+        "御影白羽",
+        "白羽"
+      ],
+      "default_asset": "shiraha__winter_calm",
+      "variants": [
+        "shiraha__winter_happy",
+        "shiraha__winter_calm",
+        "shiraha__winter_surprised",
+        "shiraha__winter_shy",
+        "shiraha__winter_sad",
+        "shiraha__winter_angry"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "shiraha__winter_happy",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "冬季外出服·开心",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "happy",
+      "relative_file": "shiraha/winter_happy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "御影白羽",
+        "白羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9908854166666666
+      },
+      "size_bytes": 1382388,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "shiraha__winter_calm",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "冬季外出服·平静",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "calm",
+      "relative_file": "shiraha/winter_calm.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "御影白羽",
+        "白羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.990234375
+      },
+      "size_bytes": 1345042,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "shiraha__winter_surprised",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "冬季外出服·惊讶",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "surprised",
+      "relative_file": "shiraha/winter_surprised.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "御影白羽",
+        "白羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9895833333333334
+      },
+      "size_bytes": 1370049,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "shiraha__winter_shy",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "冬季外出服·害羞",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "shy",
+      "relative_file": "shiraha/winter_shy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "御影白羽",
+        "白羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9915364583333334
+      },
+      "size_bytes": 1361604,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "shiraha__winter_sad",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "冬季外出服·伤心",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "sad",
+      "relative_file": "shiraha/winter_sad.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "御影白羽",
+        "白羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9915364583333334
+      },
+      "size_bytes": 1360139,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "shiraha__winter_angry",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "冬季外出服·生气",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "angry",
+      "relative_file": "shiraha/winter_angry.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "御影白羽",
+        "白羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9908854166666666
+      },
+      "size_bytes": 1349709,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "miyu__winter_happy",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "冬季外出服·开心",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "happy",
+      "relative_file": "miyu/winter_happy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "星野美羽",
+        "美羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9934895833333334
+      },
+      "size_bytes": 1581028,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "miyu__winter_calm",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "冬季外出服·平静",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "calm",
+      "relative_file": "miyu/winter_calm.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "星野美羽",
+        "美羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9921875
+      },
+      "size_bytes": 1508795,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "miyu__winter_surprised",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "冬季外出服·惊讶",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "surprised",
+      "relative_file": "miyu/winter_surprised.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "星野美羽",
+        "美羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9947916666666666
+      },
+      "size_bytes": 1565521,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "miyu__winter_shy",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "冬季外出服·害羞",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "shy",
+      "relative_file": "miyu/winter_shy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "星野美羽",
+        "美羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9928385416666666
+      },
+      "size_bytes": 1525954,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "miyu__winter_sad",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "冬季外出服·伤心",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "sad",
+      "relative_file": "miyu/winter_sad.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "星野美羽",
+        "美羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9928385416666666
+      },
+      "size_bytes": 1534170,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "miyu__winter_angry",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "冬季外出服·生气",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "angry",
+      "relative_file": "miyu/winter_angry.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "星野美羽",
+        "美羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9928385416666666
+      },
+      "size_bytes": 1542825,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "chizuru__winter_happy",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "冬季外出服·开心",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "happy",
+      "relative_file": "chizuru/winter_happy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "望月千鹤",
+        "千鹤"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9934895833333334
+      },
+      "size_bytes": 1566622,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "chizuru__winter_calm",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "冬季外出服·平静",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "calm",
+      "relative_file": "chizuru/winter_calm.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "望月千鹤",
+        "千鹤"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9915364583333334
+      },
+      "size_bytes": 1606333,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "chizuru__winter_surprised",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "冬季外出服·惊讶",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "surprised",
+      "relative_file": "chizuru/winter_surprised.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "望月千鹤",
+        "千鹤"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9928385416666666
+      },
+      "size_bytes": 1574352,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "chizuru__winter_shy",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "冬季外出服·害羞",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "shy",
+      "relative_file": "chizuru/winter_shy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "望月千鹤",
+        "千鹤"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9928385416666666
+      },
+      "size_bytes": 1565659,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "chizuru__winter_sad",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "冬季外出服·伤心",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "sad",
+      "relative_file": "chizuru/winter_sad.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "望月千鹤",
+        "千鹤"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9921875
+      },
+      "size_bytes": 1563782,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "chizuru__winter_angry",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "冬季外出服·生气",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "angry",
+      "relative_file": "chizuru/winter_angry.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "望月千鹤",
+        "千鹤"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9915364583333334
+      },
+      "size_bytes": 1578975,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "mio__winter_happy",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "冬季外出服·开心",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "happy",
+      "relative_file": "mio/winter_happy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "水城澪",
+        "澪"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.990234375
+      },
+      "size_bytes": 1422208,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "mio__winter_calm",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "冬季外出服·平静",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "calm",
+      "relative_file": "mio/winter_calm.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "水城澪",
+        "澪"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9889322916666666
+      },
+      "size_bytes": 1400854,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "mio__winter_surprised",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "冬季外出服·惊讶",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "surprised",
+      "relative_file": "mio/winter_surprised.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "水城澪",
+        "澪"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.990234375
+      },
+      "size_bytes": 1407107,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "mio__winter_shy",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "冬季外出服·害羞",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "shy",
+      "relative_file": "mio/winter_shy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "水城澪",
+        "澪"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9889322916666666
+      },
+      "size_bytes": 1353116,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "mio__winter_sad",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "冬季外出服·伤心",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "sad",
+      "relative_file": "mio/winter_sad.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "水城澪",
+        "澪"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9908854166666666
+      },
+      "size_bytes": 1388731,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "mio__winter_angry",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "冬季外出服·生气",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "angry",
+      "relative_file": "mio/winter_angry.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "水城澪",
+        "澪"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9908854166666666
+      },
+      "size_bytes": 1401112,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "ayano__winter_happy",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "冬季外出服·开心",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "happy",
+      "relative_file": "ayano/winter_happy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "藤崎绫乃",
+        "绫乃"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9895833333333334
+      },
+      "size_bytes": 1247472,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "ayano__winter_calm",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "冬季外出服·平静",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "calm",
+      "relative_file": "ayano/winter_calm.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "藤崎绫乃",
+        "绫乃"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9895833333333334
+      },
+      "size_bytes": 1245157,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "ayano__winter_surprised",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "冬季外出服·惊讶",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "surprised",
+      "relative_file": "ayano/winter_surprised.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "藤崎绫乃",
+        "绫乃"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9908854166666666
+      },
+      "size_bytes": 1248873,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "ayano__winter_shy",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "冬季外出服·害羞",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "shy",
+      "relative_file": "ayano/winter_shy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "藤崎绫乃",
+        "绫乃"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9895833333333334
+      },
+      "size_bytes": 1210187,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "ayano__winter_sad",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "冬季外出服·伤心",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "sad",
+      "relative_file": "ayano/winter_sad.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "藤崎绫乃",
+        "绫乃"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9895833333333334
+      },
+      "size_bytes": 1210443,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "ayano__winter_angry",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "冬季外出服·生气",
+      "outfit": "winter",
+      "season": "winter",
+      "expression": "angry",
+      "relative_file": "ayano/winter_angry.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "winter-v1",
+      "aliases": [
+        "藤崎绫乃",
+        "绫乃"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9921875
+      },
+      "size_bytes": 1221230,
+      "approval": "publication_requested"
+    }
+  ],
+  "downloads": [
+    {
+      "character_id": "shiraha",
+      "relative_file": "downloads/shiomi-winter-shiraha-6.zip",
+      "size_bytes": 8194790
+    },
+    {
+      "character_id": "miyu",
+      "relative_file": "downloads/shiomi-winter-miyu-6.zip",
+      "size_bytes": 9309264
+    },
+    {
+      "character_id": "chizuru",
+      "relative_file": "downloads/shiomi-winter-chizuru-6.zip",
+      "size_bytes": 9534717
+    },
+    {
+      "character_id": "mio",
+      "relative_file": "downloads/shiomi-winter-mio-6.zip",
+      "size_bytes": 8421002
+    },
+    {
+      "character_id": "ayano",
+      "relative_file": "downloads/shiomi-winter-ayano-6.zip",
+      "size_bytes": 7402838
+    }
+  ]
+}

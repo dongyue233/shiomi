@@ -1,0 +1,330 @@
+[
+  {
+    "character": "shiraha",
+    "name": "白羽",
+    "emotion": "happy",
+    "prompt": "Use case: identity-preserve. 汐见视觉小说秋季角色透明全身立绘，白羽，开心表情。输入图1是已经通过的春季开心版本，严格提供人物身份、脸型五官、发型发色、瞳色、表情和手部小动作；输入图2是秋季平静母版，严格提供这一季的衣服、配色、饰品、袜子和鞋子。将图1的衣服换成图2完全一致的秋季服装：浅炭灰色短款轻羊毛无领外套，金色小纽扣，内搭象牙白细针织半高领长袖上衣，烟玫瑰色高腰A字中长裙至小腿，薄而均匀的深灰半透明连裤袜，灰褐色精致低跟踝靴。保留原有水滴耳坠与项链。。脸部精确保留图1开心时的眼型、眉形、嘴型、脸颊与五官分布，保持图1同一人物身份和年龄体型。保持图2衣服的剪裁、层次、纽扣、面料细节和鞋款。整体保持两张参考共同的精致动画赛璐璐风格、细而流畅的线稿、干净分层色块和清晰硬边阴影，头发衣褶饰品袜鞋细节精致。正面全身自然站立，头部竖直正脸，身体不侧转不扭胯，双腿自然对齐，避免X腿与罗圈腿；沿用图1的小幅手势，手不遮脸；禁止拿包或物品。竖向1024x1536，完整头发、双手和鞋底，全身不裁切，四周少量透明边距，人物占画面比例与参考一致。只画这一位角色，没有文字、水印、场景、背景光晕或脚下投影。背景必须是真正的透明alpha。",
+    "transparent_background": true,
+    "reference_assets": [
+      "spring/shiraha/spring_happy.png",
+      "shiraha/autumn_calm.png"
+    ]
+  },
+  {
+    "character": "shiraha",
+    "name": "白羽",
+    "emotion": "calm",
+    "outfit": "浅炭灰色短款轻羊毛无领外套，金色小纽扣，内搭象牙白细针织半高领长袖上衣，烟玫瑰色高腰A字中长裙至小腿，薄而均匀的深灰半透明连裤袜，灰褐色精致低跟踝靴。保留原有水滴耳坠与项链。",
+    "prompt": "Use case: identity-preserve. Asset type: 汐见视觉小说秋季角色透明全身立绘。输入图片是用户已经通过的白羽春季平静立绘，作为人物形象、画风和构图的唯一基准。绘制一张白羽秋季平静母版，只更换为秋季外出服：浅炭灰色短款轻羊毛无领外套，金色小纽扣，内搭象牙白细针织半高领长袖上衣，烟玫瑰色高腰A字中长裙至小腿，薄而均匀的深灰半透明连裤袜，灰褐色精致低跟踝靴。保留原有水滴耳坠与项链。 精确保留原图的脸型、眼型、眉眼间距、五官分布、瞳色、发色、发型、成熟度、体型比例、平静表情和手势，禁止因为换装而改变脸。白羽与绫乃都是直发，绫乃粉色眼睛，澪保留原图长单马尾和水蓝发色，千鹤保留温婉端庄气质，美羽保留通过版五官。沿用已经通过的精致动画赛璐璐画风：细而流畅的线稿、清晰色块、干净分层硬边阴影，头发、衣褶、饰品、袜子和鞋子有精致插画细节，不能改成厚涂、素描或幼态简笔风格。衣服轻薄层叠自然，厚度符合秋季，不臃肿。正面站姿与参考相同，头部竖直、正脸，身体不侧转、不扭胯，腿部自然对齐，避免X形腿和罗圈腿；手势不遮脸。竖向1024x1536全身构图，头发、双手与鞋底完整入画，四周留少量透明边距，保持所有季节统一人物尺寸和脚部位置。只画一位角色，无包包、持物、文字、水印、场景、背景光晕、脚下投影。人物以外必须真正完全透明alpha。",
+    "transparent_background": true,
+    "path": "/workspace/scratch/ae527d8d0567/autumn/shiraha/autumn_calm.png",
+    "reference_assets": [
+      "spring/shiraha/spring_calm.png"
+    ]
+  },
+  {
+    "character": "shiraha",
+    "name": "白羽",
+    "emotion": "surprised",
+    "prompt": "Use case: identity-preserve. 汐见视觉小说秋季角色透明全身立绘，白羽，惊讶表情。输入图1是已经通过的春季惊讶版本，严格提供人物身份、脸型五官、发型发色、瞳色、表情和手部小动作；输入图2是秋季平静母版，严格提供这一季的衣服、配色、饰品、袜子和鞋子。将图1的衣服换成图2完全一致的秋季服装：浅炭灰色短款轻羊毛无领外套，金色小纽扣，内搭象牙白细针织半高领长袖上衣，烟玫瑰色高腰A字中长裙至小腿，薄而均匀的深灰半透明连裤袜，灰褐色精致低跟踝靴。保留原有水滴耳坠与项链。。脸部精确保留图1惊讶时的眼型、眉形、嘴型、脸颊与五官分布，保持图1同一人物身份和年龄体型。保持图2衣服的剪裁、层次、纽扣、面料细节和鞋款。整体保持两张参考共同的精致动画赛璐璐风格、细而流畅的线稿、干净分层色块和清晰硬边阴影，头发衣褶饰品袜鞋细节精致。正面全身自然站立，头部竖直正脸，身体不侧转不扭胯，双腿自然对齐，避免X腿与罗圈腿；沿用图1的小幅手势，手不遮脸；禁止拿包或物品。竖向1024x1536，完整头发、双手和鞋底，全身不裁切，四周少量透明边距，人物占画面比例与参考一致。只画这一位角色，没有文字、水印、场景、背景光晕或脚下投影。背景必须是真正的透明alpha。",
+    "transparent_background": true,
+    "reference_assets": [
+      "spring/shiraha/spring_surprised.png",
+      "shiraha/autumn_calm.png"
+    ]
+  },
+  {
+    "character": "shiraha",
+    "name": "白羽",
+    "emotion": "shy",
+    "prompt": "Use case: identity-preserve. 汐见视觉小说秋季角色透明全身立绘，白羽，害羞表情。输入图1是已经通过的春季害羞版本，严格提供人物身份、脸型五官、发型发色、瞳色、表情和手部小动作；输入图2是秋季平静母版，严格提供这一季的衣服、配色、饰品、袜子和鞋子。将图1的衣服换成图2完全一致的秋季服装：浅炭灰色短款轻羊毛无领外套，金色小纽扣，内搭象牙白细针织半高领长袖上衣，烟玫瑰色高腰A字中长裙至小腿，薄而均匀的深灰半透明连裤袜，灰褐色精致低跟踝靴。保留原有水滴耳坠与项链。。脸部精确保留图1害羞时的眼型、眉形、嘴型、脸颊与五官分布，保持图1同一人物身份和年龄体型。保持图2衣服的剪裁、层次、纽扣、面料细节和鞋款。整体保持两张参考共同的精致动画赛璐璐风格、细而流畅的线稿、干净分层色块和清晰硬边阴影，头发衣褶饰品袜鞋细节精致。正面全身自然站立，头部竖直正脸，身体不侧转不扭胯，双腿自然对齐，避免X腿与罗圈腿；沿用图1的小幅手势，手不遮脸；禁止拿包或物品。竖向1024x1536，完整头发、双手和鞋底，全身不裁切，四周少量透明边距，人物占画面比例与参考一致。只画这一位角色，没有文字、水印、场景、背景光晕或脚下投影。背景必须是真正的透明alpha。",
+    "transparent_background": true,
+    "reference_assets": [
+      "spring/shiraha/spring_shy.png",
+      "shiraha/autumn_calm.png"
+    ]
+  },
+  {
+    "character": "shiraha",
+    "name": "白羽",
+    "emotion": "sad",
+    "prompt": "Use case: identity-preserve. 汐见视觉小说秋季角色透明全身立绘，白羽，伤心表情。输入图1是已经通过的春季伤心版本，严格提供人物身份、脸型五官、发型发色、瞳色、表情和手部小动作；输入图2是秋季平静母版，严格提供这一季的衣服、配色、饰品、袜子和鞋子。将图1的衣服换成图2完全一致的秋季服装：浅炭灰色短款轻羊毛无领外套，金色小纽扣，内搭象牙白细针织半高领长袖上衣，烟玫瑰色高腰A字中长裙至小腿，薄而均匀的深灰半透明连裤袜，灰褐色精致低跟踝靴。保留原有水滴耳坠与项链。。脸部精确保留图1伤心时的眼型、眉形、嘴型、脸颊与五官分布，保持图1同一人物身份和年龄体型。保持图2衣服的剪裁、层次、纽扣、面料细节和鞋款。整体保持两张参考共同的精致动画赛璐璐风格、细而流畅的线稿、干净分层色块和清晰硬边阴影，头发衣褶饰品袜鞋细节精致。正面全身自然站立，头部竖直正脸，身体不侧转不扭胯，双腿自然对齐，避免X腿与罗圈腿；沿用图1的小幅手势，手不遮脸；禁止拿包或物品。竖向1024x1536，完整头发、双手和鞋底，全身不裁切，四周少量透明边距，人物占画面比例与参考一致。只画这一位角色，没有文字、水印、场景、背景光晕或脚下投影。背景必须是真正的透明alpha。",
+    "transparent_background": true,
+    "reference_assets": [
+      "spring/shiraha/spring_sad.png",
+      "shiraha/autumn_calm.png"
+    ]
+  },
+  {
+    "character": "shiraha",
+    "name": "白羽",
+    "emotion": "angry",
+    "prompt": "Use case: identity-preserve. 汐见视觉小说秋季角色透明全身立绘，白羽，生气表情。输入图1是已经通过的春季生气版本，严格提供人物身份、脸型五官、发型发色、瞳色、表情和手部小动作；输入图2是秋季平静母版，严格提供这一季的衣服、配色、饰品、袜子和鞋子。将图1的衣服换成图2完全一致的秋季服装：浅炭灰色短款轻羊毛无领外套，金色小纽扣，内搭象牙白细针织半高领长袖上衣，烟玫瑰色高腰A字中长裙至小腿，薄而均匀的深灰半透明连裤袜，灰褐色精致低跟踝靴。保留原有水滴耳坠与项链。。脸部精确保留图1生气时的眼型、眉形、嘴型、脸颊与五官分布，保持图1同一人物身份和年龄体型。保持图2衣服的剪裁、层次、纽扣、面料细节和鞋款。整体保持两张参考共同的精致动画赛璐璐风格、细而流畅的线稿、干净分层色块和清晰硬边阴影，头发衣褶饰品袜鞋细节精致。正面全身自然站立，头部竖直正脸，身体不侧转不扭胯，双腿自然对齐，避免X腿与罗圈腿；沿用图1的小幅手势，手不遮脸；禁止拿包或物品。竖向1024x1536，完整头发、双手和鞋底，全身不裁切，四周少量透明边距，人物占画面比例与参考一致。只画这一位角色，没有文字、水印、场景、背景光晕或脚下投影。背景必须是真正的透明alpha。",
+    "transparent_background": true,
+    "reference_assets": [
+      "spring/shiraha/spring_angry.png",
+      "shiraha/autumn_calm.png"
+    ]
+  },
+  {
+    "character": "miyu",
+    "name": "美羽",
+    "emotion": "happy",
+    "prompt": "Use case: identity-preserve. 汐见视觉小说秋季角色透明全身立绘，美羽，开心表情。输入图1是已经通过的春季开心版本，严格提供人物身份、脸型五官、发型发色、瞳色、表情和手部小动作；输入图2是秋季平静母版，严格提供这一季的衣服、配色、饰品、袜子和鞋子。将图1的衣服换成图2完全一致的秋季服装：驼棕色精致麂皮感短夹克，内搭奶油白细罗纹半高领长袖上衣，酒红、棕色和米白相间的细格纹高腰百褶短裙，均匀哑光黑色不透明连裤袜，深棕色细节精致的系带低跟踝靴。保留原有黑色细颈圈、耳饰和粉色指甲。。脸部精确保留图1开心时的眼型、眉形、嘴型、脸颊与五官分布，保持图1同一人物身份和年龄体型。保持图2衣服的剪裁、层次、纽扣、面料细节和鞋款。特别精确保留通过版美羽开心时的笑眼，粉色虹膜仍可见，自然弧形露齿笑容，不要改成闭眼或张大嘴。整体保持两张参考共同的精致动画赛璐璐风格、细而流畅的线稿、干净分层色块和清晰硬边阴影，头发衣褶饰品袜鞋细节精致。正面全身自然站立，头部竖直正脸，身体不侧转不扭胯，双腿自然对齐，避免X腿与罗圈腿；沿用图1的小幅手势，手不遮脸；禁止拿包或物品。竖向1024x1536，完整头发、双手和鞋底，全身不裁切，四周少量透明边距，人物占画面比例与参考一致。只画这一位角色，没有文字、水印、场景、背景光晕或脚下投影。背景必须是真正的透明alpha。",
+    "transparent_background": true,
+    "reference_assets": [
+      "spring/miyu/spring_happy.png",
+      "miyu/autumn_calm.png"
+    ]
+  },
+  {
+    "character": "miyu",
+    "name": "美羽",
+    "emotion": "calm",
+    "outfit": "驼棕色精致麂皮感短夹克，内搭奶油白细罗纹半高领长袖上衣，酒红、棕色和米白相间的细格纹高腰百褶短裙，均匀哑光黑色不透明连裤袜，深棕色细节精致的系带低跟踝靴。保留原有黑色细颈圈、耳饰和粉色指甲。",
+    "prompt": "Use case: identity-preserve. Asset type: 汐见视觉小说秋季角色透明全身立绘。输入图片是用户已经通过的美羽春季平静立绘，作为人物形象、画风和构图的唯一基准。绘制一张美羽秋季平静母版，只更换为秋季外出服：驼棕色精致麂皮感短夹克，内搭奶油白细罗纹半高领长袖上衣，酒红、棕色和米白相间的细格纹高腰百褶短裙，均匀哑光黑色不透明连裤袜，深棕色细节精致的系带低跟踝靴。保留原有黑色细颈圈、耳饰和粉色指甲。 精确保留原图的脸型、眼型、眉眼间距、五官分布、瞳色、发色、发型、成熟度、体型比例、平静表情和手势，禁止因为换装而改变脸。白羽与绫乃都是直发，绫乃粉色眼睛，澪保留原图长单马尾和水蓝发色，千鹤保留温婉端庄气质，美羽保留通过版五官。沿用已经通过的精致动画赛璐璐画风：细而流畅的线稿、清晰色块、干净分层硬边阴影，头发、衣褶、饰品、袜子和鞋子有精致插画细节，不能改成厚涂、素描或幼态简笔风格。衣服轻薄层叠自然，厚度符合秋季，不臃肿。正面站姿与参考相同，头部竖直、正脸，身体不侧转、不扭胯，腿部自然对齐，避免X形腿和罗圈腿；手势不遮脸。竖向1024x1536全身构图，头发、双手与鞋底完整入画，四周留少量透明边距，保持所有季节统一人物尺寸和脚部位置。只画一位角色，无包包、持物、文字、水印、场景、背景光晕、脚下投影。人物以外必须真正完全透明alpha。",
+    "transparent_background": true,
+    "path": "/workspace/scratch/ae527d8d0567/autumn/miyu/autumn_calm.png",
+    "reference_assets": [
+      "spring/miyu/spring_calm.png"
+    ]
+  },
+  {
+    "character": "miyu",
+    "name": "美羽",
+    "emotion": "surprised",
+    "prompt": "Use case: identity-preserve. 汐见视觉小说秋季角色透明全身立绘，美羽，惊讶表情。输入图1是已经通过的春季惊讶版本，严格提供人物身份、脸型五官、发型发色、瞳色、表情和手部小动作；输入图2是秋季平静母版，严格提供这一季的衣服、配色、饰品、袜子和鞋子。将图1的衣服换成图2完全一致的秋季服装：驼棕色精致麂皮感短夹克，内搭奶油白细罗纹半高领长袖上衣，酒红、棕色和米白相间的细格纹高腰百褶短裙，均匀哑光黑色不透明连裤袜，深棕色细节精致的系带低跟踝靴。保留原有黑色细颈圈、耳饰和粉色指甲。。脸部精确保留图1惊讶时的眼型、眉形、嘴型、脸颊与五官分布，保持图1同一人物身份和年龄体型。保持图2衣服的剪裁、层次、纽扣、面料细节和鞋款。整体保持两张参考共同的精致动画赛璐璐风格、细而流畅的线稿、干净分层色块和清晰硬边阴影，头发衣褶饰品袜鞋细节精致。正面全身自然站立，头部竖直正脸，身体不侧转不扭胯，双腿自然对齐，避免X腿与罗圈腿；沿用图1的小幅手势，手不遮脸；禁止拿包或物品。竖向1024x1536，完整头发、双手和鞋底，全身不裁切，四周少量透明边距，人物占画面比例与参考一致。只画这一位角色，没有文字、水印、场景、背景光晕或脚下投影。背景必须是真正的透明alpha。",
+    "transparent_background": true,
+    "reference_assets": [
+      "spring/miyu/spring_surprised.png",
+      "miyu/autumn_calm.png"
+    ]
+  },
+  {
+    "character": "miyu",
+    "name": "美羽",
+    "emotion": "shy",
+    "prompt": "Use case: identity-preserve. 汐见视觉小说秋季角色透明全身立绘，美羽，害羞表情。输入图1是已经通过的春季害羞版本，严格提供人物身份、脸型五官、发型发色、瞳色、表情和手部小动作；输入图2是秋季平静母版，严格提供这一季的衣服、配色、饰品、袜子和鞋子。将图1的衣服换成图2完全一致的秋季服装：驼棕色精致麂皮感短夹克，内搭奶油白细罗纹半高领长袖上衣，酒红、棕色和米白相间的细格纹高腰百褶短裙，均匀哑光黑色不透明连裤袜，深棕色细节精致的系带低跟踝靴。保留原有黑色细颈圈、耳饰和粉色指甲。。脸部精确保留图1害羞时的眼型、眉形、嘴型、脸颊与五官分布，保持图1同一人物身份和年龄体型。保持图2衣服的剪裁、层次、纽扣、面料细节和鞋款。整体保持两张参考共同的精致动画赛璐璐风格、细而流畅的线稿、干净分层色块和清晰硬边阴影，头发衣褶饰品袜鞋细节精致。正面全身自然站立，头部竖直正脸，身体不侧转不扭胯，双腿自然对齐，避免X腿与罗圈腿；沿用图1的小幅手势，手不遮脸；禁止拿包或物品。竖向1024x1536，完整头发、双手和鞋底，全身不裁切，四周少量透明边距，人物占画面比例与参考一致。只画这一位角色，没有文字、水印、场景、背景光晕或脚下投影。背景必须是真正的透明alpha。",
+    "transparent_background": true,
+    "reference_assets": [
+      "spring/miyu/spring_shy.png",
+      "miyu/autumn_calm.png"
+    ]
+  },
+  {
+    "character": "miyu",
+    "name": "美羽",
+    "emotion": "sad",
+    "prompt": "Use case: identity-preserve. 汐见视觉小说秋季角色透明全身立绘，美羽，伤心表情。输入图1是已经通过的春季伤心版本，严格提供人物身份、脸型五官、发型发色、瞳色、表情和手部小动作；输入图2是秋季平静母版，严格提供这一季的衣服、配色、饰品、袜子和鞋子。将图1的衣服换成图2完全一致的秋季服装：驼棕色精致麂皮感短夹克，内搭奶油白细罗纹半高领长袖上衣，酒红、棕色和米白相间的细格纹高腰百褶短裙，均匀哑光黑色不透明连裤袜，深棕色细节精致的系带低跟踝靴。保留原有黑色细颈圈、耳饰和粉色指甲。。脸部精确保留图1伤心时的眼型、眉形、嘴型、脸颊与五官分布，保持图1同一人物身份和年龄体型。保持图2衣服的剪裁、层次、纽扣、面料细节和鞋款。整体保持两张参考共同的精致动画赛璐璐风格、细而流畅的线稿、干净分层色块和清晰硬边阴影，头发衣褶饰品袜鞋细节精致。正面全身自然站立，头部竖直正脸，身体不侧转不扭胯，双腿自然对齐，避免X腿与罗圈腿；沿用图1的小幅手势，手不遮脸；禁止拿包或物品。竖向1024x1536，完整头发、双手和鞋底，全身不裁切，四周少量透明边距，人物占画面比例与参考一致。只画这一位角色，没有文字、水印、场景、背景光晕或脚下投影。背景必须是真正的透明alpha。",
+    "transparent_background": true,
+    "reference_assets": [
+      "spring/miyu/spring_sad.png",
+      "miyu/autumn_calm.png"
+    ]
+  },
+  {
+    "character": "miyu",
+    "name": "美羽",
+    "emotion": "angry",
+    "prompt": "Use case: identity-preserve. 汐见视觉小说秋季角色透明全身立绘，美羽，生气表情。输入图1是已经通过的春季生气版本，严格提供人物身份、脸型五官、发型发色、瞳色、表情和手部小动作；输入图2是秋季平静母版，严格提供这一季的衣服、配色、饰品、袜子和鞋子。将图1的衣服换成图2完全一致的秋季服装：驼棕色精致麂皮感短夹克，内搭奶油白细罗纹半高领长袖上衣，酒红、棕色和米白相间的细格纹高腰百褶短裙，均匀哑光黑色不透明连裤袜，深棕色细节精致的系带低跟踝靴。保留原有黑色细颈圈、耳饰和粉色指甲。。脸部精确保留图1生气时的眼型、眉形、嘴型、脸颊与五官分布，保持图1同一人物身份和年龄体型。保持图2衣服的剪裁、层次、纽扣、面料细节和鞋款。整体保持两张参考共同的精致动画赛璐璐风格、细而流畅的线稿、干净分层色块和清晰硬边阴影，头发衣褶饰品袜鞋细节精致。正面全身自然站立，头部竖直正脸，身体不侧转不扭胯，双腿自然对齐，避免X腿与罗圈腿；沿用图1的小幅手势，手不遮脸；禁止拿包或物品。竖向1024x1536，完整头发、双手和鞋底，全身不裁切，四周少量透明边距，人物占画面比例与参考一致。只画这一位角色，没有文字、水印、场景、背景光晕或脚下投影。背景必须是真正的透明alpha。",
+    "transparent_background": true,
+    "reference_assets": [
+      "spring/miyu/spring_angry.png",
+      "miyu/autumn_calm.png"
+    ]
+  },
+  {
+    "character": "chizuru",
+    "name": "千鹤",
+    "emotion": "happy",
+    "prompt": "Use case: identity-preserve. 汐见视觉小说秋季角色透明全身立绘，千鹤，开心表情。输入图1是已经通过的春季开心版本，严格提供人物身份、脸型五官、发型发色、瞳色、表情和手部小动作；输入图2是秋季平静母版，严格提供这一季的衣服、配色、饰品、袜子和鞋子。将图1的衣服换成图2完全一致的秋季服装：暖象牙色秋季和服，精致朱红、赭黄和棕金色小枫叶纹样自然分布，深苔绿色腰带，柔和金色细带缔与小花带留，洁白足袋，深棕红色草履。保留通过版端庄盘发及金色小花簪，和服领口规整自然。。脸部精确保留图1开心时的眼型、眉形、嘴型、脸颊与五官分布，保持图1同一人物身份和年龄体型。保持图2衣服的剪裁、层次、纽扣、面料细节和鞋款。千鹤始终保持大和抚子温婉端庄的气质，情绪表达含蓄优雅。整体保持两张参考共同的精致动画赛璐璐风格、细而流畅的线稿、干净分层色块和清晰硬边阴影，头发衣褶饰品袜鞋细节精致。正面全身自然站立，头部竖直正脸，身体不侧转不扭胯，双腿自然对齐，避免X腿与罗圈腿；沿用图1的小幅手势，手不遮脸；禁止拿包或物品。竖向1024x1536，完整头发、双手和鞋底，全身不裁切，四周少量透明边距，人物占画面比例与参考一致。只画这一位角色，没有文字、水印、场景、背景光晕或脚下投影。背景必须是真正的透明alpha。",
+    "transparent_background": true,
+    "reference_assets": [
+      "spring/chizuru/spring_happy.png",
+      "chizuru/autumn_calm.png"
+    ]
+  },
+  {
+    "character": "chizuru",
+    "name": "千鹤",
+    "emotion": "calm",
+    "outfit": "暖象牙色秋季和服，精致朱红、赭黄和棕金色小枫叶纹样自然分布，深苔绿色腰带，柔和金色细带缔与小花带留，洁白足袋，深棕红色草履。保留通过版端庄盘发及金色小花簪，和服领口规整自然。",
+    "prompt": "Use case: identity-preserve. Asset type: 汐见视觉小说秋季角色透明全身立绘。输入图片是用户已经通过的千鹤春季平静立绘，作为人物形象、画风和构图的唯一基准。绘制一张千鹤秋季平静母版，只更换为秋季外出服：暖象牙色秋季和服，精致朱红、赭黄和棕金色小枫叶纹样自然分布，深苔绿色腰带，柔和金色细带缔与小花带留，洁白足袋，深棕红色草履。保留通过版端庄盘发及金色小花簪，和服领口规整自然。 精确保留原图的脸型、眼型、眉眼间距、五官分布、瞳色、发色、发型、成熟度、体型比例、平静表情和手势，禁止因为换装而改变脸。白羽与绫乃都是直发，绫乃粉色眼睛，澪保留原图长单马尾和水蓝发色，千鹤保留温婉端庄气质，美羽保留通过版五官。沿用已经通过的精致动画赛璐璐画风：细而流畅的线稿、清晰色块、干净分层硬边阴影，头发、衣褶、饰品、袜子和鞋子有精致插画细节，不能改成厚涂、素描或幼态简笔风格。衣服轻薄层叠自然，厚度符合秋季，不臃肿。正面站姿与参考相同，头部竖直、正脸，身体不侧转、不扭胯，腿部自然对齐，避免X形腿和罗圈腿；手势不遮脸。竖向1024x1536全身构图，头发、双手与鞋底完整入画，四周留少量透明边距，保持所有季节统一人物尺寸和脚部位置。只画一位角色，无包包、持物、文字、水印、场景、背景光晕、脚下投影。人物以外必须真正完全透明alpha。",
+    "transparent_background": true,
+    "path": "/workspace/scratch/ae527d8d0567/autumn/chizuru/autumn_calm.png",
+    "reference_assets": [
+      "spring/chizuru/spring_calm.png"
+    ]
+  },
+  {
+    "character": "chizuru",
+    "name": "千鹤",
+    "emotion": "surprised",
+    "prompt": "Use case: identity-preserve. 汐见视觉小说秋季角色透明全身立绘，千鹤，惊讶表情。输入图1是已经通过的春季惊讶版本，严格提供人物身份、脸型五官、发型发色、瞳色、表情和手部小动作；输入图2是秋季平静母版，严格提供这一季的衣服、配色、饰品、袜子和鞋子。将图1的衣服换成图2完全一致的秋季服装：暖象牙色秋季和服，精致朱红、赭黄和棕金色小枫叶纹样自然分布，深苔绿色腰带，柔和金色细带缔与小花带留，洁白足袋，深棕红色草履。保留通过版端庄盘发及金色小花簪，和服领口规整自然。。脸部精确保留图1惊讶时的眼型、眉形、嘴型、脸颊与五官分布，保持图1同一人物身份和年龄体型。保持图2衣服的剪裁、层次、纽扣、面料细节和鞋款。千鹤始终保持大和抚子温婉端庄的气质，情绪表达含蓄优雅。整体保持两张参考共同的精致动画赛璐璐风格、细而流畅的线稿、干净分层色块和清晰硬边阴影，头发衣褶饰品袜鞋细节精致。正面全身自然站立，头部竖直正脸，身体不侧转不扭胯，双腿自然对齐，避免X腿与罗圈腿；沿用图1的小幅手势，手不遮脸；禁止拿包或物品。竖向1024x1536，完整头发、双手和鞋底，全身不裁切，四周少量透明边距，人物占画面比例与参考一致。只画这一位角色，没有文字、水印、场景、背景光晕或脚下投影。背景必须是真正的透明alpha。",
+    "transparent_background": true,
+    "reference_assets": [
+      "spring/chizuru/spring_surprised.png",
+      "chizuru/autumn_calm.png"
+    ]
+  },
+  {
+    "character": "chizuru",
+    "name": "千鹤",
+    "emotion": "shy",
+    "prompt": "Use case: identity-preserve. 汐见视觉小说秋季角色透明全身立绘，千鹤，害羞表情。输入图1是已经通过的春季害羞版本，严格提供人物身份、脸型五官、发型发色、瞳色、表情和手部小动作；输入图2是秋季平静母版，严格提供这一季的衣服、配色、饰品、袜子和鞋子。将图1的衣服换成图2完全一致的秋季服装：暖象牙色秋季和服，精致朱红、赭黄和棕金色小枫叶纹样自然分布，深苔绿色腰带，柔和金色细带缔与小花带留，洁白足袋，深棕红色草履。保留通过版端庄盘发及金色小花簪，和服领口规整自然。。脸部精确保留图1害羞时的眼型、眉形、嘴型、脸颊与五官分布，保持图1同一人物身份和年龄体型。保持图2衣服的剪裁、层次、纽扣、面料细节和鞋款。千鹤始终保持大和抚子温婉端庄的气质，情绪表达含蓄优雅。整体保持两张参考共同的精致动画赛璐璐风格、细而流畅的线稿、干净分层色块和清晰硬边阴影，头发衣褶饰品袜鞋细节精致。正面全身自然站立，头部竖直正脸，身体不侧转不扭胯，双腿自然对齐，避免X腿与罗圈腿；沿用图1的小幅手势，手不遮脸；禁止拿包或物品。竖向1024x1536，完整头发、双手和鞋底，全身不裁切，四周少量透明边距，人物占画面比例与参考一致。只画这一位角色，没有文字、水印、场景、背景光晕或脚下投影。背景必须是真正的透明alpha。",
+    "transparent_background": true,
+    "reference_assets": [
+      "spring/chizuru/spring_shy.png",
+      "chizuru/autumn_calm.png"
+    ]
+  },
+  {
+    "character": "chizuru",
+    "name": "千鹤",
+    "emotion": "sad",
+    "prompt": "Use case: identity-preserve. 汐见视觉小说秋季角色透明全身立绘，千鹤，伤心表情。输入图1是已经通过的春季伤心版本，严格提供人物身份、脸型五官、发型发色、瞳色、表情和手部小动作；输入图2是秋季平静母版，严格提供这一季的衣服、配色、饰品、袜子和鞋子。将图1的衣服换成图2完全一致的秋季服装：暖象牙色秋季和服，精致朱红、赭黄和棕金色小枫叶纹样自然分布，深苔绿色腰带，柔和金色细带缔与小花带留，洁白足袋，深棕红色草履。保留通过版端庄盘发及金色小花簪，和服领口规整自然。。脸部精确保留图1伤心时的眼型、眉形、嘴型、脸颊与五官分布，保持图1同一人物身份和年龄体型。保持图2衣服的剪裁、层次、纽扣、面料细节和鞋款。千鹤始终保持大和抚子温婉端庄的气质，情绪表达含蓄优雅。整体保持两张参考共同的精致动画赛璐璐风格、细而流畅的线稿、干净分层色块和清晰硬边阴影，头发衣褶饰品袜鞋细节精致。正面全身自然站立，头部竖直正脸，身体不侧转不扭胯，双腿自然对齐，避免X腿与罗圈腿；沿用图1的小幅手势，手不遮脸；禁止拿包或物品。竖向1024x1536，完整头发、双手和鞋底，全身不裁切，四周少量透明边距，人物占画面比例与参考一致。只画这一位角色，没有文字、水印、场景、背景光晕或脚下投影。背景必须是真正的透明alpha。",
+    "transparent_background": true,
+    "reference_assets": [
+      "spring/chizuru/spring_sad.png",
+      "chizuru/autumn_calm.png"
+    ]
+  },
+  {
+    "character": "chizuru",
+    "name": "千鹤",
+    "emotion": "angry",
+    "prompt": "Use case: identity-preserve. 汐见视觉小说秋季角色透明全身立绘，千鹤，生气表情。输入图1是已经通过的春季生气版本，严格提供人物身份、脸型五官、发型发色、瞳色、表情和手部小动作；输入图2是秋季平静母版，严格提供这一季的衣服、配色、饰品、袜子和鞋子。将图1的衣服换成图2完全一致的秋季服装：暖象牙色秋季和服，精致朱红、赭黄和棕金色小枫叶纹样自然分布，深苔绿色腰带，柔和金色细带缔与小花带留，洁白足袋，深棕红色草履。保留通过版端庄盘发及金色小花簪，和服领口规整自然。。脸部精确保留图1生气时的眼型、眉形、嘴型、脸颊与五官分布，保持图1同一人物身份和年龄体型。保持图2衣服的剪裁、层次、纽扣、面料细节和鞋款。千鹤始终保持大和抚子温婉端庄的气质，情绪表达含蓄优雅。整体保持两张参考共同的精致动画赛璐璐风格、细而流畅的线稿、干净分层色块和清晰硬边阴影，头发衣褶饰品袜鞋细节精致。正面全身自然站立，头部竖直正脸，身体不侧转不扭胯，双腿自然对齐，避免X腿与罗圈腿；沿用图1的小幅手势，手不遮脸；禁止拿包或物品。竖向1024x1536，完整头发、双手和鞋底，全身不裁切，四周少量透明边距，人物占画面比例与参考一致。只画这一位角色，没有文字、水印、场景、背景光晕或脚下投影。背景必须是真正的透明alpha。",
+    "transparent_background": true,
+    "reference_assets": [
+      "spring/chizuru/spring_angry.png",
+      "chizuru/autumn_calm.png"
+    ]
+  },
+  {
+    "character": "mio",
+    "name": "澪",
+    "emotion": "happy",
+    "prompt": "Use case: identity-preserve. 汐见视觉小说秋季角色透明全身立绘，澪，开心表情。输入图1是已经通过的春季开心版本，严格提供人物身份、脸型五官、发型发色、瞳色、表情和手部小动作；输入图2是秋季平静母版，严格提供这一季的衣服、配色、饰品、袜子和鞋子。将图1的衣服换成图2完全一致的秋季服装：深青绿色轻羊毛单排扣西装外套，内搭暖象牙白细针织半高领长袖上衣，浅灰褐色高腰直筒长西裤，细深棕腰带，酒红色精致乐福鞋，薄深灰袜子遮住脚踝。保留手表与项链。。脸部精确保留图1开心时的眼型、眉形、嘴型、脸颊与五官分布，保持图1同一人物身份和年龄体型。保持图2衣服的剪裁、层次、纽扣、面料细节和鞋款。整体保持两张参考共同的精致动画赛璐璐风格、细而流畅的线稿、干净分层色块和清晰硬边阴影，头发衣褶饰品袜鞋细节精致。正面全身自然站立，头部竖直正脸，身体不侧转不扭胯，双腿自然对齐，避免X腿与罗圈腿；沿用图1的小幅手势，手不遮脸；禁止拿包或物品。竖向1024x1536，完整头发、双手和鞋底，全身不裁切，四周少量透明边距，人物占画面比例与参考一致。只画这一位角色，没有文字、水印、场景、背景光晕或脚下投影。背景必须是真正的透明alpha。",
+    "transparent_background": true,
+    "reference_assets": [
+      "spring/mio/spring_happy.png",
+      "mio/autumn_calm.png"
+    ]
+  },
+  {
+    "character": "mio",
+    "name": "澪",
+    "emotion": "calm",
+    "outfit": "深青绿色轻羊毛单排扣西装外套，内搭暖象牙白细针织半高领长袖上衣，浅灰褐色高腰直筒长西裤，细深棕腰带，酒红色精致乐福鞋，薄深灰袜子遮住脚踝。保留手表与项链。",
+    "prompt": "Use case: identity-preserve. Asset type: 汐见视觉小说秋季角色透明全身立绘。输入图片是用户已经通过的澪春季平静立绘，作为人物形象、画风和构图的唯一基准。绘制一张澪秋季平静母版，只更换为秋季外出服：深青绿色轻羊毛单排扣西装外套，内搭暖象牙白细针织半高领长袖上衣，浅灰褐色高腰直筒长西裤，细深棕腰带，酒红色精致乐福鞋，薄深灰袜子遮住脚踝。保留手表与项链。 精确保留原图的脸型、眼型、眉眼间距、五官分布、瞳色、发色、发型、成熟度、体型比例、平静表情和手势，禁止因为换装而改变脸。白羽与绫乃都是直发，绫乃粉色眼睛，澪保留原图长单马尾和水蓝发色，千鹤保留温婉端庄气质，美羽保留通过版五官。沿用已经通过的精致动画赛璐璐画风：细而流畅的线稿、清晰色块、干净分层硬边阴影，头发、衣褶、饰品、袜子和鞋子有精致插画细节，不能改成厚涂、素描或幼态简笔风格。衣服轻薄层叠自然，厚度符合秋季，不臃肿。正面站姿与参考相同，头部竖直、正脸，身体不侧转、不扭胯，腿部自然对齐，避免X形腿和罗圈腿；手势不遮脸。竖向1024x1536全身构图，头发、双手与鞋底完整入画，四周留少量透明边距，保持所有季节统一人物尺寸和脚部位置。只画一位角色，无包包、持物、文字、水印、场景、背景光晕、脚下投影。人物以外必须真正完全透明alpha。",
+    "transparent_background": true,
+    "path": "/workspace/scratch/ae527d8d0567/autumn/mio/autumn_calm.png",
+    "reference_assets": [
+      "spring/mio/spring_calm.png"
+    ]
+  },
+  {
+    "character": "mio",
+    "name": "澪",
+    "emotion": "surprised",
+    "prompt": "Use case: identity-preserve. 汐见视觉小说秋季角色透明全身立绘，澪，惊讶表情。输入图1是已经通过的春季惊讶版本，严格提供人物身份、脸型五官、发型发色、瞳色、表情和手部小动作；输入图2是秋季平静母版，严格提供这一季的衣服、配色、饰品、袜子和鞋子。将图1的衣服换成图2完全一致的秋季服装：深青绿色轻羊毛单排扣西装外套，内搭暖象牙白细针织半高领长袖上衣，浅灰褐色高腰直筒长西裤，细深棕腰带，酒红色精致乐福鞋，薄深灰袜子遮住脚踝。保留手表与项链。。脸部精确保留图1惊讶时的眼型、眉形、嘴型、脸颊与五官分布，保持图1同一人物身份和年龄体型。保持图2衣服的剪裁、层次、纽扣、面料细节和鞋款。整体保持两张参考共同的精致动画赛璐璐风格、细而流畅的线稿、干净分层色块和清晰硬边阴影，头发衣褶饰品袜鞋细节精致。正面全身自然站立，头部竖直正脸，身体不侧转不扭胯，双腿自然对齐，避免X腿与罗圈腿；沿用图1的小幅手势，手不遮脸；禁止拿包或物品。竖向1024x1536，完整头发、双手和鞋底，全身不裁切，四周少量透明边距，人物占画面比例与参考一致。只画这一位角色，没有文字、水印、场景、背景光晕或脚下投影。背景必须是真正的透明alpha。",
+    "transparent_background": true,
+    "reference_assets": [
+      "spring/mio/spring_surprised.png",
+      "mio/autumn_calm.png"
+    ]
+  },
+  {
+    "character": "mio",
+    "name": "澪",
+    "emotion": "shy",
+    "prompt": "Use case: identity-preserve. 汐见视觉小说秋季角色透明全身立绘，澪，害羞表情。输入图1是已经通过的春季害羞版本，严格提供人物身份、脸型五官、发型发色、瞳色、表情和手部小动作；输入图2是秋季平静母版，严格提供这一季的衣服、配色、饰品、袜子和鞋子。将图1的衣服换成图2完全一致的秋季服装：深青绿色轻羊毛单排扣西装外套，内搭暖象牙白细针织半高领长袖上衣，浅灰褐色高腰直筒长西裤，细深棕腰带，酒红色精致乐福鞋，薄深灰袜子遮住脚踝。保留手表与项链。。脸部精确保留图1害羞时的眼型、眉形、嘴型、脸颊与五官分布，保持图1同一人物身份和年龄体型。保持图2衣服的剪裁、层次、纽扣、面料细节和鞋款。整体保持两张参考共同的精致动画赛璐璐风格、细而流畅的线稿、干净分层色块和清晰硬边阴影，头发衣褶饰品袜鞋细节精致。正面全身自然站立，头部竖直正脸，身体不侧转不扭胯，双腿自然对齐，避免X腿与罗圈腿；沿用图1的小幅手势，手不遮脸；禁止拿包或物品。竖向1024x1536，完整头发、双手和鞋底，全身不裁切，四周少量透明边距，人物占画面比例与参考一致。只画这一位角色，没有文字、水印、场景、背景光晕或脚下投影。背景必须是真正的透明alpha。",
+    "transparent_background": true,
+    "reference_assets": [
+      "spring/mio/spring_shy.png",
+      "mio/autumn_calm.png"
+    ]
+  },
+  {
+    "character": "mio",
+    "name": "澪",
+    "emotion": "sad",
+    "prompt": "Use case: identity-preserve. 汐见视觉小说秋季角色透明全身立绘，澪，伤心表情。输入图1是已经通过的春季伤心版本，严格提供人物身份、脸型五官、发型发色、瞳色、表情和手部小动作；输入图2是秋季平静母版，严格提供这一季的衣服、配色、饰品、袜子和鞋子。将图1的衣服换成图2完全一致的秋季服装：深青绿色轻羊毛单排扣西装外套，内搭暖象牙白细针织半高领长袖上衣，浅灰褐色高腰直筒长西裤，细深棕腰带，酒红色精致乐福鞋，薄深灰袜子遮住脚踝。保留手表与项链。。脸部精确保留图1伤心时的眼型、眉形、嘴型、脸颊与五官分布，保持图1同一人物身份和年龄体型。保持图2衣服的剪裁、层次、纽扣、面料细节和鞋款。整体保持两张参考共同的精致动画赛璐璐风格、细而流畅的线稿、干净分层色块和清晰硬边阴影，头发衣褶饰品袜鞋细节精致。正面全身自然站立，头部竖直正脸，身体不侧转不扭胯，双腿自然对齐，避免X腿与罗圈腿；沿用图1的小幅手势，手不遮脸；禁止拿包或物品。竖向1024x1536，完整头发、双手和鞋底，全身不裁切，四周少量透明边距，人物占画面比例与参考一致。只画这一位角色，没有文字、水印、场景、背景光晕或脚下投影。背景必须是真正的透明alpha。",
+    "transparent_background": true,
+    "reference_assets": [
+      "spring/mio/spring_sad.png",
+      "mio/autumn_calm.png"
+    ]
+  },
+  {
+    "character": "mio",
+    "name": "澪",
+    "emotion": "angry",
+    "prompt": "Use case: identity-preserve. 汐见视觉小说秋季角色透明全身立绘，澪，生气表情。输入图1是已经通过的春季生气版本，严格提供人物身份、脸型五官、发型发色、瞳色、表情和手部小动作；输入图2是秋季平静母版，严格提供这一季的衣服、配色、饰品、袜子和鞋子。将图1的衣服换成图2完全一致的秋季服装：深青绿色轻羊毛单排扣西装外套，内搭暖象牙白细针织半高领长袖上衣，浅灰褐色高腰直筒长西裤，细深棕腰带，酒红色精致乐福鞋，薄深灰袜子遮住脚踝。保留手表与项链。。脸部精确保留图1生气时的眼型、眉形、嘴型、脸颊与五官分布，保持图1同一人物身份和年龄体型。保持图2衣服的剪裁、层次、纽扣、面料细节和鞋款。整体保持两张参考共同的精致动画赛璐璐风格、细而流畅的线稿、干净分层色块和清晰硬边阴影，头发衣褶饰品袜鞋细节精致。正面全身自然站立，头部竖直正脸，身体不侧转不扭胯，双腿自然对齐，避免X腿与罗圈腿；沿用图1的小幅手势，手不遮脸；禁止拿包或物品。竖向1024x1536，完整头发、双手和鞋底，全身不裁切，四周少量透明边距，人物占画面比例与参考一致。只画这一位角色，没有文字、水印、场景、背景光晕或脚下投影。背景必须是真正的透明alpha。",
+    "transparent_background": true,
+    "reference_assets": [
+      "spring/mio/spring_angry.png",
+      "mio/autumn_calm.png"
+    ]
+  },
+  {
+    "character": "ayano",
+    "name": "绫乃",
+    "emotion": "happy",
+    "prompt": "Use case: identity-preserve. Edit the supplied full body autumn sprite. Change ONLY the burgundy Mary Jane shoes, both heel structures and both ankle straps to elegant BLACK leather Mary Jane shoes. Keep the exact existing modest approximately 4 cm tapered heels and slender ankle straps, small gold buckles, shape and foot positions. Black leather with restrained neutral gray shine; no red or burgundy tint remains anywhere on the shoes or ankle straps. Keep tights gray and blouse wine-red unchanged. Preserve every other aspect EXACTLY: same face, expression, pink eyes, hair and star hairpin, posture, hands, body proportions, clothing, jewelry, crisp refined anime cel shading and full-body 1024x1536 composition. Do not change the character, proportions or pose. No platform soles or tall heels. Actual transparent alpha background, no shadow, glow, props or text.",
+    "transparent_background": true,
+    "reference_assets": [
+      "ayano/autumn_happy.png"
+    ]
+  },
+  {
+    "character": "ayano",
+    "name": "绫乃",
+    "emotion": "calm",
+    "prompt": "Use case: identity-preserve. Edit the supplied full body autumn sprite. Change ONLY the burgundy Mary Jane shoes, both heel structures and both ankle straps to elegant BLACK leather Mary Jane shoes. Keep the exact existing modest approximately 4 cm tapered heels and slender ankle straps, small gold buckles, shape and foot positions. Black leather with restrained neutral gray shine; no red or burgundy tint remains anywhere on the shoes or ankle straps. Keep tights gray and blouse wine-red unchanged. Preserve every other aspect EXACTLY: same face, expression, pink eyes, hair and star hairpin, posture, hands, body proportions, clothing, jewelry, crisp refined anime cel shading and full-body 1024x1536 composition. Do not change the character, proportions or pose. No platform soles or tall heels. Actual transparent alpha background, no shadow, glow, props or text.",
+    "transparent_background": true,
+    "reference_assets": [
+      "ayano/autumn_calm.png"
+    ]
+  },
+  {
+    "character": "ayano",
+    "name": "绫乃",
+    "emotion": "surprised",
+    "prompt": "Use case: identity-preserve. Edit the supplied full body autumn sprite. Change ONLY the burgundy Mary Jane shoes, both heel structures and both ankle straps to elegant BLACK leather Mary Jane shoes. Keep the exact existing modest approximately 4 cm tapered heels and slender ankle straps, small gold buckles, shape and foot positions. Black leather with restrained neutral gray shine; no red or burgundy tint remains anywhere on the shoes or ankle straps. Keep tights gray and blouse wine-red unchanged. Preserve every other aspect EXACTLY: same face, expression, pink eyes, hair and star hairpin, posture, hands, body proportions, clothing, jewelry, crisp refined anime cel shading and full-body 1024x1536 composition. Do not change the character, proportions or pose. No platform soles or tall heels. Actual transparent alpha background, no shadow, glow, props or text.",
+    "transparent_background": true,
+    "reference_assets": [
+      "ayano/autumn_surprised.png"
+    ]
+  },
+  {
+    "character": "ayano",
+    "name": "绫乃",
+    "emotion": "shy",
+    "prompt": "Use case: identity-preserve. Edit the supplied full body autumn sprite. Change ONLY the burgundy Mary Jane shoes, both heel structures and both ankle straps to elegant BLACK leather Mary Jane shoes. Keep the exact existing modest approximately 4 cm tapered heels and slender ankle straps, small gold buckles, shape and foot positions. Black leather with restrained neutral gray shine; no red or burgundy tint remains anywhere on the shoes or ankle straps. Keep tights gray and blouse wine-red unchanged. Preserve every other aspect EXACTLY: same face, expression, pink eyes, hair and star hairpin, posture, hands, body proportions, clothing, jewelry, crisp refined anime cel shading and full-body 1024x1536 composition. Do not change the character, proportions or pose. No platform soles or tall heels. Actual transparent alpha background, no shadow, glow, props or text.",
+    "transparent_background": true,
+    "reference_assets": [
+      "ayano/autumn_shy.png"
+    ]
+  },
+  {
+    "character": "ayano",
+    "name": "绫乃",
+    "emotion": "sad",
+    "prompt": "Use case: identity-preserve. Edit the supplied full body autumn sprite. Change ONLY the burgundy Mary Jane shoes, both heel structures and both ankle straps to elegant BLACK leather Mary Jane shoes. Keep the exact existing modest approximately 4 cm tapered heels and slender ankle straps, small gold buckles, shape and foot positions. Black leather with restrained neutral gray shine; no red or burgundy tint remains anywhere on the shoes or ankle straps. Keep tights gray and blouse wine-red unchanged. Preserve every other aspect EXACTLY: same face, expression, pink eyes, hair and star hairpin, posture, hands, body proportions, clothing, jewelry, crisp refined anime cel shading and full-body 1024x1536 composition. Do not change the character, proportions or pose. No platform soles or tall heels. Actual transparent alpha background, no shadow, glow, props or text.",
+    "transparent_background": true,
+    "reference_assets": [
+      "ayano/autumn_sad.png"
+    ]
+  },
+  {
+    "character": "ayano",
+    "name": "绫乃",
+    "emotion": "angry",
+    "prompt": "Use case: identity-preserve. Edit the supplied full body autumn sprite. Change ONLY the burgundy Mary Jane shoes, both heel structures and both ankle straps to elegant BLACK leather Mary Jane shoes. Keep the exact existing modest approximately 4 cm tapered heels and slender ankle straps, small gold buckles, shape and foot positions. Black leather with restrained neutral gray shine; no red or burgundy tint remains anywhere on the shoes or ankle straps. Keep tights gray and blouse wine-red unchanged. Preserve every other aspect EXACTLY: same face, expression, pink eyes, hair and star hairpin, posture, hands, body proportions, clothing, jewelry, crisp refined anime cel shading and full-body 1024x1536 composition. Do not change the character, proportions or pose. No platform soles or tall heels. Actual transparent alpha background, no shadow, glow, props or text.",
+    "transparent_background": true,
+    "reference_assets": [
+      "ayano/autumn_angry.png"
+    ]
+  }
+]

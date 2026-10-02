@@ -1,0 +1,994 @@
+{
+  "schema_version": 1,
+  "batch_id": "shiomi-heroines-autumn-v1",
+  "asset_count": 30,
+  "season": "autumn",
+  "art_direction": "统一精致动画赛璐璐风格；全身透明立绘；秋季外出服；六种表情与自然肢体动作。",
+  "approval": "用户要求将本批定稿立绘打包上传至仓库。",
+  "characters": [
+    {
+      "id": "mio",
+      "name": "水城澪",
+      "aliases": [
+        "水城澪",
+        "澪"
+      ],
+      "default_asset": "mio__autumn_calm",
+      "variants": [
+        "mio__autumn_happy",
+        "mio__autumn_calm",
+        "mio__autumn_surprised",
+        "mio__autumn_shy",
+        "mio__autumn_sad",
+        "mio__autumn_angry"
+      ]
+    },
+    {
+      "id": "ayano",
+      "name": "藤崎绫乃",
+      "aliases": [
+        "藤崎绫乃",
+        "绫乃"
+      ],
+      "default_asset": "ayano__autumn_calm",
+      "variants": [
+        "ayano__autumn_happy",
+        "ayano__autumn_calm",
+        "ayano__autumn_surprised",
+        "ayano__autumn_shy",
+        "ayano__autumn_sad",
+        "ayano__autumn_angry"
+      ]
+    },
+    {
+      "id": "chizuru",
+      "name": "望月千鹤",
+      "aliases": [
+        "望月千鹤",
+        "千鹤"
+      ],
+      "default_asset": "chizuru__autumn_calm",
+      "variants": [
+        "chizuru__autumn_happy",
+        "chizuru__autumn_calm",
+        "chizuru__autumn_surprised",
+        "chizuru__autumn_shy",
+        "chizuru__autumn_sad",
+        "chizuru__autumn_angry"
+      ]
+    },
+    {
+      "id": "miyu",
+      "name": "星野美羽",
+      "aliases": [
+        "星野美羽",
+        "美羽"
+      ],
+      "default_asset": "miyu__autumn_calm",
+      "variants": [
+        "miyu__autumn_happy",
+        "miyu__autumn_calm",
+        "miyu__autumn_surprised",
+        "miyu__autumn_shy",
+        "miyu__autumn_sad",
+        "miyu__autumn_angry"
+      ]
+    },
+    {
+      "id": "shiraha",
+      "name": "御影白羽",
+      "aliases": [
+        "御影白羽",
+        "白羽"
+      ],
+      "default_asset": "shiraha__autumn_calm",
+      "variants": [
+        "shiraha__autumn_happy",
+        "shiraha__autumn_calm",
+        "shiraha__autumn_surprised",
+        "shiraha__autumn_shy",
+        "shiraha__autumn_sad",
+        "shiraha__autumn_angry"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "shiraha__autumn_happy",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "秋季外出服·开心",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "happy",
+      "relative_file": "shiraha/autumn_happy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "御影白羽",
+        "白羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9889322916666666
+      },
+      "size_bytes": 1363178,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "shiraha__autumn_calm",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "秋季外出服·平静",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "calm",
+      "relative_file": "shiraha/autumn_calm.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "御影白羽",
+        "白羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9876302083333334
+      },
+      "size_bytes": 1332125,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "shiraha__autumn_surprised",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "秋季外出服·惊讶",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "surprised",
+      "relative_file": "shiraha/autumn_surprised.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "御影白羽",
+        "白羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.98828125
+      },
+      "size_bytes": 1366575,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "shiraha__autumn_shy",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "秋季外出服·害羞",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "shy",
+      "relative_file": "shiraha/autumn_shy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "御影白羽",
+        "白羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.98828125
+      },
+      "size_bytes": 1367240,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "shiraha__autumn_sad",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "秋季外出服·伤心",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "sad",
+      "relative_file": "shiraha/autumn_sad.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "御影白羽",
+        "白羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9889322916666666
+      },
+      "size_bytes": 1345399,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "shiraha__autumn_angry",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "秋季外出服·生气",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "angry",
+      "relative_file": "shiraha/autumn_angry.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "御影白羽",
+        "白羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9895833333333334
+      },
+      "size_bytes": 1339144,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "miyu__autumn_happy",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "秋季外出服·开心",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "happy",
+      "relative_file": "miyu/autumn_happy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "星野美羽",
+        "美羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9928385416666666
+      },
+      "size_bytes": 1570436,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "miyu__autumn_calm",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "秋季外出服·平静",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "calm",
+      "relative_file": "miyu/autumn_calm.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "星野美羽",
+        "美羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9928385416666666
+      },
+      "size_bytes": 1515794,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "miyu__autumn_surprised",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "秋季外出服·惊讶",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "surprised",
+      "relative_file": "miyu/autumn_surprised.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "星野美羽",
+        "美羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9934895833333334
+      },
+      "size_bytes": 1540961,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "miyu__autumn_shy",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "秋季外出服·害羞",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "shy",
+      "relative_file": "miyu/autumn_shy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "星野美羽",
+        "美羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9921875
+      },
+      "size_bytes": 1525435,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "miyu__autumn_sad",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "秋季外出服·伤心",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "sad",
+      "relative_file": "miyu/autumn_sad.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "星野美羽",
+        "美羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9928385416666666
+      },
+      "size_bytes": 1542758,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "miyu__autumn_angry",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "秋季外出服·生气",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "angry",
+      "relative_file": "miyu/autumn_angry.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "星野美羽",
+        "美羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9934895833333334
+      },
+      "size_bytes": 1531355,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "chizuru__autumn_happy",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "秋季外出服·开心",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "happy",
+      "relative_file": "chizuru/autumn_happy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "望月千鹤",
+        "千鹤"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9934895833333334
+      },
+      "size_bytes": 1634983,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "chizuru__autumn_calm",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "秋季外出服·平静",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "calm",
+      "relative_file": "chizuru/autumn_calm.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "望月千鹤",
+        "千鹤"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9934895833333334
+      },
+      "size_bytes": 1658815,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "chizuru__autumn_surprised",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "秋季外出服·惊讶",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "surprised",
+      "relative_file": "chizuru/autumn_surprised.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "望月千鹤",
+        "千鹤"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9934895833333334
+      },
+      "size_bytes": 1654512,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "chizuru__autumn_shy",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "秋季外出服·害羞",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "shy",
+      "relative_file": "chizuru/autumn_shy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "望月千鹤",
+        "千鹤"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9934895833333334
+      },
+      "size_bytes": 1644662,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "chizuru__autumn_sad",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "秋季外出服·伤心",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "sad",
+      "relative_file": "chizuru/autumn_sad.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "望月千鹤",
+        "千鹤"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.994140625
+      },
+      "size_bytes": 1655708,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "chizuru__autumn_angry",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "秋季外出服·生气",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "angry",
+      "relative_file": "chizuru/autumn_angry.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "望月千鹤",
+        "千鹤"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9947916666666666
+      },
+      "size_bytes": 1638970,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "mio__autumn_happy",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "秋季外出服·开心",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "happy",
+      "relative_file": "mio/autumn_happy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "水城澪",
+        "澪"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9895833333333334
+      },
+      "size_bytes": 1348868,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "mio__autumn_calm",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "秋季外出服·平静",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "calm",
+      "relative_file": "mio/autumn_calm.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "水城澪",
+        "澪"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.990234375
+      },
+      "size_bytes": 1359817,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "mio__autumn_surprised",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "秋季外出服·惊讶",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "surprised",
+      "relative_file": "mio/autumn_surprised.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "水城澪",
+        "澪"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9889322916666666
+      },
+      "size_bytes": 1332429,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "mio__autumn_shy",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "秋季外出服·害羞",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "shy",
+      "relative_file": "mio/autumn_shy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "水城澪",
+        "澪"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9895833333333334
+      },
+      "size_bytes": 1325295,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "mio__autumn_sad",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "秋季外出服·伤心",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "sad",
+      "relative_file": "mio/autumn_sad.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "水城澪",
+        "澪"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9895833333333334
+      },
+      "size_bytes": 1322115,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "mio__autumn_angry",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "秋季外出服·生气",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "angry",
+      "relative_file": "mio/autumn_angry.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "水城澪",
+        "澪"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9895833333333334
+      },
+      "size_bytes": 1351347,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "ayano__autumn_happy",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "秋季外出服·开心",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "happy",
+      "relative_file": "ayano/autumn_happy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "藤崎绫乃",
+        "绫乃"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9791666666666666
+      },
+      "size_bytes": 1273378,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "ayano__autumn_calm",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "秋季外出服·平静",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "calm",
+      "relative_file": "ayano/autumn_calm.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "藤崎绫乃",
+        "绫乃"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.978515625
+      },
+      "size_bytes": 1269727,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "ayano__autumn_surprised",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "秋季外出服·惊讶",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "surprised",
+      "relative_file": "ayano/autumn_surprised.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "藤崎绫乃",
+        "绫乃"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9811197916666666
+      },
+      "size_bytes": 1285560,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "ayano__autumn_shy",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "秋季外出服·害羞",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "shy",
+      "relative_file": "ayano/autumn_shy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "藤崎绫乃",
+        "绫乃"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9798177083333334
+      },
+      "size_bytes": 1251404,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "ayano__autumn_sad",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "秋季外出服·伤心",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "sad",
+      "relative_file": "ayano/autumn_sad.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "藤崎绫乃",
+        "绫乃"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.98046875
+      },
+      "size_bytes": 1261784,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "ayano__autumn_angry",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "秋季外出服·生气",
+      "outfit": "autumn",
+      "season": "autumn",
+      "expression": "angry",
+      "relative_file": "ayano/autumn_angry.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "autumn-v1",
+      "aliases": [
+        "藤崎绫乃",
+        "绫乃"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.982421875
+      },
+      "size_bytes": 1269928,
+      "approval": "publication_requested"
+    }
+  ],
+  "downloads": [
+    {
+      "character_id": "shiraha",
+      "relative_file": "downloads/shiomi-autumn-shiraha-6.zip",
+      "size_bytes": 8137994
+    },
+    {
+      "character_id": "miyu",
+      "relative_file": "downloads/shiomi-autumn-miyu-6.zip",
+      "size_bytes": 9278496
+    },
+    {
+      "character_id": "chizuru",
+      "relative_file": "downloads/shiomi-autumn-chizuru-6.zip",
+      "size_bytes": 9972202
+    },
+    {
+      "character_id": "mio",
+      "relative_file": "downloads/shiomi-autumn-mio-6.zip",
+      "size_bytes": 8071848
+    },
+    {
+      "character_id": "ayano",
+      "relative_file": "downloads/shiomi-autumn-ayano-6.zip",
+      "size_bytes": 7630584
+    }
+  ]
+}
