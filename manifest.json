@@ -1,6 +1,6 @@
 {
   "schema": "shiomi_assets_v1",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "baseUrl": "./",
   "assets": {
     "map.city.base": {
@@ -524,6 +524,816 @@
       "loading": "on-demand",
       "cache": "immutable",
       "transparent": true
+    },
+    "sprite.shiraha__summer_happy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/shiraha/summer_happy.png",
+      "mime": "image/png",
+      "bytes": 1401456,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.shiraha__summer_calm": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/shiraha/summer_calm.png",
+      "mime": "image/png",
+      "bytes": 1360857,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.shiraha__summer_surprised": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/shiraha/summer_surprised.png",
+      "mime": "image/png",
+      "bytes": 1376134,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.shiraha__summer_shy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/shiraha/summer_shy.png",
+      "mime": "image/png",
+      "bytes": 1369264,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.shiraha__summer_sad": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/shiraha/summer_sad.png",
+      "mime": "image/png",
+      "bytes": 1373907,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.shiraha__summer_angry": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/shiraha/summer_angry.png",
+      "mime": "image/png",
+      "bytes": 1377047,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.miyu__summer_happy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/miyu/summer_happy.png",
+      "mime": "image/png",
+      "bytes": 1462082,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.miyu__summer_calm": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/miyu/summer_calm.png",
+      "mime": "image/png",
+      "bytes": 1445869,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.miyu__summer_surprised": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/miyu/summer_surprised.png",
+      "mime": "image/png",
+      "bytes": 1449849,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.miyu__summer_shy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/miyu/summer_shy.png",
+      "mime": "image/png",
+      "bytes": 1441477,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.miyu__summer_sad": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/miyu/summer_sad.png",
+      "mime": "image/png",
+      "bytes": 1439784,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.miyu__summer_angry": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/miyu/summer_angry.png",
+      "mime": "image/png",
+      "bytes": 1450888,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.chizuru__summer_happy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/chizuru/summer_happy.png",
+      "mime": "image/png",
+      "bytes": 1629006,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.chizuru__summer_calm": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/chizuru/summer_calm.png",
+      "mime": "image/png",
+      "bytes": 1637904,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.chizuru__summer_surprised": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/chizuru/summer_surprised.png",
+      "mime": "image/png",
+      "bytes": 1609342,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.chizuru__summer_shy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/chizuru/summer_shy.png",
+      "mime": "image/png",
+      "bytes": 1622237,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.chizuru__summer_sad": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/chizuru/summer_sad.png",
+      "mime": "image/png",
+      "bytes": 1629564,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.chizuru__summer_angry": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/chizuru/summer_angry.png",
+      "mime": "image/png",
+      "bytes": 1621711,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.mio__summer_happy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/mio/summer_happy.png",
+      "mime": "image/png",
+      "bytes": 1319332,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.mio__summer_calm": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/mio/summer_calm.png",
+      "mime": "image/png",
+      "bytes": 1344774,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.mio__summer_surprised": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/mio/summer_surprised.png",
+      "mime": "image/png",
+      "bytes": 1318279,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.mio__summer_shy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/mio/summer_shy.png",
+      "mime": "image/png",
+      "bytes": 1284602,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.mio__summer_sad": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/mio/summer_sad.png",
+      "mime": "image/png",
+      "bytes": 1292586,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.mio__summer_angry": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/mio/summer_angry.png",
+      "mime": "image/png",
+      "bytes": 1325067,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.ayano__summer_happy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/ayano/summer_happy.png",
+      "mime": "image/png",
+      "bytes": 1279120,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.ayano__summer_calm": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/ayano/summer_calm.png",
+      "mime": "image/png",
+      "bytes": 1251763,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.ayano__summer_surprised": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/ayano/summer_surprised.png",
+      "mime": "image/png",
+      "bytes": 1281369,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.ayano__summer_shy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/ayano/summer_shy.png",
+      "mime": "image/png",
+      "bytes": 1262097,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.ayano__summer_sad": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/ayano/summer_sad.png",
+      "mime": "image/png",
+      "bytes": 1263386,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.ayano__summer_angry": {
+      "type": "image",
+      "src": "assets/sprites/heroines-summer-v1/ayano/summer_angry.png",
+      "mime": "image/png",
+      "bytes": 1265825,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.shiraha__autumn_happy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/shiraha/autumn_happy.png",
+      "mime": "image/png",
+      "bytes": 1363178,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.shiraha__autumn_calm": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/shiraha/autumn_calm.png",
+      "mime": "image/png",
+      "bytes": 1332125,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.shiraha__autumn_surprised": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/shiraha/autumn_surprised.png",
+      "mime": "image/png",
+      "bytes": 1366575,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.shiraha__autumn_shy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/shiraha/autumn_shy.png",
+      "mime": "image/png",
+      "bytes": 1367240,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.shiraha__autumn_sad": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/shiraha/autumn_sad.png",
+      "mime": "image/png",
+      "bytes": 1345399,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.shiraha__autumn_angry": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/shiraha/autumn_angry.png",
+      "mime": "image/png",
+      "bytes": 1339144,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.miyu__autumn_happy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/miyu/autumn_happy.png",
+      "mime": "image/png",
+      "bytes": 1570436,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.miyu__autumn_calm": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/miyu/autumn_calm.png",
+      "mime": "image/png",
+      "bytes": 1515794,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.miyu__autumn_surprised": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/miyu/autumn_surprised.png",
+      "mime": "image/png",
+      "bytes": 1540961,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.miyu__autumn_shy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/miyu/autumn_shy.png",
+      "mime": "image/png",
+      "bytes": 1525435,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.miyu__autumn_sad": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/miyu/autumn_sad.png",
+      "mime": "image/png",
+      "bytes": 1542758,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.miyu__autumn_angry": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/miyu/autumn_angry.png",
+      "mime": "image/png",
+      "bytes": 1531355,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.chizuru__autumn_happy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/chizuru/autumn_happy.png",
+      "mime": "image/png",
+      "bytes": 1634983,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.chizuru__autumn_calm": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/chizuru/autumn_calm.png",
+      "mime": "image/png",
+      "bytes": 1658815,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.chizuru__autumn_surprised": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/chizuru/autumn_surprised.png",
+      "mime": "image/png",
+      "bytes": 1654512,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.chizuru__autumn_shy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/chizuru/autumn_shy.png",
+      "mime": "image/png",
+      "bytes": 1644662,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.chizuru__autumn_sad": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/chizuru/autumn_sad.png",
+      "mime": "image/png",
+      "bytes": 1655708,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.chizuru__autumn_angry": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/chizuru/autumn_angry.png",
+      "mime": "image/png",
+      "bytes": 1638970,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.mio__autumn_happy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/mio/autumn_happy.png",
+      "mime": "image/png",
+      "bytes": 1348868,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.mio__autumn_calm": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/mio/autumn_calm.png",
+      "mime": "image/png",
+      "bytes": 1359817,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.mio__autumn_surprised": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/mio/autumn_surprised.png",
+      "mime": "image/png",
+      "bytes": 1332429,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.mio__autumn_shy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/mio/autumn_shy.png",
+      "mime": "image/png",
+      "bytes": 1325295,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.mio__autumn_sad": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/mio/autumn_sad.png",
+      "mime": "image/png",
+      "bytes": 1322115,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.mio__autumn_angry": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/mio/autumn_angry.png",
+      "mime": "image/png",
+      "bytes": 1351347,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.ayano__autumn_happy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/ayano/autumn_happy.png",
+      "mime": "image/png",
+      "bytes": 1273378,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.ayano__autumn_calm": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/ayano/autumn_calm.png",
+      "mime": "image/png",
+      "bytes": 1269727,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.ayano__autumn_surprised": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/ayano/autumn_surprised.png",
+      "mime": "image/png",
+      "bytes": 1285560,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.ayano__autumn_shy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/ayano/autumn_shy.png",
+      "mime": "image/png",
+      "bytes": 1251404,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.ayano__autumn_sad": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/ayano/autumn_sad.png",
+      "mime": "image/png",
+      "bytes": 1261784,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.ayano__autumn_angry": {
+      "type": "image",
+      "src": "assets/sprites/heroines-autumn-v1/ayano/autumn_angry.png",
+      "mime": "image/png",
+      "bytes": 1269928,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.shiraha__winter_happy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/shiraha/winter_happy.png",
+      "mime": "image/png",
+      "bytes": 1382388,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.shiraha__winter_calm": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/shiraha/winter_calm.png",
+      "mime": "image/png",
+      "bytes": 1345042,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.shiraha__winter_surprised": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/shiraha/winter_surprised.png",
+      "mime": "image/png",
+      "bytes": 1370049,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.shiraha__winter_shy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/shiraha/winter_shy.png",
+      "mime": "image/png",
+      "bytes": 1361604,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.shiraha__winter_sad": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/shiraha/winter_sad.png",
+      "mime": "image/png",
+      "bytes": 1360139,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.shiraha__winter_angry": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/shiraha/winter_angry.png",
+      "mime": "image/png",
+      "bytes": 1349709,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.miyu__winter_happy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/miyu/winter_happy.png",
+      "mime": "image/png",
+      "bytes": 1581028,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.miyu__winter_calm": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/miyu/winter_calm.png",
+      "mime": "image/png",
+      "bytes": 1508795,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.miyu__winter_surprised": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/miyu/winter_surprised.png",
+      "mime": "image/png",
+      "bytes": 1565521,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.miyu__winter_shy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/miyu/winter_shy.png",
+      "mime": "image/png",
+      "bytes": 1525954,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.miyu__winter_sad": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/miyu/winter_sad.png",
+      "mime": "image/png",
+      "bytes": 1534170,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.miyu__winter_angry": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/miyu/winter_angry.png",
+      "mime": "image/png",
+      "bytes": 1542825,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.chizuru__winter_happy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/chizuru/winter_happy.png",
+      "mime": "image/png",
+      "bytes": 1566622,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.chizuru__winter_calm": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/chizuru/winter_calm.png",
+      "mime": "image/png",
+      "bytes": 1606333,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.chizuru__winter_surprised": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/chizuru/winter_surprised.png",
+      "mime": "image/png",
+      "bytes": 1574352,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.chizuru__winter_shy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/chizuru/winter_shy.png",
+      "mime": "image/png",
+      "bytes": 1565659,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.chizuru__winter_sad": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/chizuru/winter_sad.png",
+      "mime": "image/png",
+      "bytes": 1563782,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.chizuru__winter_angry": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/chizuru/winter_angry.png",
+      "mime": "image/png",
+      "bytes": 1578975,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.mio__winter_happy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/mio/winter_happy.png",
+      "mime": "image/png",
+      "bytes": 1422208,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.mio__winter_calm": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/mio/winter_calm.png",
+      "mime": "image/png",
+      "bytes": 1400854,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.mio__winter_surprised": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/mio/winter_surprised.png",
+      "mime": "image/png",
+      "bytes": 1407107,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.mio__winter_shy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/mio/winter_shy.png",
+      "mime": "image/png",
+      "bytes": 1353116,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.mio__winter_sad": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/mio/winter_sad.png",
+      "mime": "image/png",
+      "bytes": 1388731,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.mio__winter_angry": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/mio/winter_angry.png",
+      "mime": "image/png",
+      "bytes": 1401112,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.ayano__winter_happy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/ayano/winter_happy.png",
+      "mime": "image/png",
+      "bytes": 1247472,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.ayano__winter_calm": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/ayano/winter_calm.png",
+      "mime": "image/png",
+      "bytes": 1245157,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.ayano__winter_surprised": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/ayano/winter_surprised.png",
+      "mime": "image/png",
+      "bytes": 1248873,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.ayano__winter_shy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/ayano/winter_shy.png",
+      "mime": "image/png",
+      "bytes": 1210187,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.ayano__winter_sad": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/ayano/winter_sad.png",
+      "mime": "image/png",
+      "bytes": 1210443,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
+    },
+    "sprite.ayano__winter_angry": {
+      "type": "image",
+      "src": "assets/sprites/heroines-winter-v1/ayano/winter_angry.png",
+      "mime": "image/png",
+      "bytes": 1221230,
+      "loading": "on-demand",
+      "cache": "immutable",
+      "transparent": true
     }
   },
   "collections": {
@@ -791,7 +1601,7 @@
     },
     "characters": {},
     "sprites": {
-      "season": "spring",
+      "season": "all",
       "manifest": "assets/sprites/heroines-spring-v3/manifest.json",
       "asset_commit": "0b8aab77629c56c5bcff2ea140cf128c5ee3e81b",
       "characters": [
@@ -809,7 +1619,25 @@
             "mio__spring_surprised",
             "mio__spring_shy",
             "mio__spring_sad",
-            "mio__spring_angry"
+            "mio__spring_angry",
+            "mio__summer_happy",
+            "mio__summer_calm",
+            "mio__summer_surprised",
+            "mio__summer_shy",
+            "mio__summer_sad",
+            "mio__summer_angry",
+            "mio__autumn_happy",
+            "mio__autumn_calm",
+            "mio__autumn_surprised",
+            "mio__autumn_shy",
+            "mio__autumn_sad",
+            "mio__autumn_angry",
+            "mio__winter_happy",
+            "mio__winter_calm",
+            "mio__winter_surprised",
+            "mio__winter_shy",
+            "mio__winter_sad",
+            "mio__winter_angry"
           ]
         },
         {
@@ -826,7 +1654,25 @@
             "ayano__spring_surprised",
             "ayano__spring_shy",
             "ayano__spring_sad",
-            "ayano__spring_angry"
+            "ayano__spring_angry",
+            "ayano__summer_happy",
+            "ayano__summer_calm",
+            "ayano__summer_surprised",
+            "ayano__summer_shy",
+            "ayano__summer_sad",
+            "ayano__summer_angry",
+            "ayano__autumn_happy",
+            "ayano__autumn_calm",
+            "ayano__autumn_surprised",
+            "ayano__autumn_shy",
+            "ayano__autumn_sad",
+            "ayano__autumn_angry",
+            "ayano__winter_happy",
+            "ayano__winter_calm",
+            "ayano__winter_surprised",
+            "ayano__winter_shy",
+            "ayano__winter_sad",
+            "ayano__winter_angry"
           ]
         },
         {
@@ -843,7 +1689,25 @@
             "chizuru__spring_surprised",
             "chizuru__spring_shy",
             "chizuru__spring_sad",
-            "chizuru__spring_angry"
+            "chizuru__spring_angry",
+            "chizuru__summer_happy",
+            "chizuru__summer_calm",
+            "chizuru__summer_surprised",
+            "chizuru__summer_shy",
+            "chizuru__summer_sad",
+            "chizuru__summer_angry",
+            "chizuru__autumn_happy",
+            "chizuru__autumn_calm",
+            "chizuru__autumn_surprised",
+            "chizuru__autumn_shy",
+            "chizuru__autumn_sad",
+            "chizuru__autumn_angry",
+            "chizuru__winter_happy",
+            "chizuru__winter_calm",
+            "chizuru__winter_surprised",
+            "chizuru__winter_shy",
+            "chizuru__winter_sad",
+            "chizuru__winter_angry"
           ]
         },
         {
@@ -860,7 +1724,25 @@
             "miyu__spring_surprised",
             "miyu__spring_shy",
             "miyu__spring_sad",
-            "miyu__spring_angry"
+            "miyu__spring_angry",
+            "miyu__summer_happy",
+            "miyu__summer_calm",
+            "miyu__summer_surprised",
+            "miyu__summer_shy",
+            "miyu__summer_sad",
+            "miyu__summer_angry",
+            "miyu__autumn_happy",
+            "miyu__autumn_calm",
+            "miyu__autumn_surprised",
+            "miyu__autumn_shy",
+            "miyu__autumn_sad",
+            "miyu__autumn_angry",
+            "miyu__winter_happy",
+            "miyu__winter_calm",
+            "miyu__winter_surprised",
+            "miyu__winter_shy",
+            "miyu__winter_sad",
+            "miyu__winter_angry"
           ]
         },
         {
@@ -877,16 +1759,54 @@
             "shiraha__spring_surprised",
             "shiraha__spring_shy",
             "shiraha__spring_sad",
-            "shiraha__spring_angry"
+            "shiraha__spring_angry",
+            "shiraha__summer_happy",
+            "shiraha__summer_calm",
+            "shiraha__summer_surprised",
+            "shiraha__summer_shy",
+            "shiraha__summer_sad",
+            "shiraha__summer_angry",
+            "shiraha__autumn_happy",
+            "shiraha__autumn_calm",
+            "shiraha__autumn_surprised",
+            "shiraha__autumn_shy",
+            "shiraha__autumn_sad",
+            "shiraha__autumn_angry",
+            "shiraha__winter_happy",
+            "shiraha__winter_calm",
+            "shiraha__winter_surprised",
+            "shiraha__winter_shy",
+            "shiraha__winter_sad",
+            "shiraha__winter_angry"
           ]
         }
-      ]
+      ],
+      "default_season": "spring",
+      "season_selection": "story_date",
+      "seasons": {
+        "spring": {
+          "manifest": "assets/sprites/heroines-spring-v3/manifest.json",
+          "asset_commit": "0b8aab77629c56c5bcff2ea140cf128c5ee3e81b"
+        },
+        "summer": {
+          "manifest": "assets/sprites/heroines-summer-v1/manifest.json",
+          "asset_commit": "9e3d161e728f0cde1c9f32860a4b0bca2bb5817f"
+        },
+        "autumn": {
+          "manifest": "assets/sprites/heroines-autumn-v1/manifest.json",
+          "asset_commit": "a2550516f0d441f53254519eb188d3261f53b5ae"
+        },
+        "winter": {
+          "manifest": "assets/sprites/heroines-winter-v1/manifest.json",
+          "asset_commit": "a2550516f0d441f53254519eb188d3261f53b5ae"
+        }
+      }
     }
   },
   "latest_character_card": {
-    "version": "1.33.58",
+    "version": "1.33.59",
     "json": "character-cards/latest.json",
     "png": "character-cards/latest.png",
-    "reader_version": "0.10.5"
+    "reader_version": "0.10.6"
   }
 }
