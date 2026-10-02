@@ -1,0 +1,1009 @@
+{
+  "schema_version": 1,
+  "batch_id": "shiomi-heroines-spring-v3",
+  "asset_count": 30,
+  "season": "spring",
+  "art_direction": "统一动画赛璐璐风格；全身透明立绘；春季外出服；六种表情与自然肢体动作。",
+  "approval": "用户要求打包通过的立绘并发布，采用本轮最终选定版本。",
+  "characters": [
+    {
+      "id": "mio",
+      "name": "水城澪",
+      "aliases": [
+        "水城澪",
+        "澪"
+      ],
+      "default_asset": "mio__spring_calm",
+      "variants": [
+        "mio__spring_happy",
+        "mio__spring_calm",
+        "mio__spring_surprised",
+        "mio__spring_shy",
+        "mio__spring_sad",
+        "mio__spring_angry"
+      ]
+    },
+    {
+      "id": "ayano",
+      "name": "藤崎绫乃",
+      "aliases": [
+        "藤崎绫乃",
+        "绫乃"
+      ],
+      "default_asset": "ayano__spring_calm",
+      "variants": [
+        "ayano__spring_happy",
+        "ayano__spring_calm",
+        "ayano__spring_surprised",
+        "ayano__spring_shy",
+        "ayano__spring_sad",
+        "ayano__spring_angry"
+      ]
+    },
+    {
+      "id": "chizuru",
+      "name": "望月千鹤",
+      "aliases": [
+        "望月千鹤",
+        "千鹤"
+      ],
+      "default_asset": "chizuru__spring_calm",
+      "variants": [
+        "chizuru__spring_happy",
+        "chizuru__spring_calm",
+        "chizuru__spring_surprised",
+        "chizuru__spring_shy",
+        "chizuru__spring_sad",
+        "chizuru__spring_angry"
+      ]
+    },
+    {
+      "id": "miyu",
+      "name": "星野美羽",
+      "aliases": [
+        "星野美羽",
+        "美羽"
+      ],
+      "default_asset": "miyu__spring_calm",
+      "variants": [
+        "miyu__spring_happy",
+        "miyu__spring_calm",
+        "miyu__spring_surprised",
+        "miyu__spring_shy",
+        "miyu__spring_sad",
+        "miyu__spring_angry"
+      ]
+    },
+    {
+      "id": "shiraha",
+      "name": "御影白羽",
+      "aliases": [
+        "御影白羽",
+        "白羽"
+      ],
+      "default_asset": "shiraha__spring_calm",
+      "variants": [
+        "shiraha__spring_happy",
+        "shiraha__spring_calm",
+        "shiraha__spring_surprised",
+        "shiraha__spring_shy",
+        "shiraha__spring_sad",
+        "shiraha__spring_angry"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "shiraha__spring_happy",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "春季外出服·开心",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "happy",
+      "relative_file": "shiraha/spring_happy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "御影白羽",
+        "白羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9869791666666666
+      },
+      "size_bytes": 1328156,
+      "approval": "selected_for_publication"
+    },
+    {
+      "id": "shiraha__spring_calm",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "春季外出服·平静",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "calm",
+      "relative_file": "shiraha/spring_calm.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "御影白羽",
+        "白羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9869791666666666
+      },
+      "size_bytes": 1294293,
+      "approval": "selected_for_publication"
+    },
+    {
+      "id": "shiraha__spring_surprised",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "春季外出服·惊讶",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "surprised",
+      "relative_file": "shiraha/spring_surprised.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "御影白羽",
+        "白羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9869791666666666
+      },
+      "size_bytes": 1318568,
+      "approval": "selected_for_publication"
+    },
+    {
+      "id": "shiraha__spring_shy",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "春季外出服·害羞",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "shy",
+      "relative_file": "shiraha/spring_shy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "御影白羽",
+        "白羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9869791666666666
+      },
+      "size_bytes": 1307824,
+      "approval": "selected_for_publication"
+    },
+    {
+      "id": "shiraha__spring_sad",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "春季外出服·伤心",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "sad",
+      "relative_file": "shiraha/spring_sad.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "御影白羽",
+        "白羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9869791666666666
+      },
+      "size_bytes": 1306504,
+      "approval": "selected_for_publication"
+    },
+    {
+      "id": "shiraha__spring_angry",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "春季外出服·生气",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "angry",
+      "relative_file": "shiraha/spring_angry.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "御影白羽",
+        "白羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9876302083333334
+      },
+      "size_bytes": 1300151,
+      "approval": "selected_for_publication"
+    },
+    {
+      "id": "miyu__spring_happy",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "春季外出服·开心",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "happy",
+      "relative_file": "miyu/spring_happy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "星野美羽",
+        "美羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 1.0
+      },
+      "size_bytes": 1519133,
+      "approval": "selected_for_publication"
+    },
+    {
+      "id": "miyu__spring_calm",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "春季外出服·平静",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "calm",
+      "relative_file": "miyu/spring_calm.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "星野美羽",
+        "美羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 1.0
+      },
+      "size_bytes": 1479097,
+      "approval": "selected_for_publication"
+    },
+    {
+      "id": "miyu__spring_surprised",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "春季外出服·惊讶",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "surprised",
+      "relative_file": "miyu/spring_surprised.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "星野美羽",
+        "美羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 1.0
+      },
+      "size_bytes": 1496576,
+      "approval": "selected_for_publication"
+    },
+    {
+      "id": "miyu__spring_shy",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "春季外出服·害羞",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "shy",
+      "relative_file": "miyu/spring_shy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "星野美羽",
+        "美羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 1.0
+      },
+      "size_bytes": 1468912,
+      "approval": "selected_for_publication"
+    },
+    {
+      "id": "miyu__spring_sad",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "春季外出服·伤心",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "sad",
+      "relative_file": "miyu/spring_sad.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "星野美羽",
+        "美羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 1.0
+      },
+      "size_bytes": 1485307,
+      "approval": "selected_for_publication"
+    },
+    {
+      "id": "miyu__spring_angry",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "春季外出服·生气",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "angry",
+      "relative_file": "miyu/spring_angry.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "星野美羽",
+        "美羽"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 1.0
+      },
+      "size_bytes": 1497042,
+      "approval": "selected_for_publication"
+    },
+    {
+      "id": "chizuru__spring_happy",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "春季外出服·开心",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "happy",
+      "relative_file": "chizuru/spring_happy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "望月千鹤",
+        "千鹤"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9947916666666666
+      },
+      "size_bytes": 1524834,
+      "approval": "selected_for_publication"
+    },
+    {
+      "id": "chizuru__spring_calm",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "春季外出服·平静",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "calm",
+      "relative_file": "chizuru/spring_calm.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "望月千鹤",
+        "千鹤"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 1.0
+      },
+      "size_bytes": 1521483,
+      "approval": "selected_for_publication"
+    },
+    {
+      "id": "chizuru__spring_surprised",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "春季外出服·惊讶",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "surprised",
+      "relative_file": "chizuru/spring_surprised.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "望月千鹤",
+        "千鹤"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 1.0
+      },
+      "size_bytes": 1527961,
+      "approval": "selected_for_publication"
+    },
+    {
+      "id": "chizuru__spring_shy",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "春季外出服·害羞",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "shy",
+      "relative_file": "chizuru/spring_shy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "望月千鹤",
+        "千鹤"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 1.0
+      },
+      "size_bytes": 1520504,
+      "approval": "selected_for_publication"
+    },
+    {
+      "id": "chizuru__spring_sad",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "春季外出服·伤心",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "sad",
+      "relative_file": "chizuru/spring_sad.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "望月千鹤",
+        "千鹤"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 1.0
+      },
+      "size_bytes": 1524680,
+      "approval": "selected_for_publication"
+    },
+    {
+      "id": "chizuru__spring_angry",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "春季外出服·生气",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "angry",
+      "relative_file": "chizuru/spring_angry.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "望月千鹤",
+        "千鹤"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 1.0
+      },
+      "size_bytes": 1530328,
+      "approval": "selected_for_publication"
+    },
+    {
+      "id": "mio__spring_happy",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "春季外出服·开心",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "happy",
+      "relative_file": "mio/spring_happy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "水城澪",
+        "澪"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9908854166666666
+      },
+      "size_bytes": 1333948,
+      "approval": "selected_for_publication"
+    },
+    {
+      "id": "mio__spring_calm",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "春季外出服·平静",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "calm",
+      "relative_file": "mio/spring_calm.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "水城澪",
+        "澪"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9908854166666666
+      },
+      "size_bytes": 1318563,
+      "approval": "selected_for_publication"
+    },
+    {
+      "id": "mio__spring_surprised",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "春季外出服·惊讶",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "surprised",
+      "relative_file": "mio/spring_surprised.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "水城澪",
+        "澪"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9908854166666666
+      },
+      "size_bytes": 1327522,
+      "approval": "selected_for_publication"
+    },
+    {
+      "id": "mio__spring_shy",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "春季外出服·害羞",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "shy",
+      "relative_file": "mio/spring_shy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "水城澪",
+        "澪"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9908854166666666
+      },
+      "size_bytes": 1301720,
+      "approval": "selected_for_publication"
+    },
+    {
+      "id": "mio__spring_sad",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "春季外出服·伤心",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "sad",
+      "relative_file": "mio/spring_sad.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "水城澪",
+        "澪"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9908854166666666
+      },
+      "size_bytes": 1296279,
+      "approval": "selected_for_publication"
+    },
+    {
+      "id": "mio__spring_angry",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "春季外出服·生气",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "angry",
+      "relative_file": "mio/spring_angry.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "水城澪",
+        "澪"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9908854166666666
+      },
+      "size_bytes": 1337153,
+      "approval": "selected_for_publication"
+    },
+    {
+      "id": "ayano__spring_happy",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "春季外出服·开心",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "happy",
+      "relative_file": "ayano/spring_happy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "藤崎绫乃",
+        "绫乃"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9895833333333334
+      },
+      "size_bytes": 1286555,
+      "approval": "selected_for_publication"
+    },
+    {
+      "id": "ayano__spring_calm",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "春季外出服·平静",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "calm",
+      "relative_file": "ayano/spring_calm.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "藤崎绫乃",
+        "绫乃"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9895833333333334
+      },
+      "size_bytes": 1278420,
+      "approval": "selected_for_publication"
+    },
+    {
+      "id": "ayano__spring_surprised",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "春季外出服·惊讶",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "surprised",
+      "relative_file": "ayano/spring_surprised.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "藤崎绫乃",
+        "绫乃"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9895833333333334
+      },
+      "size_bytes": 1295414,
+      "approval": "selected_for_publication"
+    },
+    {
+      "id": "ayano__spring_shy",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "春季外出服·害羞",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "shy",
+      "relative_file": "ayano/spring_shy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "藤崎绫乃",
+        "绫乃"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9889322916666666
+      },
+      "size_bytes": 1261206,
+      "approval": "selected_for_publication"
+    },
+    {
+      "id": "ayano__spring_sad",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "春季外出服·伤心",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "sad",
+      "relative_file": "ayano/spring_sad.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "藤崎绫乃",
+        "绫乃"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9895833333333334
+      },
+      "size_bytes": 1281248,
+      "approval": "selected_for_publication"
+    },
+    {
+      "id": "ayano__spring_angry",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "春季外出服·生气",
+      "outfit": "spring",
+      "season": "spring",
+      "expression": "angry",
+      "relative_file": "ayano/spring_angry.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "approved-spring-v3",
+      "aliases": [
+        "藤崎绫乃",
+        "绫乃"
+      ],
+      "transparent_background": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "foot_anchor": {
+        "x": 0.5,
+        "y": 0.9895833333333334
+      },
+      "size_bytes": 1283907,
+      "approval": "selected_for_publication"
+    }
+  ],
+  "compatibility_variants": {
+    "mio": {
+      "mio__work_neutral": "mio__spring_calm",
+      "mio__work_focused": "mio__spring_calm",
+      "mio__daily_amused": "mio__spring_happy",
+      "mio__daily_annoyed": "mio__spring_angry",
+      "mio__outing_bright": "mio__spring_happy",
+      "mio__outing_shy": "mio__spring_shy"
+    },
+    "ayano": {
+      "ayano__duty_neutral": "ayano__spring_calm",
+      "ayano__duty_concerned": "ayano__spring_sad",
+      "ayano__daily_playful": "ayano__spring_happy",
+      "ayano__daily_pout": "ayano__spring_angry",
+      "ayano__outing_happy": "ayano__spring_happy",
+      "ayano__outing_shy": "ayano__spring_shy"
+    },
+    "chizuru": {
+      "chizuru__kimono_welcome": "chizuru__spring_happy",
+      "chizuru__kimono_firm": "chizuru__spring_angry",
+      "chizuru__cooking_warm": "chizuru__spring_happy",
+      "chizuru__cooking_tired": "chizuru__spring_sad",
+      "chizuru__offduty_soft": "chizuru__spring_calm",
+      "chizuru__offduty_shy": "chizuru__spring_shy"
+    },
+    "miyu": {
+      "miyu__school_cheerful": "miyu__spring_happy",
+      "miyu__school_surprised": "miyu__spring_surprised",
+      "miyu__street_excited": "miyu__spring_happy",
+      "miyu__street_annoyed": "miyu__spring_angry",
+      "miyu__outing_radiant": "miyu__spring_happy",
+      "miyu__outing_shy": "miyu__spring_shy"
+    },
+    "shiraha": {
+      "shiraha__stage_poised": "shiraha__spring_calm",
+      "shiraha__stage_confident": "shiraha__spring_happy",
+      "shiraha__daily_reserved": "shiraha__spring_calm",
+      "shiraha__daily_unimpressed": "shiraha__spring_angry",
+      "shiraha__outing_relaxed": "shiraha__spring_happy",
+      "shiraha__outing_shy": "shiraha__spring_shy"
+    }
+  }
+}
