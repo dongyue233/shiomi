@@ -1334,6 +1334,246 @@
       "loading": "on-demand",
       "cache": "immutable",
       "transparent": true
+    },
+    "sprite.heroines.swim.shiraha__swim_calm": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/shiraha/swim_calm.png",
+      "mime": "image/png",
+      "bytes": 1278311,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "sprite.heroines.swim.shiraha__swim_happy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/shiraha/swim_happy.png",
+      "mime": "image/png",
+      "bytes": 1288219,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "sprite.heroines.swim.shiraha__swim_surprised": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/shiraha/swim_surprised.png",
+      "mime": "image/png",
+      "bytes": 1294603,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "sprite.heroines.swim.shiraha__swim_shy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/shiraha/swim_shy.png",
+      "mime": "image/png",
+      "bytes": 1282922,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "sprite.heroines.swim.shiraha__swim_sad": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/shiraha/swim_sad.png",
+      "mime": "image/png",
+      "bytes": 1280364,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "sprite.heroines.swim.shiraha__swim_angry": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/shiraha/swim_angry.png",
+      "mime": "image/png",
+      "bytes": 1284957,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "sprite.heroines.swim.chizuru__swim_calm": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/chizuru/swim_calm.png",
+      "mime": "image/png",
+      "bytes": 1213255,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "sprite.heroines.swim.chizuru__swim_happy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/chizuru/swim_happy.png",
+      "mime": "image/png",
+      "bytes": 1224005,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "sprite.heroines.swim.chizuru__swim_surprised": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/chizuru/swim_surprised.png",
+      "mime": "image/png",
+      "bytes": 1227556,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "sprite.heroines.swim.chizuru__swim_shy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/chizuru/swim_shy.png",
+      "mime": "image/png",
+      "bytes": 1219915,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "sprite.heroines.swim.chizuru__swim_sad": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/chizuru/swim_sad.png",
+      "mime": "image/png",
+      "bytes": 1218705,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "sprite.heroines.swim.chizuru__swim_angry": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/chizuru/swim_angry.png",
+      "mime": "image/png",
+      "bytes": 1230138,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "sprite.heroines.swim.mio__swim_calm": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/mio/swim_calm.png",
+      "mime": "image/png",
+      "bytes": 1301417,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "sprite.heroines.swim.mio__swim_happy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/mio/swim_happy.png",
+      "mime": "image/png",
+      "bytes": 1311894,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "sprite.heroines.swim.mio__swim_surprised": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/mio/swim_surprised.png",
+      "mime": "image/png",
+      "bytes": 1310747,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "sprite.heroines.swim.mio__swim_shy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/mio/swim_shy.png",
+      "mime": "image/png",
+      "bytes": 1315423,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "sprite.heroines.swim.mio__swim_sad": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/mio/swim_sad.png",
+      "mime": "image/png",
+      "bytes": 1304270,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "sprite.heroines.swim.mio__swim_angry": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/mio/swim_angry.png",
+      "mime": "image/png",
+      "bytes": 1316628,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "sprite.heroines.swim.ayano__swim_calm": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/ayano/swim_calm.png",
+      "mime": "image/png",
+      "bytes": 781628,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "sprite.heroines.swim.ayano__swim_happy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/ayano/swim_happy.png",
+      "mime": "image/png",
+      "bytes": 1244742,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "sprite.heroines.swim.ayano__swim_surprised": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/ayano/swim_surprised.png",
+      "mime": "image/png",
+      "bytes": 1255264,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "sprite.heroines.swim.ayano__swim_shy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/ayano/swim_shy.png",
+      "mime": "image/png",
+      "bytes": 1239635,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "sprite.heroines.swim.ayano__swim_sad": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/ayano/swim_sad.png",
+      "mime": "image/png",
+      "bytes": 1251060,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "sprite.heroines.swim.ayano__swim_angry": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/ayano/swim_angry.png",
+      "mime": "image/png",
+      "bytes": 1273612,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "sprite.heroines.swim.miyu__swim_calm": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/miyu/swim_calm.png",
+      "mime": "image/png",
+      "bytes": 952683,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "sprite.heroines.swim.miyu__swim_happy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/miyu/swim_happy.png",
+      "mime": "image/png",
+      "bytes": 1502669,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "sprite.heroines.swim.miyu__swim_surprised": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/miyu/swim_surprised.png",
+      "mime": "image/png",
+      "bytes": 1503911,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "sprite.heroines.swim.miyu__swim_shy": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/miyu/swim_shy.png",
+      "mime": "image/png",
+      "bytes": 1507751,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "sprite.heroines.swim.miyu__swim_sad": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/miyu/swim_sad.png",
+      "mime": "image/png",
+      "bytes": 1505877,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "sprite.heroines.swim.miyu__swim_angry": {
+      "type": "image",
+      "src": "assets/sprites/heroines-swim-v1/miyu/swim_angry.png",
+      "mime": "image/png",
+      "bytes": 1502135,
+      "loading": "on-demand",
+      "cache": "immutable"
     }
   },
   "collections": {

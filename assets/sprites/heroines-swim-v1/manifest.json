@@ -1,0 +1,707 @@
+{
+  "schema_version": 1,
+  "batch_id": "shiomi-heroines-swim-v1",
+  "asset_count": 30,
+  "outfit": "swim",
+  "characters": [
+    {
+      "id": "shiraha",
+      "name": "御影白羽",
+      "default_asset": "shiraha__swim_calm",
+      "variants": [
+        "shiraha__swim_calm",
+        "shiraha__swim_happy",
+        "shiraha__swim_surprised",
+        "shiraha__swim_shy",
+        "shiraha__swim_sad",
+        "shiraha__swim_angry"
+      ]
+    },
+    {
+      "id": "chizuru",
+      "name": "望月千鹤",
+      "default_asset": "chizuru__swim_calm",
+      "variants": [
+        "chizuru__swim_calm",
+        "chizuru__swim_happy",
+        "chizuru__swim_surprised",
+        "chizuru__swim_shy",
+        "chizuru__swim_sad",
+        "chizuru__swim_angry"
+      ]
+    },
+    {
+      "id": "mio",
+      "name": "水城澪",
+      "default_asset": "mio__swim_calm",
+      "variants": [
+        "mio__swim_calm",
+        "mio__swim_happy",
+        "mio__swim_surprised",
+        "mio__swim_shy",
+        "mio__swim_sad",
+        "mio__swim_angry"
+      ]
+    },
+    {
+      "id": "ayano",
+      "name": "藤崎绫乃",
+      "default_asset": "ayano__swim_calm",
+      "variants": [
+        "ayano__swim_calm",
+        "ayano__swim_happy",
+        "ayano__swim_surprised",
+        "ayano__swim_shy",
+        "ayano__swim_sad",
+        "ayano__swim_angry"
+      ]
+    },
+    {
+      "id": "miyu",
+      "name": "星野美羽",
+      "default_asset": "miyu__swim_calm",
+      "variants": [
+        "miyu__swim_calm",
+        "miyu__swim_happy",
+        "miyu__swim_surprised",
+        "miyu__swim_shy",
+        "miyu__swim_sad",
+        "miyu__swim_angry"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "shiraha__swim_calm",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "海边泳装·平静",
+      "outfit": "swim",
+      "expression": "calm",
+      "relative_file": "shiraha/swim_calm.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 1278311,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "shiraha__swim_happy",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "海边泳装·开心",
+      "outfit": "swim",
+      "expression": "happy",
+      "relative_file": "shiraha/swim_happy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 1288219,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "shiraha__swim_surprised",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "海边泳装·惊讶",
+      "outfit": "swim",
+      "expression": "surprised",
+      "relative_file": "shiraha/swim_surprised.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 1294603,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "shiraha__swim_shy",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "海边泳装·害羞",
+      "outfit": "swim",
+      "expression": "shy",
+      "relative_file": "shiraha/swim_shy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 1282922,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "shiraha__swim_sad",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "海边泳装·伤心",
+      "outfit": "swim",
+      "expression": "sad",
+      "relative_file": "shiraha/swim_sad.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 1280364,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "shiraha__swim_angry",
+      "character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "海边泳装·生气",
+      "outfit": "swim",
+      "expression": "angry",
+      "relative_file": "shiraha/swim_angry.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 1284957,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "chizuru__swim_calm",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "海边泳装·平静",
+      "outfit": "swim",
+      "expression": "calm",
+      "relative_file": "chizuru/swim_calm.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 1213255,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "chizuru__swim_happy",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "海边泳装·开心",
+      "outfit": "swim",
+      "expression": "happy",
+      "relative_file": "chizuru/swim_happy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 1224005,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "chizuru__swim_surprised",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "海边泳装·惊讶",
+      "outfit": "swim",
+      "expression": "surprised",
+      "relative_file": "chizuru/swim_surprised.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 1227556,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "chizuru__swim_shy",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "海边泳装·害羞",
+      "outfit": "swim",
+      "expression": "shy",
+      "relative_file": "chizuru/swim_shy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 1219915,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "chizuru__swim_sad",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "海边泳装·伤心",
+      "outfit": "swim",
+      "expression": "sad",
+      "relative_file": "chizuru/swim_sad.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 1218705,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "chizuru__swim_angry",
+      "character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "海边泳装·生气",
+      "outfit": "swim",
+      "expression": "angry",
+      "relative_file": "chizuru/swim_angry.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 1230138,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "mio__swim_calm",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "海边泳装·平静",
+      "outfit": "swim",
+      "expression": "calm",
+      "relative_file": "mio/swim_calm.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 1301417,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "mio__swim_happy",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "海边泳装·开心",
+      "outfit": "swim",
+      "expression": "happy",
+      "relative_file": "mio/swim_happy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 1311894,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "mio__swim_surprised",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "海边泳装·惊讶",
+      "outfit": "swim",
+      "expression": "surprised",
+      "relative_file": "mio/swim_surprised.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 1310747,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "mio__swim_shy",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "海边泳装·害羞",
+      "outfit": "swim",
+      "expression": "shy",
+      "relative_file": "mio/swim_shy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 1315423,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "mio__swim_sad",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "海边泳装·伤心",
+      "outfit": "swim",
+      "expression": "sad",
+      "relative_file": "mio/swim_sad.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 1304270,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "mio__swim_angry",
+      "character_id": "mio",
+      "name": "水城澪",
+      "label": "海边泳装·生气",
+      "outfit": "swim",
+      "expression": "angry",
+      "relative_file": "mio/swim_angry.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 1316628,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "ayano__swim_calm",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "海边泳装·平静",
+      "outfit": "swim",
+      "expression": "calm",
+      "relative_file": "ayano/swim_calm.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 781628,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "ayano__swim_happy",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "海边泳装·开心",
+      "outfit": "swim",
+      "expression": "happy",
+      "relative_file": "ayano/swim_happy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 1244742,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "ayano__swim_surprised",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "海边泳装·惊讶",
+      "outfit": "swim",
+      "expression": "surprised",
+      "relative_file": "ayano/swim_surprised.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 1255264,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "ayano__swim_shy",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "海边泳装·害羞",
+      "outfit": "swim",
+      "expression": "shy",
+      "relative_file": "ayano/swim_shy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 1239635,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "ayano__swim_sad",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "海边泳装·伤心",
+      "outfit": "swim",
+      "expression": "sad",
+      "relative_file": "ayano/swim_sad.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 1251060,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "ayano__swim_angry",
+      "character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "海边泳装·生气",
+      "outfit": "swim",
+      "expression": "angry",
+      "relative_file": "ayano/swim_angry.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 1273612,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "miyu__swim_calm",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "海边泳装·平静",
+      "outfit": "swim",
+      "expression": "calm",
+      "relative_file": "miyu/swim_calm.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 952683,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "miyu__swim_happy",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "海边泳装·开心",
+      "outfit": "swim",
+      "expression": "happy",
+      "relative_file": "miyu/swim_happy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 1502669,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "miyu__swim_surprised",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "海边泳装·惊讶",
+      "outfit": "swim",
+      "expression": "surprised",
+      "relative_file": "miyu/swim_surprised.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 1503911,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "miyu__swim_shy",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "海边泳装·害羞",
+      "outfit": "swim",
+      "expression": "shy",
+      "relative_file": "miyu/swim_shy.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 1507751,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "miyu__swim_sad",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "海边泳装·伤心",
+      "outfit": "swim",
+      "expression": "sad",
+      "relative_file": "miyu/swim_sad.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 1505877,
+      "approval": "publication_requested"
+    },
+    {
+      "id": "miyu__swim_angry",
+      "character_id": "miyu",
+      "name": "星野美羽",
+      "label": "海边泳装·生气",
+      "outfit": "swim",
+      "expression": "angry",
+      "relative_file": "miyu/swim_angry.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "revision": "swim-v1",
+      "transparent_background": true,
+      "barefoot": true,
+      "render_mode": "sprite",
+      "object_fit": "contain",
+      "object_position": "50% 100%",
+      "size_bytes": 1502135,
+      "approval": "publication_requested"
+    }
+  ],
+  "usage": "手动选择泳装或正文 sprites 明确指定 swim_*；普通场景继续按剧情日期选择四季服装。",
+  "sources": "白羽、千鹤、澪复用已有18张；绫乃、美羽以用户指定母版及本轮差分组成12张。"
+}
