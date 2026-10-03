@@ -2325,9 +2325,9 @@
     }
   },
   "latest_character_card": {
-    "version": "1.33.59",
-    "json": "character-cards/latest.json",
-    "png": "character-cards/latest.png",
-    "reader_version": "0.10.6"
+    "version": "1.33.61",
+    "json": "character-cards/v1.33.61/shiomi.json",
+    "png": "character-cards/v1.33.61/shiomi.png",
+    "reader_version": "0.10.8"
   }
 }
