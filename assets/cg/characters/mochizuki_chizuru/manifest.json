@@ -1,0 +1,165 @@
+{
+  "schema_version": "2.0",
+  "character_id": "mochizuki_chizuru",
+  "character_name": "望月千鹤",
+  "cover": "../../beach/heroines-v1/chizuru/01.png",
+  "category_order": {
+    "sfw": [
+      "beach"
+    ],
+    "nsfw": []
+  },
+  "category_labels": {
+    "beach": "海边日常"
+  },
+  "counts": {
+    "gallery": 5,
+    "reference": 0,
+    "total_assets": 5,
+    "by_category": {
+      "sfw/beach": 5
+    }
+  },
+  "images": [
+    {
+      "id": "chizuru_beach_01",
+      "title": "伞下坐着休息",
+      "rating": "sfw",
+      "category": "beach",
+      "category_label": "海边日常",
+      "original": "../../beach/heroines-v1/chizuru/01.png",
+      "thumb": "../../beach/heroines-v1/chizuru/01.png",
+      "condition": {
+        "all_tags": [
+          "chizuru_beach_01"
+        ]
+      },
+      "unlock": {
+        "all_tags": [
+          "chizuru_beach_01"
+        ]
+      },
+      "unlock_mode": "manual_tag",
+      "source_group": "beach-v1",
+      "scene_group": "chizuru_beach_01",
+      "tags": [
+        "海边",
+        "千鹤",
+        "伞下坐着休息"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "chizuru_beach_02",
+      "title": "岸边踏水",
+      "rating": "sfw",
+      "category": "beach",
+      "category_label": "海边日常",
+      "original": "../../beach/heroines-v1/chizuru/02.png",
+      "thumb": "../../beach/heroines-v1/chizuru/02.png",
+      "condition": {
+        "all_tags": [
+          "chizuru_beach_02"
+        ]
+      },
+      "unlock": {
+        "all_tags": [
+          "chizuru_beach_02"
+        ]
+      },
+      "unlock_mode": "manual_tag",
+      "source_group": "beach-v1",
+      "scene_group": "chizuru_beach_02",
+      "tags": [
+        "海边",
+        "千鹤",
+        "岸边踏水"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "chizuru_beach_03",
+      "title": "水中扶着游泳圈",
+      "rating": "sfw",
+      "category": "beach",
+      "category_label": "海边日常",
+      "original": "../../beach/heroines-v1/chizuru/03.png",
+      "thumb": "../../beach/heroines-v1/chizuru/03.png",
+      "condition": {
+        "all_tags": [
+          "chizuru_beach_03"
+        ]
+      },
+      "unlock": {
+        "all_tags": [
+          "chizuru_beach_03"
+        ]
+      },
+      "unlock_mode": "manual_tag",
+      "source_group": "beach-v1",
+      "scene_group": "chizuru_beach_03",
+      "tags": [
+        "海边",
+        "千鹤",
+        "水中扶着游泳圈"
+      ],
+      "priority": 3
+    },
+    {
+      "id": "chizuru_beach_04",
+      "title": "躺椅上休息",
+      "rating": "sfw",
+      "category": "beach",
+      "category_label": "海边日常",
+      "original": "../../beach/heroines-v1/chizuru/04.png",
+      "thumb": "../../beach/heroines-v1/chizuru/04.png",
+      "condition": {
+        "all_tags": [
+          "chizuru_beach_04"
+        ]
+      },
+      "unlock": {
+        "all_tags": [
+          "chizuru_beach_04"
+        ]
+      },
+      "unlock_mode": "manual_tag",
+      "source_group": "beach-v1",
+      "scene_group": "chizuru_beach_04",
+      "tags": [
+        "海边",
+        "千鹤",
+        "躺椅上休息"
+      ],
+      "priority": 4
+    },
+    {
+      "id": "chizuru_beach_05",
+      "title": "傍晚沿海岸散步",
+      "rating": "sfw",
+      "category": "beach",
+      "category_label": "海边日常",
+      "original": "../../beach/heroines-v1/chizuru/05.png",
+      "thumb": "../../beach/heroines-v1/chizuru/05.png",
+      "condition": {
+        "all_tags": [
+          "chizuru_beach_05"
+        ]
+      },
+      "unlock": {
+        "all_tags": [
+          "chizuru_beach_05"
+        ]
+      },
+      "unlock_mode": "manual_tag",
+      "source_group": "beach-v1",
+      "scene_group": "chizuru_beach_05",
+      "tags": [
+        "海边",
+        "千鹤",
+        "傍晚沿海岸散步"
+      ],
+      "priority": 5
+    }
+  ]
+}

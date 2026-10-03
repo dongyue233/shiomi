@@ -9,7 +9,8 @@
       "daily",
       "work",
       "outfit",
-      "swimwear"
+      "swimwear",
+      "beach"
     ],
     "nsfw": [
       "underwear",
@@ -36,12 +37,13 @@
     "titjob": "乳交",
     "missionary": "传教士",
     "doggy": "后入",
-    "other": "其它"
+    "other": "其它",
+    "beach": "海边日常"
   },
   "counts": {
-    "gallery": 185,
+    "gallery": 190,
     "reference": 1,
-    "total_assets": 186,
+    "total_assets": 191,
     "by_category": {
       "sfw/daily": 14,
       "sfw/outfit": 55,
@@ -53,7 +55,8 @@
       "nsfw/titjob": 12,
       "nsfw/missionary": 13,
       "nsfw/doggy": 21,
-      "nsfw/other": 39
+      "nsfw/other": 39,
+      "sfw/beach": 5
     }
   },
   "images": [
@@ -5062,6 +5065,146 @@
         "御影白羽在场",
         "日常"
       ]
+    },
+    {
+      "id": "shiraha_beach_01",
+      "title": "海风中回头",
+      "rating": "sfw",
+      "category": "beach",
+      "category_label": "海边日常",
+      "original": "../../beach/heroines-v1/shiraha/01.png",
+      "thumb": "../../beach/heroines-v1/shiraha/01.png",
+      "condition": {
+        "all_tags": [
+          "shiraha_beach_01"
+        ]
+      },
+      "unlock": {
+        "all_tags": [
+          "shiraha_beach_01"
+        ]
+      },
+      "unlock_mode": "manual_tag",
+      "source_group": "beach-v1",
+      "scene_group": "shiraha_beach_01",
+      "tags": [
+        "海边",
+        "白羽",
+        "海风中回头"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "shiraha_beach_02",
+      "title": "发现一枚贝壳",
+      "rating": "sfw",
+      "category": "beach",
+      "category_label": "海边日常",
+      "original": "../../beach/heroines-v1/shiraha/02.png",
+      "thumb": "../../beach/heroines-v1/shiraha/02.png",
+      "condition": {
+        "all_tags": [
+          "shiraha_beach_02"
+        ]
+      },
+      "unlock": {
+        "all_tags": [
+          "shiraha_beach_02"
+        ]
+      },
+      "unlock_mode": "manual_tag",
+      "source_group": "beach-v1",
+      "scene_group": "shiraha_beach_02",
+      "tags": [
+        "海边",
+        "白羽",
+        "发现一枚贝壳"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "shiraha_beach_03",
+      "title": "仰视·伸手扶你起身",
+      "rating": "sfw",
+      "category": "beach",
+      "category_label": "海边日常",
+      "original": "../../beach/heroines-v1/shiraha/03.png",
+      "thumb": "../../beach/heroines-v1/shiraha/03.png",
+      "condition": {
+        "all_tags": [
+          "shiraha_beach_03"
+        ]
+      },
+      "unlock": {
+        "all_tags": [
+          "shiraha_beach_03"
+        ]
+      },
+      "unlock_mode": "manual_tag",
+      "source_group": "beach-v1",
+      "scene_group": "shiraha_beach_03",
+      "tags": [
+        "海边",
+        "白羽",
+        "仰视·伸手扶你起身"
+      ],
+      "priority": 3
+    },
+    {
+      "id": "shiraha_beach_04",
+      "title": "伞下接过毛巾",
+      "rating": "sfw",
+      "category": "beach",
+      "category_label": "海边日常",
+      "original": "../../beach/heroines-v1/shiraha/04.png",
+      "thumb": "../../beach/heroines-v1/shiraha/04.png",
+      "condition": {
+        "all_tags": [
+          "shiraha_beach_04"
+        ]
+      },
+      "unlock": {
+        "all_tags": [
+          "shiraha_beach_04"
+        ]
+      },
+      "unlock_mode": "manual_tag",
+      "source_group": "beach-v1",
+      "scene_group": "shiraha_beach_04",
+      "tags": [
+        "海边",
+        "白羽",
+        "伞下接过毛巾"
+      ],
+      "priority": 4
+    },
+    {
+      "id": "shiraha_beach_05",
+      "title": "夕阳下短暂对视",
+      "rating": "sfw",
+      "category": "beach",
+      "category_label": "海边日常",
+      "original": "../../beach/heroines-v1/shiraha/05.png",
+      "thumb": "../../beach/heroines-v1/shiraha/05.png",
+      "condition": {
+        "all_tags": [
+          "shiraha_beach_05"
+        ]
+      },
+      "unlock": {
+        "all_tags": [
+          "shiraha_beach_05"
+        ]
+      },
+      "unlock_mode": "manual_tag",
+      "source_group": "beach-v1",
+      "scene_group": "shiraha_beach_05",
+      "tags": [
+        "海边",
+        "白羽",
+        "夕阳下短暂对视"
+      ],
+      "priority": 5
     }
   ],
   "unlock_policy": {

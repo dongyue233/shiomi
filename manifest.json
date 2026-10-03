@@ -1,6 +1,6 @@
 {
   "schema": "shiomi_assets_v1",
-  "version": "0.6.0",
+  "version": "2026-10-03-beach-v1",
   "baseUrl": "./",
   "assets": {
     "map.city.base": {
@@ -1574,6 +1574,206 @@
       "bytes": 1502135,
       "loading": "on-demand",
       "cache": "immutable"
+    },
+    "cg.beach.miyu_beach_01": {
+      "type": "image",
+      "src": "assets/cg/beach/heroines-v1/miyu/01.png",
+      "mime": "image/png",
+      "bytes": 2354913,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.beach.miyu_beach_02": {
+      "type": "image",
+      "src": "assets/cg/beach/heroines-v1/miyu/02.png",
+      "mime": "image/png",
+      "bytes": 2453500,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.beach.miyu_beach_03": {
+      "type": "image",
+      "src": "assets/cg/beach/heroines-v1/miyu/03.png",
+      "mime": "image/png",
+      "bytes": 2604581,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.beach.miyu_beach_04": {
+      "type": "image",
+      "src": "assets/cg/beach/heroines-v1/miyu/04.png",
+      "mime": "image/png",
+      "bytes": 2251226,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.beach.miyu_beach_05": {
+      "type": "image",
+      "src": "assets/cg/beach/heroines-v1/miyu/05.png",
+      "mime": "image/png",
+      "bytes": 2267260,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.beach.ayano_beach_01": {
+      "type": "image",
+      "src": "assets/cg/beach/heroines-v1/ayano/01.png",
+      "mime": "image/png",
+      "bytes": 2385484,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.beach.ayano_beach_02": {
+      "type": "image",
+      "src": "assets/cg/beach/heroines-v1/ayano/02.png",
+      "mime": "image/png",
+      "bytes": 2006610,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.beach.ayano_beach_03": {
+      "type": "image",
+      "src": "assets/cg/beach/heroines-v1/ayano/03.png",
+      "mime": "image/png",
+      "bytes": 2463332,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.beach.ayano_beach_04": {
+      "type": "image",
+      "src": "assets/cg/beach/heroines-v1/ayano/04.png",
+      "mime": "image/png",
+      "bytes": 2204891,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.beach.ayano_beach_05": {
+      "type": "image",
+      "src": "assets/cg/beach/heroines-v1/ayano/05.png",
+      "mime": "image/png",
+      "bytes": 2105709,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.beach.shiraha_beach_01": {
+      "type": "image",
+      "src": "assets/cg/beach/heroines-v1/shiraha/01.png",
+      "mime": "image/png",
+      "bytes": 2414626,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.beach.shiraha_beach_02": {
+      "type": "image",
+      "src": "assets/cg/beach/heroines-v1/shiraha/02.png",
+      "mime": "image/png",
+      "bytes": 2543477,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.beach.shiraha_beach_03": {
+      "type": "image",
+      "src": "assets/cg/beach/heroines-v1/shiraha/03.png",
+      "mime": "image/png",
+      "bytes": 2304774,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.beach.shiraha_beach_04": {
+      "type": "image",
+      "src": "assets/cg/beach/heroines-v1/shiraha/04.png",
+      "mime": "image/png",
+      "bytes": 2276671,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.beach.shiraha_beach_05": {
+      "type": "image",
+      "src": "assets/cg/beach/heroines-v1/shiraha/05.png",
+      "mime": "image/png",
+      "bytes": 2375735,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.beach.mio_beach_01": {
+      "type": "image",
+      "src": "assets/cg/beach/heroines-v1/mio/01.png",
+      "mime": "image/png",
+      "bytes": 2352758,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.beach.mio_beach_02": {
+      "type": "image",
+      "src": "assets/cg/beach/heroines-v1/mio/02.png",
+      "mime": "image/png",
+      "bytes": 2199740,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.beach.mio_beach_03": {
+      "type": "image",
+      "src": "assets/cg/beach/heroines-v1/mio/03.png",
+      "mime": "image/png",
+      "bytes": 2651803,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.beach.mio_beach_04": {
+      "type": "image",
+      "src": "assets/cg/beach/heroines-v1/mio/04.png",
+      "mime": "image/png",
+      "bytes": 2242444,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.beach.mio_beach_05": {
+      "type": "image",
+      "src": "assets/cg/beach/heroines-v1/mio/05.png",
+      "mime": "image/png",
+      "bytes": 2420921,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.beach.chizuru_beach_01": {
+      "type": "image",
+      "src": "assets/cg/beach/heroines-v1/chizuru/01.png",
+      "mime": "image/png",
+      "bytes": 2529321,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.beach.chizuru_beach_02": {
+      "type": "image",
+      "src": "assets/cg/beach/heroines-v1/chizuru/02.png",
+      "mime": "image/png",
+      "bytes": 2539321,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.beach.chizuru_beach_03": {
+      "type": "image",
+      "src": "assets/cg/beach/heroines-v1/chizuru/03.png",
+      "mime": "image/png",
+      "bytes": 2331092,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.beach.chizuru_beach_04": {
+      "type": "image",
+      "src": "assets/cg/beach/heroines-v1/chizuru/04.png",
+      "mime": "image/png",
+      "bytes": 2454662,
+      "loading": "on-demand",
+      "cache": "immutable"
+    },
+    "cg.beach.chizuru_beach_05": {
+      "type": "image",
+      "src": "assets/cg/beach/heroines-v1/chizuru/05.png",
+      "mime": "image/png",
+      "bytes": 2555029,
+      "loading": "on-demand",
+      "cache": "immutable"
     }
   },
   "collections": {
@@ -2041,6 +2241,87 @@
           "asset_commit": "a2550516f0d441f53254519eb188d3261f53b5ae"
         }
       }
+    },
+    "beach_cg": {
+      "manifest": "assets/cg/beach/heroines-v1/manifest.json",
+      "asset_count": 25,
+      "characters": [
+        {
+          "id": "miyu",
+          "name": "星野美羽",
+          "aliases": [
+            "星野美羽",
+            "美羽"
+          ],
+          "assets": [
+            "miyu_beach_01",
+            "miyu_beach_02",
+            "miyu_beach_03",
+            "miyu_beach_04",
+            "miyu_beach_05"
+          ]
+        },
+        {
+          "id": "ayano",
+          "name": "藤崎绫乃",
+          "aliases": [
+            "藤崎绫乃",
+            "绫乃"
+          ],
+          "assets": [
+            "ayano_beach_01",
+            "ayano_beach_02",
+            "ayano_beach_03",
+            "ayano_beach_04",
+            "ayano_beach_05"
+          ]
+        },
+        {
+          "id": "shiraha",
+          "name": "御影白羽",
+          "aliases": [
+            "御影白羽",
+            "白羽"
+          ],
+          "assets": [
+            "shiraha_beach_01",
+            "shiraha_beach_02",
+            "shiraha_beach_03",
+            "shiraha_beach_04",
+            "shiraha_beach_05"
+          ]
+        },
+        {
+          "id": "mio",
+          "name": "水城澪",
+          "aliases": [
+            "水城澪",
+            "澪"
+          ],
+          "assets": [
+            "mio_beach_01",
+            "mio_beach_02",
+            "mio_beach_03",
+            "mio_beach_04",
+            "mio_beach_05"
+          ]
+        },
+        {
+          "id": "chizuru",
+          "name": "望月千鹤",
+          "aliases": [
+            "望月千鹤",
+            "千鹤"
+          ],
+          "assets": [
+            "chizuru_beach_01",
+            "chizuru_beach_02",
+            "chizuru_beach_03",
+            "chizuru_beach_04",
+            "chizuru_beach_05"
+          ]
+        }
+      ]
     }
   },
   "latest_character_card": {

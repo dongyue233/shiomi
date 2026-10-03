@@ -1,0 +1,610 @@
+{
+  "schema_version": 1,
+  "batch_id": "shiomi-heroines-beach-v1",
+  "asset_count": 25,
+  "characters": [
+    {
+      "id": "miyu",
+      "name": "星野美羽",
+      "aliases": [
+        "星野美羽",
+        "美羽"
+      ],
+      "assets": [
+        "miyu_beach_01",
+        "miyu_beach_02",
+        "miyu_beach_03",
+        "miyu_beach_04",
+        "miyu_beach_05"
+      ]
+    },
+    {
+      "id": "ayano",
+      "name": "藤崎绫乃",
+      "aliases": [
+        "藤崎绫乃",
+        "绫乃"
+      ],
+      "assets": [
+        "ayano_beach_01",
+        "ayano_beach_02",
+        "ayano_beach_03",
+        "ayano_beach_04",
+        "ayano_beach_05"
+      ]
+    },
+    {
+      "id": "shiraha",
+      "name": "御影白羽",
+      "aliases": [
+        "御影白羽",
+        "白羽"
+      ],
+      "assets": [
+        "shiraha_beach_01",
+        "shiraha_beach_02",
+        "shiraha_beach_03",
+        "shiraha_beach_04",
+        "shiraha_beach_05"
+      ]
+    },
+    {
+      "id": "mio",
+      "name": "水城澪",
+      "aliases": [
+        "水城澪",
+        "澪"
+      ],
+      "assets": [
+        "mio_beach_01",
+        "mio_beach_02",
+        "mio_beach_03",
+        "mio_beach_04",
+        "mio_beach_05"
+      ]
+    },
+    {
+      "id": "chizuru",
+      "name": "望月千鹤",
+      "aliases": [
+        "望月千鹤",
+        "千鹤"
+      ],
+      "assets": [
+        "chizuru_beach_01",
+        "chizuru_beach_02",
+        "chizuru_beach_03",
+        "chizuru_beach_04",
+        "chizuru_beach_05"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "miyu_beach_01",
+      "character_id": "hoshino_miyu",
+      "sprite_character_id": "miyu",
+      "name": "星野美羽",
+      "label": "抵达沙滩·准备脱袜",
+      "sequence": 1,
+      "file": "assets/cg/beach/heroines-v1/miyu/01.png",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "render_mode": "standalone",
+      "object_fit": "contain",
+      "object_position": "50% 50%",
+      "rating": "sfw",
+      "category": "beach",
+      "approval": "approved_2026-10-03",
+      "size_bytes": 2354913,
+      "source_name": "美羽/01_抵达沙滩_准备脱黑袜.png"
+    },
+    {
+      "id": "miyu_beach_02",
+      "character_id": "hoshino_miyu",
+      "sprite_character_id": "miyu",
+      "name": "星野美羽",
+      "label": "防晒邀请",
+      "sequence": 2,
+      "file": "assets/cg/beach/heroines-v1/miyu/02.png",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "render_mode": "standalone",
+      "object_fit": "contain",
+      "object_position": "50% 50%",
+      "rating": "sfw",
+      "category": "beach",
+      "approval": "approved_2026-10-03",
+      "size_bytes": 2453500,
+      "source_name": "美羽/02_防晒邀请.png"
+    },
+    {
+      "id": "miyu_beach_03",
+      "character_id": "hoshino_miyu",
+      "sprite_character_id": "miyu",
+      "name": "星野美羽",
+      "label": "浅海戏水",
+      "sequence": 3,
+      "file": "assets/cg/beach/heroines-v1/miyu/03.png",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "render_mode": "standalone",
+      "object_fit": "contain",
+      "object_position": "50% 50%",
+      "rating": "sfw",
+      "category": "beach",
+      "approval": "approved_2026-10-03",
+      "size_bytes": 2604581,
+      "source_name": "美羽/03_浅海戏水.png"
+    },
+    {
+      "id": "miyu_beach_04",
+      "character_id": "hoshino_miyu",
+      "sprite_character_id": "miyu",
+      "name": "星野美羽",
+      "label": "面对面吃刨冰",
+      "sequence": 4,
+      "file": "assets/cg/beach/heroines-v1/miyu/04.png",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "render_mode": "standalone",
+      "object_fit": "contain",
+      "object_position": "50% 50%",
+      "rating": "sfw",
+      "category": "beach",
+      "approval": "approved_2026-10-03",
+      "size_bytes": 2251226,
+      "source_name": "美羽/04_面对面吃刨冰.png"
+    },
+    {
+      "id": "miyu_beach_05",
+      "character_id": "hoshino_miyu",
+      "sprite_character_id": "miyu",
+      "name": "星野美羽",
+      "label": "分享刨冰",
+      "sequence": 5,
+      "file": "assets/cg/beach/heroines-v1/miyu/05.png",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "render_mode": "standalone",
+      "object_fit": "contain",
+      "object_position": "50% 50%",
+      "rating": "sfw",
+      "category": "beach",
+      "approval": "approved_2026-10-03",
+      "size_bytes": 2267260,
+      "source_name": "美羽/05_抬眼分享刨冰.png"
+    },
+    {
+      "id": "ayano_beach_01",
+      "character_id": "fujisaki_ayano",
+      "sprite_character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "海风中铺沙滩垫",
+      "sequence": 1,
+      "file": "assets/cg/beach/heroines-v1/ayano/01.png",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "render_mode": "standalone",
+      "object_fit": "contain",
+      "object_position": "50% 50%",
+      "rating": "sfw",
+      "category": "beach",
+      "approval": "approved_2026-10-03",
+      "size_bytes": 2385484,
+      "source_name": "绫乃/01_海风中求助的一瞬.png"
+    },
+    {
+      "id": "ayano_beach_02",
+      "character_id": "fujisaki_ayano",
+      "sprite_character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "沙滩垫坐姿·低视角",
+      "sequence": 2,
+      "file": "assets/cg/beach/heroines-v1/ayano/02.png",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "render_mode": "standalone",
+      "object_fit": "contain",
+      "object_position": "50% 50%",
+      "rating": "sfw",
+      "category": "beach",
+      "approval": "approved_2026-10-03",
+      "size_bytes": 2006610,
+      "source_name": "绫乃/02_沙滩垫坐姿_低视角.png"
+    },
+    {
+      "id": "ayano_beach_03",
+      "character_id": "fujisaki_ayano",
+      "sprite_character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "海边泼水",
+      "sequence": 3,
+      "file": "assets/cg/beach/heroines-v1/ayano/03.png",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "render_mode": "standalone",
+      "object_fit": "contain",
+      "object_position": "50% 50%",
+      "rating": "sfw",
+      "category": "beach",
+      "approval": "approved_2026-10-03",
+      "size_bytes": 2463332,
+      "source_name": "绫乃/03_海边泼水的俏皮瞬间.png"
+    },
+    {
+      "id": "ayano_beach_04",
+      "character_id": "fujisaki_ayano",
+      "sprite_character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "递冰镇汽水",
+      "sequence": 4,
+      "file": "assets/cg/beach/heroines-v1/ayano/04.png",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "render_mode": "standalone",
+      "object_fit": "contain",
+      "object_position": "50% 50%",
+      "rating": "sfw",
+      "category": "beach",
+      "approval": "approved_2026-10-03",
+      "size_bytes": 2204891,
+      "source_name": "绫乃/04_递来的冰镇汽水.png"
+    },
+    {
+      "id": "ayano_beach_05",
+      "character_id": "fujisaki_ayano",
+      "sprite_character_id": "ayano",
+      "name": "藤崎绫乃",
+      "label": "轻笑举瓶",
+      "sequence": 5,
+      "file": "assets/cg/beach/heroines-v1/ayano/05.png",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "render_mode": "standalone",
+      "object_fit": "contain",
+      "object_position": "50% 50%",
+      "rating": "sfw",
+      "category": "beach",
+      "approval": "approved_2026-10-03",
+      "size_bytes": 2105709,
+      "source_name": "绫乃/05_轻笑举瓶瞬间.png"
+    },
+    {
+      "id": "shiraha_beach_01",
+      "character_id": "mikage_shiraha",
+      "sprite_character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "海风中回头",
+      "sequence": 1,
+      "file": "assets/cg/beach/heroines-v1/shiraha/01.png",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "render_mode": "standalone",
+      "object_fit": "contain",
+      "object_position": "50% 50%",
+      "rating": "sfw",
+      "category": "beach",
+      "approval": "approved_2026-10-03",
+      "size_bytes": 2414626,
+      "source_name": "海风中的白羽回眸.png"
+    },
+    {
+      "id": "shiraha_beach_02",
+      "character_id": "mikage_shiraha",
+      "sprite_character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "发现一枚贝壳",
+      "sequence": 2,
+      "file": "assets/cg/beach/heroines-v1/shiraha/02.png",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "render_mode": "standalone",
+      "object_fit": "contain",
+      "object_position": "50% 50%",
+      "rating": "sfw",
+      "category": "beach",
+      "approval": "approved_2026-10-03",
+      "size_bytes": 2543477,
+      "source_name": "白羽发现潮边贝壳.png"
+    },
+    {
+      "id": "shiraha_beach_03",
+      "character_id": "mikage_shiraha",
+      "sprite_character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "仰视·伸手扶你起身",
+      "sequence": 3,
+      "file": "assets/cg/beach/heroines-v1/shiraha/03.png",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "render_mode": "standalone",
+      "object_fit": "contain",
+      "object_position": "50% 50%",
+      "rating": "sfw",
+      "category": "beach",
+      "approval": "approved_2026-10-03",
+      "size_bytes": 2304774,
+      "source_name": "海滩上的援手.png"
+    },
+    {
+      "id": "shiraha_beach_04",
+      "character_id": "mikage_shiraha",
+      "sprite_character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "伞下接过毛巾",
+      "sequence": 4,
+      "file": "assets/cg/beach/heroines-v1/shiraha/04.png",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "render_mode": "standalone",
+      "object_fit": "contain",
+      "object_position": "50% 50%",
+      "rating": "sfw",
+      "category": "beach",
+      "approval": "approved_2026-10-03",
+      "size_bytes": 2276671,
+      "source_name": "遮阳伞下，白羽接过毛巾.png"
+    },
+    {
+      "id": "shiraha_beach_05",
+      "character_id": "mikage_shiraha",
+      "sprite_character_id": "shiraha",
+      "name": "御影白羽",
+      "label": "夕阳下短暂对视",
+      "sequence": 5,
+      "file": "assets/cg/beach/heroines-v1/shiraha/05.png",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "render_mode": "standalone",
+      "object_fit": "contain",
+      "object_position": "50% 50%",
+      "rating": "sfw",
+      "category": "beach",
+      "approval": "approved_2026-10-03",
+      "size_bytes": 2375735,
+      "source_name": "暮色海岸的短暂对视.png"
+    },
+    {
+      "id": "mio_beach_01",
+      "character_id": "mizuki_mio",
+      "sprite_character_id": "mio",
+      "name": "水城澪",
+      "label": "岸边站立回望",
+      "sequence": 1,
+      "file": "assets/cg/beach/heroines-v1/mio/01.png",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "render_mode": "standalone",
+      "object_fit": "contain",
+      "object_position": "50% 50%",
+      "rating": "sfw",
+      "category": "beach",
+      "approval": "approved_2026-10-03",
+      "size_bytes": 2352758,
+      "source_name": "澪/01_岸边站立回望.png"
+    },
+    {
+      "id": "mio_beach_02",
+      "character_id": "mizuki_mio",
+      "sprite_character_id": "mio",
+      "name": "水城澪",
+      "label": "下水前整理头发",
+      "sequence": 2,
+      "file": "assets/cg/beach/heroines-v1/mio/02.png",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "render_mode": "standalone",
+      "object_fit": "contain",
+      "object_position": "50% 50%",
+      "rating": "sfw",
+      "category": "beach",
+      "approval": "approved_2026-10-03",
+      "size_bytes": 2199740,
+      "source_name": "澪/02_下水前整理头发.png"
+    },
+    {
+      "id": "mio_beach_03",
+      "character_id": "mizuki_mio",
+      "sprite_character_id": "mio",
+      "name": "水城澪",
+      "label": "浅海中玩水",
+      "sequence": 3,
+      "file": "assets/cg/beach/heroines-v1/mio/03.png",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "render_mode": "standalone",
+      "object_fit": "contain",
+      "object_position": "50% 50%",
+      "rating": "sfw",
+      "category": "beach",
+      "approval": "approved_2026-10-03",
+      "size_bytes": 2651803,
+      "source_name": "澪/03_浅海中玩水.png"
+    },
+    {
+      "id": "mio_beach_04",
+      "character_id": "mizuki_mio",
+      "sprite_character_id": "mio",
+      "name": "水城澪",
+      "label": "海之家喝冷饮",
+      "sequence": 4,
+      "file": "assets/cg/beach/heroines-v1/mio/04.png",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "render_mode": "standalone",
+      "object_fit": "contain",
+      "object_position": "50% 50%",
+      "rating": "sfw",
+      "category": "beach",
+      "approval": "approved_2026-10-03",
+      "size_bytes": 2242444,
+      "source_name": "澪/04_海之家喝冷饮.png"
+    },
+    {
+      "id": "mio_beach_05",
+      "character_id": "mizuki_mio",
+      "sprite_character_id": "mio",
+      "name": "水城澪",
+      "label": "沙滩上坐着看海",
+      "sequence": 5,
+      "file": "assets/cg/beach/heroines-v1/mio/05.png",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "render_mode": "standalone",
+      "object_fit": "contain",
+      "object_position": "50% 50%",
+      "rating": "sfw",
+      "category": "beach",
+      "approval": "approved_2026-10-03",
+      "size_bytes": 2420921,
+      "source_name": "澪/05_沙滩上坐着看海.png"
+    },
+    {
+      "id": "chizuru_beach_01",
+      "character_id": "mochizuki_chizuru",
+      "sprite_character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "伞下坐着休息",
+      "sequence": 1,
+      "file": "assets/cg/beach/heroines-v1/chizuru/01.png",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "render_mode": "standalone",
+      "object_fit": "contain",
+      "object_position": "50% 50%",
+      "rating": "sfw",
+      "category": "beach",
+      "approval": "approved_2026-10-03",
+      "size_bytes": 2529321,
+      "source_name": "千鹤/01_伞下坐着休息.png"
+    },
+    {
+      "id": "chizuru_beach_02",
+      "character_id": "mochizuki_chizuru",
+      "sprite_character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "岸边踏水",
+      "sequence": 2,
+      "file": "assets/cg/beach/heroines-v1/chizuru/02.png",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "render_mode": "standalone",
+      "object_fit": "contain",
+      "object_position": "50% 50%",
+      "rating": "sfw",
+      "category": "beach",
+      "approval": "approved_2026-10-03",
+      "size_bytes": 2539321,
+      "source_name": "千鹤/02_岸边踏水.png"
+    },
+    {
+      "id": "chizuru_beach_03",
+      "character_id": "mochizuki_chizuru",
+      "sprite_character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "水中扶着游泳圈",
+      "sequence": 3,
+      "file": "assets/cg/beach/heroines-v1/chizuru/03.png",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "render_mode": "standalone",
+      "object_fit": "contain",
+      "object_position": "50% 50%",
+      "rating": "sfw",
+      "category": "beach",
+      "approval": "approved_2026-10-03",
+      "size_bytes": 2331092,
+      "source_name": "千鹤/03_水中扶着游泳圈.png"
+    },
+    {
+      "id": "chizuru_beach_04",
+      "character_id": "mochizuki_chizuru",
+      "sprite_character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "躺椅上休息",
+      "sequence": 4,
+      "file": "assets/cg/beach/heroines-v1/chizuru/04.png",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "render_mode": "standalone",
+      "object_fit": "contain",
+      "object_position": "50% 50%",
+      "rating": "sfw",
+      "category": "beach",
+      "approval": "approved_2026-10-03",
+      "size_bytes": 2454662,
+      "source_name": "千鹤/04_躺椅上休息.png"
+    },
+    {
+      "id": "chizuru_beach_05",
+      "character_id": "mochizuki_chizuru",
+      "sprite_character_id": "chizuru",
+      "name": "望月千鹤",
+      "label": "傍晚沿海岸散步",
+      "sequence": 5,
+      "file": "assets/cg/beach/heroines-v1/chizuru/05.png",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "render_mode": "standalone",
+      "object_fit": "contain",
+      "object_position": "50% 50%",
+      "rating": "sfw",
+      "category": "beach",
+      "approval": "approved_2026-10-03",
+      "size_bytes": 2555029,
+      "source_name": "千鹤/05_傍晚沿海岸散步.png"
+    }
+  ],
+  "usage": "独立海边CG；按实际活动和人物选择，不能由插画反推新剧情。图片保留通过版原始PNG。"
+}

@@ -6,6 +6,30 @@
       "name": "御影白羽",
       "cover": "mikage_shiraha/cover.webp",
       "manifest": "mikage_shiraha/manifest.json"
+    },
+    {
+      "id": "hoshino_miyu",
+      "name": "星野美羽",
+      "manifest": "hoshino_miyu/manifest.json",
+      "cover": "../beach/heroines-v1/miyu/01.png"
+    },
+    {
+      "id": "fujisaki_ayano",
+      "name": "藤崎绫乃",
+      "manifest": "fujisaki_ayano/manifest.json",
+      "cover": "../beach/heroines-v1/ayano/01.png"
+    },
+    {
+      "id": "mizuki_mio",
+      "name": "水城澪",
+      "manifest": "mizuki_mio/manifest.json",
+      "cover": "../beach/heroines-v1/mio/01.png"
+    },
+    {
+      "id": "mochizuki_chizuru",
+      "name": "望月千鹤",
+      "manifest": "mochizuki_chizuru/manifest.json",
+      "cover": "../beach/heroines-v1/chizuru/01.png"
     }
   ]
 }
